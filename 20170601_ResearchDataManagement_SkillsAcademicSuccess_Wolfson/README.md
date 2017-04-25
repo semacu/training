@@ -2,7 +2,7 @@
 ## Course: Managing your research data
 
 - Date: 1st June 2017, 6-7 pm
-- Location: Roger Needham Room, Wolfson college
+- Location: [Roger Needham Room](http://www.wolfson.cam.ac.uk/tour/chancellorscentre), Wolfson college
 - Workshop: Skills for Academic Success [seminars](http://www.wolfson.cam.ac.uk/study-skills)
 
 
@@ -16,8 +16,8 @@ Researchers and students spend most of their time dedicated to quantitative anal
 
 ### References
 
-- Avoid data disasters course http://bioinformatics-core-shared-training.github.io//avoid-data-disaster/
-- Center for Open Science https://cos.io/
-- GitHub course https://kirstiejane.github.io/friendly-github-intro/
-- Reproducible data science with R https://www.slideshare.net/RevolutionAnalytics/reproducible-data-science-with-r
-- Happy Git and GitHub for the useR http://happygitwithr.com/
+- Avoid data disasters [course](http://bioinformatics-core-shared-training.github.io//avoid-data-disaster/)
+- [Center for Open Science](https://cos.io/)
+- Mozilla Science Lab GitHub [course](https://kirstiejane.github.io/friendly-github-intro/)
+- Reproducible data science with R [slides](https://www.slideshare.net/RevolutionAnalytics/reproducible-data-science-with-r)
+- Happy Git and GitHub for the useR [book](http://happygitwithr.com/)
