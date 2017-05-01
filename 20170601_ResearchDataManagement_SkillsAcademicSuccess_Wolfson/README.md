@@ -13,11 +13,31 @@ Researchers and students spend most of their time dedicated to quantitative anal
 
 ### Contents
 
+- What is research data?
 
-### References
+
+### Slides
+
+[Here](slides.pdf)
+
+
+### Resources
+
+Research data management:
 
 - Avoid data disasters [course](http://bioinformatics-core-shared-training.github.io//avoid-data-disaster/)
+- University of Cambridge - research data management [materials](http://www.data.cam.ac.uk/)
+- University of Leicester - research data [notes](http://www2.le.ac.uk/services/research-data/rdm/what-is-rdm/research-data)
+
+Open science:
+
 - [Center for Open Science](https://cos.io/)
-- Mozilla Science Lab GitHub [course](https://kirstiejane.github.io/friendly-github-intro/)
+
+Data and R:
+
 - Reproducible data science with R [slides](https://www.slideshare.net/RevolutionAnalytics/reproducible-data-science-with-r)
+
+GitHub:
+
+- Mozilla Science Lab [course](https://kirstiejane.github.io/friendly-github-intro/)
 - Happy Git and GitHub for the useR [book](http://happygitwithr.com/)
