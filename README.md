@@ -1,3 +1,3 @@
 ## Training
 
-This repository contains my involvement in recent teaching activities and training courses
+This repository contains my recent teaching activities and training courses
