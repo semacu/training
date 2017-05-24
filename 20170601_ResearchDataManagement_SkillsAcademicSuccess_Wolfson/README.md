@@ -14,9 +14,10 @@ Researchers and students spend most of their time dedicated to quantitative anal
 ### Contents
 
 - What is research data?
-- Why managing your data can be helpful to you and others?
+- Why managing your data can be useful for you and others?
 - Challenges
-- How to organise your data well
+- Gaining confidence to organise your data well
+- Existing resources and tools
 
 
 ### Slides
@@ -24,7 +25,7 @@ Researchers and students spend most of their time dedicated to quantitative anal
 [Here](slides.pdf)
 
 
-### Resources
+### Extra materials and references
 
 Research data management:
 
@@ -52,5 +53,6 @@ GitHub:
 
 Images used for the talk:
 
+- Lost [bag](https://blogs.ch.cam.ac.uk/pmr/2011/08/01/why-you-need-a-data-management-plan/)
 - CRUK Manchester [fire](http://www.itv.com/news/granada/2017-04-26/fire-breaks-out-at-manchester-christie-cancer-research-building/)
 
