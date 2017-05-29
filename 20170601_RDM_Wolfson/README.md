@@ -25,7 +25,11 @@ Researchers and students spend most of their time dedicated to quantitative anal
 [Here](slides.pdf)
 
 
-### Extra materials and references
+### Materials and references
+
+Wolfson IT:
+
+- IT facilities at Wolfson [pages](http://www.wolfson.cam.ac.uk/Computers)
 
 Research data management:
 
@@ -51,7 +55,7 @@ GitHub:
 - Mozilla Science Lab [course](https://kirstiejane.github.io/friendly-github-intro/)
 - Happy Git and GitHub for the useR [book](http://happygitwithr.com/)
 
-Images used for the talk:
+Some images used in the talk:
 
 - Lost [bag](https://blogs.ch.cam.ac.uk/pmr/2011/08/01/why-you-need-a-data-management-plan/)
 - CRUK Manchester [fire](http://www.itv.com/news/granada/2017-04-26/fire-breaks-out-at-manchester-christie-cancer-research-building/)
