@@ -27,6 +27,11 @@ Researchers and students spend most of their time dedicated to quantitative anal
 
 ### Materials and references
 
+Data backups and files sharing:
+
+- [Dropbox](http://www.uis.cam.ac.uk/initiatives/storage-strategy/dropbox-business)
+- [OneDrive](http://www.uis.cam.ac.uk/initiatives/ees/onedrive)
+
 Wolfson IT:
 
 - IT facilities at Wolfson [pages](http://www.wolfson.cam.ac.uk/Computers)
@@ -59,4 +64,3 @@ Some images used in the talk:
 
 - Lost [bag](https://blogs.ch.cam.ac.uk/pmr/2011/08/01/why-you-need-a-data-management-plan/)
 - CRUK Manchester [fire](http://www.itv.com/news/granada/2017-04-26/fire-breaks-out-at-manchester-christie-cancer-research-building/)
-
