@@ -40,6 +40,8 @@ Research data management:
 
 - Avoid data disasters [course](http://bioinformatics-core-shared-training.github.io//avoid-data-disaster/)
 - University of Cambridge - research data management [materials](http://www.data.cam.ac.uk/)
+- FAIR [principles](https://www.nature.com/articles/sdata201618)
+- File naming [conventions](http://www.data.cam.ac.uk/files/gdl_tilsdocnaming_v1_20090612.pdf)
 - University of Leicester - research data [notes](http://www2.le.ac.uk/services/research-data/rdm/what-is-rdm/research-data)
 - Managing the analysis of high-throughput sequencing data by [Quilez J. et al.](http://biorxiv.org/content/early/2017/05/10/136358)
 
