@@ -2,7 +2,7 @@
 ## Workshop: Managing your research data
 
 - Date: 1st June 2017, 6-7 pm
-- Location: [Roger Needham Room](http://www.wolfson.cam.ac.uk/tour/chancellorscentre), [Wolfson college](https://goo.gl/maps/aR6a5FWrLoR2)
+- Location: [Roger Needham Room](http://www.wolfson.cam.ac.uk/tour/chancellorscentre), [Wolfson college](https://goo.gl/maps/aR6a5FWrLoR2), University of Cambridge, UK
 - Series: Skills for Academic Success spring term [seminars](http://www.wolfson.cam.ac.uk/study-skills)
 
 
