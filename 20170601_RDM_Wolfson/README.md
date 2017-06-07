@@ -1,9 +1,11 @@
 
 ## Workshop: Managing your research data
 
-- Date: 1st June 2017, 6-7 pm
-- Location: [Roger Needham Room](http://www.wolfson.cam.ac.uk/tour/chancellorscentre), [Wolfson college](https://goo.gl/maps/aR6a5FWrLoR2), University of Cambridge, UK
-- Series: Skills for Academic Success spring term [seminars](http://www.wolfson.cam.ac.uk/study-skills)
+Dates and location:
+
+- 1st June 2017 (6-7 pm), [Roger Needham Room](http://www.wolfson.cam.ac.uk/tour/chancellorscentre), Skills for Academic Success easter term [seminars](http://www.wolfson.cam.ac.uk/study-skills), [Wolfson college](https://goo.gl/maps/aR6a5FWrLoR2), University of Cambridge, UK
+
+- 12th June 2017 (6-7 pm), [Roger Needham Room](http://www.wolfson.cam.ac.uk/tour/chancellorscentre), Data Science group, [Wolfson college](https://goo.gl/maps/aR6a5FWrLoR2), University of Cambridge, UK
 
 
 ### Summary
@@ -66,3 +68,9 @@ Some images used in the talk:
 
 - Lost [bag](https://blogs.ch.cam.ac.uk/pmr/2011/08/01/why-you-need-a-data-management-plan/)
 - CRUK Manchester [fire](http://www.itv.com/news/granada/2017-04-26/fire-breaks-out-at-manchester-christie-cancer-research-building/)
+
+
+### TODO
+
+Include https://twitter.com/myusuf3/status/865722106071453696
+
