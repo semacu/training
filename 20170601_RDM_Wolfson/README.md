@@ -27,6 +27,11 @@ Researchers and students spend most of their time dedicated to quantitative anal
 [Here](slides.pdf)
 
 
+### Wolfson Data Science Group mailing list
+
+Sign-up [here](https://lists.cam.ac.uk/mailman/listinfo/wolfson-data)
+
+
 ### Materials and references
 
 Data backups and files sharing:
