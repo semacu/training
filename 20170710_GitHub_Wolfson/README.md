@@ -1,29 +1,66 @@
-## An introduction to GitHub
+# An introduction to GitHub
 
 - Date: 10th July 2017, 6-7pm
-- Location: TBD, [Wolfson College](http://www.wolfson.cam.ac.uk/), University of Cambridge, UK
-- Series: Data Science group, Wolfson College, University of Cambridge, UK
+- Location: Room [Plommer A](http://www.wolfson.cam.ac.uk/plommer-house), [Wolfson College](http://www.wolfson.cam.ac.uk/), University of Cambridge, UK
+- Series: Data Science [Group](https://www.facebook.com/groups/395500144179243/), Wolfson College, University of Cambridge, UK
 
 
-## Contents
+## Wolfson College Data Science Group
 
-- What is git? What is github? What is version control? 
+Sign-up to our mailing list [here](https://lists.cam.ac.uk/mailman/listinfo/wolfson-data)
+
+
+## Overview
+
+- What is git? What is github? What is version control?
 - How can it be useful for early career researchers?
 - Practical: create your first repository
 
 
 ## What is git? What is github? What is version control?
 
-Web-based git:
+[Github](https://en.wikipedia.org/wiki/GitHub) is web-based git:
 
-- git: Repository that enables you to store a set of files, as well the list of changes made to those files (version control) (https://git-scm.com/).
-- Web-based: internet hosting service
+- git: version control system that enables you to store a set of files, as well the list of changes made to those files (https://git-scm.com/).
+- web-based: internet hosting service
 
-Changes are usually identified by a number named the "revision number". Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged. 
+Changes are usually identified by a number named the *revision number*. Each revision is associated with a *timestamp* and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
 
-Version control systems like subversion (svn) and git are frequently used for groups writing software and code, but can be used for any kind of files or projects.
+Version control systems are frequently used for groups writing software and code, but can be used for any kind of files or projects.
 
-https://en.wikipedia.org/wiki/GitHub
+Another software for version control is subversion ([svn](https://en.wikipedia.org/wiki/Apache_Subversion))
+
+
+### Public (free) and private repositories
+
+A user has to create an account in order to contribute content to the site, but public repositories can be browsed and downloaded by anyone.
+
+Pricing of plans for [private repositories](https://github.com/pricing). Developer plan is free for [students](https://education.github.com/pack).
+
+There are alternatives to github, e.g. gitlab, which uses a different business model with free private repositories and cost plans for public ones.
+
+
+### Features
+
+General:
+
+- Documentation
+- Issues
+- Pull requests
+- History of commits
+- Email notifications
+- Github pages
+
+Social-network like:
+
+- Wikis
+- Feeds
+- Followers
+
+
+### Markdown
+
+A lightweight markup language with plain text formatting ssyntax. See example [here](https://en.wikipedia.org/wiki/Markdown)
 
 
 
@@ -45,11 +82,19 @@ http://mikelove.github.io/
 
 - https://bebatut-slides.github.io/backofen_lab_retreat_04_17/#/
 - https://github.com/bebatut-slides/backofen_lab_retreat_04_17
+- my slides
+
+### Sharing your research code
 
 
 
 ## Practical: create your first github repository
 
+
+
+## License
+
+This work is distributed under a [CC-BY license](https://en.wikipedia.org/wiki/Creative_Commons_license). Anyone may copy, distribute, display and perform the work and make derivative works and remixes based on it only if they give the author attribution.
 
 
 
@@ -66,7 +111,7 @@ Courses:
 - A Friendly Github Intro Workshop:
 	- [Materials](https://kirstiejane.github.io/friendly-github-intro/)
 	- Links to [course1](https://training.cam.ac.uk/event/2118546) and [course2](https://training.cam.ac.uk/event/1878054)
-	
+
 - Revision Control with Git [course](https://training.cam.ac.uk/event/1948859)
 
 
@@ -74,5 +119,5 @@ Courses:
 
 ## TODO
 
-- Include image of github in intro
-
+- Include Octocat in intro
+- Include CC-By icon
