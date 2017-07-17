@@ -6,9 +6,15 @@
 
 ## Overview
 
-The course was delivered in collaboration with Mark Dunning and Anne Pajon. I covered the data and file management part of the discussion and you can find the slides [here](20170712_FileManagement.pdf).
+The course was delivered in collaboration with [Mark Dunning](https://github.com/markdunning) and [Anne Pajon](https://github.com/pajanne). I covered the data and [file management part](20170712_FileManagement.pdf) of the discussion.
 
-All the contents and materials for the course are available [here](https://datachampcam.github.io/avoid-data-disaster/).
+See all course [contents and materials](https://datachampcam.github.io/avoid-data-disaster/) and [feedback](20170712_feedback.csv).
 
-<img src="20170712_AvoidDataDisasters_image1.jpg" width="800">
+<img src="20170712_AvoidDataDisasters_image1.jpg" width="700">
+
+
+## TODO
+
+- [Zenodo](https://zenodo.org/) to get DOI for materials hosted in GitHub
+- [Google forms](https://www.google.co.uk/forms/about/) to get feedback from participants
 
