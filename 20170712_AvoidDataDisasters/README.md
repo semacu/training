@@ -1,4 +1,4 @@
-# Avoiding Data Disasters
+# Avoiding Data Disasters: best practices for biological sciences
 
 - Date: 12th July 2017, 1:30 - 4:30pm
 - Location: Room 2015, Cancer Research UK - Cambridge Institute ([CRUK-CI](http://www.cruk.cam.ac.uk/)), University of Cambridge, UK
