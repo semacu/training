@@ -4,6 +4,7 @@
 R courses:
 
 - [Basic statistics and data handling with R](https://github.com/cambiotraining/stats-intro)
+- [Scripting for data analysis (with R)](https://github.com/mrtnj/scripting_for_data_analysis)
 - [An Introduction to Solving Biological Problems with R](http://cambiotraining.github.io/r-intro/)
 - [Data Analysis and Visualisation using R](http://bioinformatics-core-shared-training.github.io/r-intermediate/): including dplyr and ggplot2
 - Babraham institute basic/advanced R and ggplot2 [courses](http://www.bioinformatics.babraham.ac.uk/training/)
