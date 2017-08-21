@@ -15,3 +15,4 @@ R courses:
 R blogs:
 
 - [End-to-end visualization using ggplot2](https://rviews.rstudio.com/2017/08/14/end-to-end-visualization-using-ggplot2/)
+- [ggplot2 - Easy way to mix multiple graphs on the same page](http://www.sthda.com/english/wiki/ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page)
