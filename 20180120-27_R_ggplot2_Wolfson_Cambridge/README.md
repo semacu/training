@@ -1,5 +1,22 @@
+## Introduction to R and ggplot2
 
-## Materials
+- Dates: 
+  - 20th January 2018, 9:30am - 13:30pm (R)
+  - 27th January 2018, 9:30am - 13:30pm (ggplot2)
+- Location: [Roger Needham Room](http://www.wolfson.cam.ac.uk/tour/chancellorscentre), [Wolfson college](https://goo.gl/maps/aR6a5FWrLoR2), University of Cambridge, UK
+
+
+### Overview
+
+Under construction ...
+
+
+### Programme
+
+Under construction ...
+
+
+### Materials
 
 R courses:
 
@@ -16,3 +33,7 @@ R blogs:
 
 - [End-to-end visualization using ggplot2](https://rviews.rstudio.com/2017/08/14/end-to-end-visualization-using-ggplot2/)
 - [ggplot2 - Easy way to mix multiple graphs on the same page](http://www.sthda.com/english/wiki/ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page)
+
+
+### TODO
+
