@@ -53,6 +53,10 @@ Research data management:
 - Managing the analysis of high-throughput sequencing data by [Quilez J. et al.](http://biorxiv.org/content/early/2017/05/10/136358)
 - EUDAT & Research Data Management Summer School [Programme](https://eudat.eu/summer-school-programme)
 
+File naming:
+
+- Jenny Bryan reproducible science [workshop](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf)
+
 Open science and reproducibility:
 
 - Five selfish reasons to work reproducibly by [Markowetz F.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7)
