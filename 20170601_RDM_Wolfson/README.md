@@ -51,6 +51,7 @@ Research data management:
 - File naming [conventions](http://www.data.cam.ac.uk/files/gdl_tilsdocnaming_v1_20090612.pdf)
 - University of Leicester - research data [notes](http://www2.le.ac.uk/services/research-data/rdm/what-is-rdm/research-data)
 - Managing the analysis of high-throughput sequencing data by [Quilez J. et al.](http://biorxiv.org/content/early/2017/05/10/136358)
+- EUDAT & Research Data Management Summer School [Programme](https://eudat.eu/summer-school-programme)
 
 Open science and reproducibility:
 
