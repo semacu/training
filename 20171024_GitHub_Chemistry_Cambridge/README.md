@@ -15,3 +15,9 @@ Papers:
 
 Websites:
 - [git](https://git-scm.com/)
+
+
+## TODO
+
+- Create advertising slide
+
