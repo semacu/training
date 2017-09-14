@@ -18,6 +18,10 @@ Under construction ...
 
 ### Materials
 
+R books:
+
+- [Data Visualization for Social Science. A practical introduction with R and ggplot2](http://socviz.co/)
+
 R courses:
 
 - [Basic statistics and data handling with R](https://github.com/cambiotraining/stats-intro)
