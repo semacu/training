@@ -8,6 +8,7 @@ Do you have an ORCID? Are you sure how best to use it? Your Department of Chemis
 ### Materials
 
 - [Six Ways to Make Your ORCID iD Work for You!](http://orcid.org/blog/2017/08/10/six-ways-make-your-orcid-id-work-you)
+- [Ten reasons to get - and use - an ORCID iD!](https://www.elsevier.com/connect/authors-update/ten-reasons-to-get-and-use-an-orcid-id!)
 
 ### TODO
 
