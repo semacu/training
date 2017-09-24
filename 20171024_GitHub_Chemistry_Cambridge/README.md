@@ -15,9 +15,10 @@ Papers:
 
 Websites:
 - [git](https://git-scm.com/)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 
 ## TODO
 
-- Create advertising slide
+- Create advertising slide and send it to Clair and Deborah
 
