@@ -5,6 +5,7 @@ Books:
 - [Happy Git and GitHub for the useR](http://happygitwithr.com/)
 
 Courses:
+- [Software Carpentry](https://software-carpentry.org/workshops/)
 - [A Friendly Introduction to GitHub](https://kirstiejane.github.io/friendly-github-intro/)
 - [A quick introduction to Git and GitHub](http://www.datacarpentry.org/semester-biology/materials/git-in-30-minutes/)
 - [Version Control with Git](https://swcarpentry.github.io/git-novice/)
