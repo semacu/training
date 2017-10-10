@@ -12,3 +12,7 @@ All materials available [here](https://github.com/semacu/python-functions-and-mo
 This is a one-day continuation course of the [Introduction to Solving Biological Problems with Python](https://github.com/pycam/python-basic).
 
 ### [License](https://github.com/semacu/python-functions-and-modules/blob/master/LICENSE)
+
+<p align="center">
+  <img src=python.png width="300">
+</p>
