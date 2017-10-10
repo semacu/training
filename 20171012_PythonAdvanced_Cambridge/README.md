@@ -1,4 +1,4 @@
-## Working with Python: functions and modules
+## Working with Python in biological sciences: functions and modules
 
 - Date: 12th October 2017, 9:30am - 17:30pm
 - Location: [Bioinformatics Training Room, Craik-Marshall Building, Downing Site](https://www.google.co.uk/maps/search/Craik-Marshall+Building,+Downing+Site,+Cambridge/@52.202042,0.1201856,17z/data=!3m1!4b1?hl=en-GB), University of Cambridge, UK
