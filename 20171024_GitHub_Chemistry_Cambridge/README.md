@@ -15,7 +15,7 @@ Are you interested in learning Git and GitHub to manage your code and research d
 - How can it be useful for you?
 - Practical session: working with GitHub
 
-All workshop materials are available [here]().
+Please bring your own laptop or mobile device to follow the practical part. All workshop materials are available [here]().
 
 *Refreshments will be provided*
 
