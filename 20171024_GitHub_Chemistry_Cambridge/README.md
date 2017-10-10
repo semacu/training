@@ -1,5 +1,26 @@
 
-## Materials
+<img align="right" src=labtocat.png width="200">
+
+## An introduction to GitHub for chemists
+
+- Date: 24th October 2017, 3 - 4pm
+- Location: [Unilever Lecture Theatre, Department of Chemistry](https://www.google.co.uk/maps/place/Department+of+Chemistry,+University+of+Cambridge/@52.197861,0.1233163,17z/data=!3m1!4b1!4m5!3m4!1s0x47d87099683bd269:0xd9d90c335a84ddd!8m2!3d52.197861!4d0.125505), University of Cambridge, UK
+- Sign up [here](https://www.training.cam.ac.uk/event/2307013)
+
+### Overview
+
+Are you interested in learning Git and GitHub to manage your code and research data? This introductory workshop will be covering the following:
+
+- What is Git? What is GitHub? What is version control?
+- How can it be useful for you?
+- Practical session: working with GitHub
+
+All workshop materials are available [here]().
+
+*Refreshments will be provided*
+
+
+### Additional reference materials
 
 Books:
 - [Happy Git and GitHub for the useR](http://happygitwithr.com/)
