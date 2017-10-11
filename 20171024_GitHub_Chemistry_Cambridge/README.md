@@ -40,7 +40,8 @@ Websites:
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 
-## TODO
+### License
 
-- Create advertising slide and send it to Clair and Deborah
+This work is distributed under a [CC-BY license](https://en.wikipedia.org/wiki/Creative_Commons_license). Anyone may copy, distribute, display and perform the work and make derivative works and remixes based on it only if they give the author attribution.
 
+<img src=UniversityCambridge_logo.png height="50"> <img src=CRUKCI_logo.jpg height="50"> <img src=Jisc_logo.png height="50"> <img src=WellcomeTrust_logo.jpg height="25">
