@@ -14,5 +14,9 @@ This is a one-day continuation course of the [Introduction to Solving Biological
 ### [License](https://github.com/semacu/python-functions-and-modules/blob/master/LICENSE)
 
 <p align="center">
-  <img src=IMG_20171012_145918.jpg width="200"> <img src=python.png width="200"> <img src=IMG_20171012_145948.jpg width="200">
+  <img src=IMG_20171012_145918.jpg width="200"> <img src=IMG_20171012_145948.jpg width="200">
+</p>
+
+<p align="center">
+  <img src=python.png width="400">
 </p>
