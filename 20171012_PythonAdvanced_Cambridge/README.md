@@ -18,5 +18,5 @@ This is a one-day continuation course of the [Introduction to Solving Biological
 </p>
 
 <p align="center">
-  <img src=python.png width="400">
+  <img src=python.png width="300">
 </p>
