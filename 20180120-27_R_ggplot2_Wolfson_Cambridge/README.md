@@ -20,6 +20,7 @@ Under construction ...
 
 R books:
 
+- [R for Data Science](http://r4ds.had.co.nz/)
 - [Data Visualization for Social Science. A practical introduction with R and ggplot2](http://socviz.co/)
 
 R courses:
