@@ -6,27 +6,47 @@
 - Date: 24th October 2017, 3 - 4pm
 - Location: [Unilever Lecture Theatre, Department of Chemistry](https://www.google.co.uk/maps/place/Department+of+Chemistry,+University+of+Cambridge/@52.197861,0.1233163,17z/data=!3m1!4b1!4m5!3m4!1s0x47d87099683bd269:0xd9d90c335a84ddd!8m2!3d52.197861!4d0.125505), University of Cambridge, UK
 - Sign up [here](https://www.training.cam.ac.uk/event/2307013)
+- Please bring your own laptop or mobile device to follow the practical part
+- All workshop materials are available here: http://tinyurl.com/2017githubchemistry
+- *Refreshments will be provided*
+
 
 ### Overview
 
 Are you interested in learning Git and GitHub to manage your code and research data? This introductory workshop will be covering the following:
 
+- Background and motivation
 - What is Git? What is GitHub? What is version control?
 - How can it be useful for you?
 - Practical session: working with GitHub
 
-Please bring your own laptop or mobile device to follow the practical part. All workshop materials are available [here]().
 
-*Refreshments will be provided*
+### Background and motivation
+
+Team work often means unnecessary work for some:
+
+- Multiple versions of the same file (e.g. research manuscript)
+- Many people working on it (you, your lab colleague, your group leader, collaborators abroad ...)
+
+<p align="center">
+<img src=images/finaldoc.gif width="600">
+</p>
 
 
 
 ### What is Git? What is GitHub? What is version control?
 
-[Github](https://en.wikipedia.org/wiki/GitHub) is a free and open source platform that can help you build projects that are collaborative, well documented, and version-controlled. In practical terms, it is a web-based Git:
+[Git](https://git-scm.com/) is a free and open source *distributed version control system* that allows you:
 
-- Git: version control system that enables you to store a set of files, as well the list of changes made to those files (https://git-scm.com/).
-- Web-based: internet hosting service
+- To track changes in files and folders
+- To collaborate with others
+
+<p align="center">
+<img src=images/dvcs.png width="800">
+</p>
+
+
+[Github](https://en.wikipedia.org/wiki/GitHub) is a web platform that allows you to upload and manage your repositories online.
 
 Changes are identified by a number named the *revision number*. Each revision is associated with a *timestamp* and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
 
@@ -219,4 +239,4 @@ This work is distributed under a [CC-BY license](https://en.wikipedia.org/wiki/C
 
 <p align="center">
 <img src=images/UniversityCambridge_logo.png height="50"> <img src=images/CRUKCI_logo.jpg height="50"> <img src=images/Jisc_logo.png height="50"> <img src=images/WellcomeTrust_logo.jpg height="50">
- </p>
+</p>
