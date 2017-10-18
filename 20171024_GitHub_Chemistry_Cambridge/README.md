@@ -15,10 +15,10 @@
 
 Are you interested in learning Git and GitHub to manage your code and research data? This introductory workshop will be covering the following:
 
-- [Background and motivation](20171024_GitHub_Chemistry_Cambridge#background-and-motivation)
-- [What is Git? What is GitHub? What is version control?](20171024_GitHub_Chemistry_Cambridge#what-is-git-what-is-github-what-is-version-control)
-- [How can it be useful for you?](20171024_GitHub_Chemistry_Cambridge#how-can-it-be-useful-for-you)
-- [Practical session: working with Git and GitHub](20171024_GitHub_Chemistry_Cambridge#practical-working-with-git-and-github)
+- [Background and motivation](README.md#background-and-motivation)
+- [What is Git? What is GitHub? What is version control?](README.md#what-is-git-what-is-github-what-is-version-control)
+- [How can it be useful for you?](README.md#how-can-it-be-useful-for-you)
+- [Practical session: working with Git and GitHub](README.md#practical-working-with-git-and-github)
 
 
 ### Background and motivation
@@ -34,7 +34,6 @@ Are you interested in learning Git and GitHub to manage your code and research d
 </p>
 
 
-
 ### What is Git? What is GitHub? What is version control?
 
 [Git](https://git-scm.com/) is a free and open source *distributed version control system* that allows you:
@@ -46,6 +45,9 @@ Are you interested in learning Git and GitHub to manage your code and research d
 <img src=images/dvcs.png width="800">
 </p>
 
+<p align="right">
+(adapted from http://lhzuigao.com/309note.html)
+</p>
 
 [Github](https://en.wikipedia.org/wiki/GitHub) is a web platform that allows you to upload and manage your repositories online.
 
