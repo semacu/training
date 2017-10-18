@@ -33,11 +33,15 @@ Are you interested in learning Git and GitHub to manage your code and research d
 <img src=images/finaldoc.gif width="600">
 </p>
 
+<p align="right">
+(http://phdcomics.com/comics/archive_print.php?comicid=1531)
+</p>
 
 ### What is Git? What is GitHub? What is version control?
 
 [Git](https://git-scm.com/) is a free and open source *distributed version control system* that allows you:
 
+- To create repositories to host your projects
 - To track changes in files and folders
 - To collaborate with others
 
