@@ -15,18 +15,19 @@
 
 Are you interested in learning Git and GitHub to manage your code and research data? This introductory workshop will be covering the following:
 
-- Background and motivation
-- What is Git? What is GitHub? What is version control?
-- How can it be useful for you?
-- Practical session: working with GitHub
+- [Background and motivation](20171024_GitHub_Chemistry_Cambridge#background-and-motivation)
+- [What is Git? What is GitHub? What is version control?](20171024_GitHub_Chemistry_Cambridge#what-is-git-what-is-github-what-is-version-control)
+- [How can it be useful for you?](20171024_GitHub_Chemistry_Cambridge#how-can-it-be-useful-for-you)
+- [Practical session: working with Git and GitHub](20171024_GitHub_Chemistry_Cambridge#practical-working-with-git-and-github)
 
 
 ### Background and motivation
 
-Team work often means unnecessary work for some:
+- *A platform to share your work with colleagues, collaborators abroad and beyond*
 
-- Multiple versions of the same file (e.g. research manuscript)
-- Many people working on it (you, your lab colleague, your group leader, collaborators abroad ...)
+- *Team work often means unnecessary work for some:*
+  - Multiple versions of the same file (e.g. research manuscript or computer script)
+  - Many people working on it at the same time (you, your lab colleague, your group leader, collaborators abroad ...)
 
 <p align="center">
 <img src=images/finaldoc.gif width="600">
@@ -128,7 +129,7 @@ Some groups release the computer code associated to a paper when manuscripts are
 
 
 
-### Practical: working with GitHub
+### Practical: working with Git and GitHub
 
 #### Create a new GitHub account
 
