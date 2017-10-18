@@ -42,7 +42,7 @@ Are you interested in learning Git and GitHub to manage your code and research d
 - To collaborate with others
 
 <p align="center">
-<img src=images/dvcs.png width="800">
+<img src=images/vcs.png width="800">
 </p>
 
 <p align="right">
