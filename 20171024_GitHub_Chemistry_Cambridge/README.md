@@ -13,7 +13,7 @@
 
 ### Overview
 
-Are you interested in learning Git and GitHub to manage your code and research data? This introductory workshop will be covering the following:
+Are you interested in learning Git and GitHub to manage your code, manuscripts or research data? This introductory workshop will be covering the following:
 
 - [Background and motivation](README.md#background-and-motivation)
 - [What is Git? What is GitHub? What is version control?](README.md#what-is-git-what-is-github-what-is-version-control)
@@ -23,11 +23,13 @@ Are you interested in learning Git and GitHub to manage your code and research d
 
 ### Background and motivation
 
-- *A platform to share your work with colleagues, collaborators abroad and beyond*
+- *A system to keep track and compare the history of changes made to your files (versions)*
+
+- *A platform to share and showcase your work online with colleagues and beyond*
 
 - *Team work often means unnecessary work for some:*
-  - Multiple versions of the same file (e.g. research manuscript or computer script)
-  - Many people working on it at the same time (you, your lab colleague, your group leader, collaborators abroad ...)
+  - Many people working on the same file at the same time (you, your lab colleague, your group leader, collaborators abroad ...)
+  - Multiple versions of it (e.g. research manuscript, computer script ...)
 
 <p align="center">
 <img src=images/finaldoc.gif width="600">
@@ -37,9 +39,9 @@ Are you interested in learning Git and GitHub to manage your code and research d
 (http://phdcomics.com/comics/archive_print.php?comicid=1531)
 </p>
 
-### What is Git? What is GitHub? What is version control?
+### What is Git? What is version control? What is GitHub?
 
-[Git](https://git-scm.com/) is a free and open source *distributed version control system* that allows you:
+[Git](https://git-scm.com/) is a **free and open source** *distributed version control system* that allows you:
 
 - To create repositories to host your projects
 - To track changes in files and folders
@@ -53,7 +55,11 @@ Are you interested in learning Git and GitHub to manage your code and research d
 (adapted from http://lhzuigao.com/309note.html)
 </p>
 
-[Github](https://en.wikipedia.org/wiki/GitHub) is a web platform that allows you to upload and manage your repositories online.
+Advantages of *distributed* over *centralised* version control systems involve:
+- If the central repository (server) crashes, it could be recovered from any of the local repositories created by the researcher, collaborator or group leader.
+- Each person can make changes to their local repositories *offline*. Then integrate their individual changes in the central repository (server) when they are *online*.
+
+[Github](https://en.wikipedia.org/wiki/GitHub) is a web platform that allows you to upload and manage your repositories online (Hub).
 
 Changes are identified by a number named the *revision number*. Each revision is associated with a *timestamp* and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
 
@@ -62,7 +68,7 @@ Version control systems are frequently used for groups writing software and code
 Another software for version control is subversion ([svn](https://en.wikipedia.org/wiki/Apache_Subversion)).
 
 
-#### Interfaces to github
+#### Interfaces to GitHub
 
 - Directly [online](http://github.com/)
 - Via the command line using *git*
