@@ -6,7 +6,7 @@
 - Date: 24th October 2017, 3 - 4pm
 - Location: [Unilever Lecture Theatre, Department of Chemistry](https://www.google.co.uk/maps/place/Department+of+Chemistry,+University+of+Cambridge/@52.197861,0.1233163,17z/data=!3m1!4b1!4m5!3m4!1s0x47d87099683bd269:0xd9d90c335a84ddd!8m2!3d52.197861!4d0.125505), University of Cambridge, UK
 - Sign up [here](https://www.training.cam.ac.uk/event/2307013)
-- Please bring your own laptop or mobile device to follow the practical part
+- Please bring your laptop or mobile device if you'd like to follow the practical part
 - All workshop materials are available here: http://tinyurl.com/2017githubchemistry
 - *Refreshments will be provided*
 
@@ -16,7 +16,7 @@
 Are you interested in learning Git and GitHub to manage your code, manuscripts or research data? This introductory workshop will be covering the following:
 
 - [Background and motivation](README.md#background-and-motivation)
-- [What is Git? What is GitHub? What is version control?](README.md#what-is-git-what-is-github-what-is-version-control)
+- [What is Git? What is version control? What is GitHub?](README.md#what-is-git-what-is-version-control-what-is-github)
 - [How can it be useful for you?](README.md#how-can-it-be-useful-for-you)
 - [Practical session: working with Git and GitHub](README.md#practical-working-with-git-and-github)
 
@@ -39,13 +39,24 @@ Are you interested in learning Git and GitHub to manage your code, manuscripts o
 (http://phdcomics.com/comics/archive_print.php?comicid=1531)
 </p>
 
+The lifetime of a project:
+- Project v1
+- Project v2
+- Project v3
+- ...
+- Project v25
+- ...
+
+
 ### What is Git? What is version control? What is GitHub?
 
-[Git](https://git-scm.com/) is a **free and open source** *distributed version control system* that allows you:
+[Git](https://git-scm.com/) is a **free and open source** *distributed version control system*, which allows you to:
 
-- To create repositories to host your projects
-- To track changes in files and folders
-- To collaborate with others
+- Create repositories to host your projects using the [command-line](https://en.wikipedia.org/wiki/Command-line_interface)
+- Track changes in the files and folders within your repositories
+
+
+Version control systems were originally created by groups writing software and code (e.g. Linux project), but can be used for any kind of files or projects. Git allows you:
 
 <p align="center">
 <img src=images/vcs.png width="800">
@@ -56,22 +67,24 @@ Are you interested in learning Git and GitHub to manage your code, manuscripts o
 </p>
 
 Advantages of *distributed* over *centralised* version control systems involve:
-- If the central repository (server) crashes, it could be recovered from any of the local repositories created by the researcher, collaborator or group leader.
-- Each person can make changes to their local repositories *offline*. Then integrate their individual changes in the central repository (server) when they are *online*.
+- If the central repository (server) crashes, it could be recovered / backed up from any of the local repositories created by the researcher, collaborator or group leader.
+- Each person can make changes to their local repositories *offline*. Then integrate their individual changes in the central repository (server) when connected *online*.
 
-[Github](https://en.wikipedia.org/wiki/GitHub) is a web platform that allows you to upload and manage your repositories online (Hub).
+[Github](https://en.wikipedia.org/wiki/GitHub) is a web platform that allows you to upload and manage your local or central repositories online (Hub). GitHub provides:
+
+- A backup of your repositories
+- A nice visual interface to your repositories
+- A way to collaborate with others
 
 Changes are identified by a number named the *revision number*. Each revision is associated with a *timestamp* and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
 
-Version control systems are frequently used for groups writing software and code, but can be used for any kind of files or projects.
-
-Another software for version control is subversion ([svn](https://en.wikipedia.org/wiki/Apache_Subversion)).
+There are other softwares for version control, e.g. subversion ([svn](https://en.wikipedia.org/wiki/Apache_Subversion)).
 
 
-#### Interfaces to GitHub
+#### Interfaces to Git and GitHub
 
-- Directly [online](http://github.com/)
 - Via the command line using *git*
+- Directly [online](http://github.com/)
 - Github [desktop](https://desktop.github.com/)
 
 
