@@ -127,7 +127,8 @@ These are many ways how people use Git and GitHub.
   - Research slides by [Bérénice Batut](https://bebatut-slides.github.io/backofen_lab_retreat_04_17/#/).
   - The Balasubramanian laboratory [computational projects](https://github.com/sblab-bioinformatics).
   - The Bender group [GitHub page](https://github.com/BenderGroup).
-  - The BWA software to align DNA sequences to reference genomes is available [here](https://github.com/lh3/bwa).
+  - The source code of the BWA software, which aligns DNA sequences to reference genomes, is available [here](https://github.com/lh3/bwa).
+  - The source code of the PIDGIN software, which predicts protein targets for drug-like molecules, is available [here](https://github.com/lhm30/PIDGINv2)
 
 - To create websites
   - Using [GitHub pages]((https://pages.github.com/)) to create your personal research [website](http://mikelove.github.io/).
