@@ -128,7 +128,7 @@ These are many ways how people use Git and GitHub.
   - The Balasubramanian laboratory [computational projects](https://github.com/sblab-bioinformatics).
   - The Bender group [GitHub page](https://github.com/BenderGroup).
   - The source code of the BWA software, which aligns DNA sequences to reference genomes, is available [here](https://github.com/lh3/bwa).
-  - The source code of the PIDGIN software, which predicts protein targets for drug-like molecules, is available [here](https://github.com/lhm30/PIDGINv2)
+  - The source code of the PIDGIN software, which predicts protein targets for drug-like molecules, is available [here](https://github.com/lhm30/PIDGINv2).
 
 - To create websites
   - Using [GitHub pages]((https://pages.github.com/)) to create your personal research [website](http://mikelove.github.io/).
@@ -142,6 +142,29 @@ These are many ways how people use Git and GitHub.
 
 - Most projects have both an experimental and a computational leader
 - Classical ways of sharing are: conversations/meetings, email, DropBox, common/shared folders ...
+- An environment where:
+  - Computational colleagues can share code and results, review work of others and get credit from their collaborative project work.
+  - Experimental colleagues can follow development, access results and learn computational methods.
+
+- Reproducibility in our computational research to avoid situations like ...
+
+<p align="center">
+<img src=images/reproducibility.gif width="800">
+</p>
+
+<p align="right">
+(http://phdcomics.com/comics.php?f=1689)
+</p>
+
+- A happier lifetime for a project:
+
+<p align="center">
+<img src=images/project_timeline.png width="800">
+</p>
+
+<p align="right">
+(https://github.com/semacu/talks/tree/master/20170703_GitHubintheLab_CRUK-CI)
+</p>
 
 
 
