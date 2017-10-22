@@ -39,13 +39,13 @@ Are you interested in learning Git and GitHub to manage your code, manuscripts o
 (http://phdcomics.com/comics/archive_print.php?comicid=1531)
 </p>
 
-The lifetime of a project:
-- Project v1
-- Project v2
-- Project v3
-- ...
-- Project v25
-- ...
+Mood during the lifetime of a project:
+- v1 :smile:
+- v2 :wink:
+- v3 :expressionless:
+- ... :pensive:
+- v25 :sob:
+- ... :scream:
 
 
 ## What is Git? What is version control? What is GitHub?
@@ -119,7 +119,9 @@ GitHub uses Markdown, a language with plain text formatting syntax, to render pa
 
 ## How can Git and GitHub be useful for you?
 
-These are many ways how people use Git and GitHub. Here are some examples:
+### Some examples
+
+These are many ways how people use Git and GitHub.
 
 - To host and share your research outputs, software or training materials
   - Research slides by [Bérénice Batut](https://bebatut-slides.github.io/backofen_lab_retreat_04_17/#/).
@@ -133,6 +135,12 @@ These are many ways how people use Git and GitHub. Here are some examples:
   
 - To share the contents of a book
   - The Bioinformatics Data Skills [book](http://shop.oreilly.com/product/0636920030157.do) shares materials in a dedicated GitHub [page](https://github.com/vsbuffalo/bds-files).
+
+
+### In the context of our research group
+
+- Most projects have both an experimental and a computational leader
+- Classical ways of sharing are: conversations/meetings, email, DropBox, common/shared folders ...
 
 
 
