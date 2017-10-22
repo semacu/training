@@ -121,32 +121,18 @@ GitHub uses Markdown, a language with plain text formatting syntax, to render pa
 
 These are many ways how people use Git and GitHub. Here are some examples:
 
-### To release and distribute software
+- To host and share your research outputs, software or training materials
+  - Research slides by [Bérénice Batut](https://bebatut-slides.github.io/backofen_lab_retreat_04_17/#/).
+  - The Balasubramanian laboratory [computational projects](https://github.com/sblab-bioinformatics).
+  - The Bender group [GitHub page](https://github.com/BenderGroup).
+  - The BWA software to align DNA sequences to reference genomes is available [here](https://github.com/lh3/bwa).
 
-e.g. Heng Li's software package for mapping DNA sequences against a large reference genome, a.k.a [bwa](https://github.com/lh3/bwa)
-
-
-### To share contents of a book
-
-e.g. Vince Buffalo shares the data discussed in his book Bioinformatics Data Skills [book](http://shop.oreilly.com/product/0636920030157.do) using a dedicated github [page!](https://github.com/vsbuffalo/bds-files)
-
-
-### To create your own personal website or the website for your course
-
-e.g. Michael Love has created his own research [website](http://mikelove.github.io/) using the feature known as github [pages](https://pages.github.com/)
-
-e.g. the Statistics course from the University of British Columbia is hosted in [GitHub](http://stat545.com/index.html).
-
-### To host slides and materials
-
-e.g. Bérénice Batut uses github to share her research [slides](https://bebatut-slides.github.io/backofen_lab_retreat_04_17/#/)
-
-also, I just started to use github to share materials from training [sessions](https://github.com/semacu/training) and [talks](https://github.com/semacu/talks)
-
-
-### To share the research code from your paper/thesis
-
-Some groups release the computer code associated to a paper when manuscripts are published, e.g. a Balasubramanian's group recent [paper](https://www.nature.com/articles/s41525-017-0007-6?WT.feed_name=subjects_molecular-biology) and associated github [page](https://github.com/sblab-bioinformatics/epigenetics-of-glioblastoma).
+- To create websites
+  - Using [GitHub pages]((https://pages.github.com/)) to create your personal research [website](http://mikelove.github.io/).
+  - To distribute information about your courses and activities, e.g. the Statistics course in the University of British Columbia is hosted [here](http://stat545.com/index.html).
+  
+- To share the contents of a book
+  - The Bioinformatics Data Skills [book](http://shop.oreilly.com/product/0636920030157.do) shares materials in a dedicated GitHub [page](https://github.com/vsbuffalo/bds-files).
 
 
 
