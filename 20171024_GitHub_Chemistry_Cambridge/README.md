@@ -113,13 +113,13 @@ There are alternatives to GitHub, e.g. [GitLab](https://about.gitlab.com/), whic
 
 #### Markdown
 
-GitHub uses Markdown, a language with plain text formatting syntax, to render pages online. See examples of Markdown syntax [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+GitHub uses Markdown, a language with plain text formatting syntax, to render pages online. See examples of Markdown syntax [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 
 
 ### How can it be useful for you?
 
-These are many ways how people use Git and GitHub:
+These are many ways how people use Git and GitHub. Here are some examples:
 
 #### To release and distribute software
 
@@ -152,7 +152,7 @@ Some groups release the computer code associated to a paper when manuscripts are
 
 ### Practical: working with Git and GitHub
 
-#### Create a new GitHub account
+#### Create a GitHub account
 
 Demonstrate by creating an account for our data group, e.g. wolfson-data
 
@@ -160,6 +160,11 @@ Demonstrate by creating an account for our data group, e.g. wolfson-data
 - Account
 - Email
 - Student developer plan
+
+
+#### Install Git
+
+
 
 
 #### Create a new repository directly online
@@ -248,6 +253,9 @@ Courses:
 
 Papers:
 - Perez-Riverol et *al.* [Ten Simple Rules for Taking Advantage of Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
+
+Videos:
+- [Git & GitHub tutorial for Beginners](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 
 Websites:
 - [git](https://git-scm.com/)
