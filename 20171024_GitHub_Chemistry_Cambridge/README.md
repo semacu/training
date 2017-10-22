@@ -1,7 +1,7 @@
 
 <img align="right" src=images/labtocat.png width="200">
 
-## An introduction to GitHub for chemists
+# An introduction to GitHub for chemists
 
 - Date: 24th October 2017, 3 - 4pm
 - Location: [Unilever Lecture Theatre, Department of Chemistry](https://www.google.co.uk/maps/place/Department+of+Chemistry,+University+of+Cambridge/@52.197861,0.1233163,17z/data=!3m1!4b1!4m5!3m4!1s0x47d87099683bd269:0xd9d90c335a84ddd!8m2!3d52.197861!4d0.125505), University of Cambridge, UK
@@ -11,17 +11,17 @@
 - *Refreshments will be provided*
 
 
-### Overview
+## Overview
 
 Are you interested in learning Git and GitHub to manage your code, manuscripts or research data? This introductory workshop will be covering the following:
 
 - [Background and motivation](README.md#background-and-motivation)
 - [What is Git? What is version control? What is GitHub?](README.md#what-is-git-what-is-version-control-what-is-github)
-- [How can it be useful for you?](README.md#how-can-it-be-useful-for-you)
+- [How can Git and GitHub be useful for you?](README.md#how-can-git-and-github-be-useful-for-you)
 - [Practical session: working with Git and GitHub](README.md#practical-working-with-git-and-github)
 
 
-### Background and motivation
+## Background and motivation
 
 - *A system to keep track and compare the history of changes made to your files (versions)*
 
@@ -48,7 +48,7 @@ The lifetime of a project:
 - ...
 
 
-### What is Git? What is version control? What is GitHub?
+## What is Git? What is version control? What is GitHub?
 
 [Git](https://git-scm.com/) is a **free and open source** *distributed version control system*, which allows you to:
 
@@ -81,7 +81,7 @@ Changes are identified by a number named the *revision number*. Each revision is
 There are other softwares for version control, e.g. subversion ([svn](https://en.wikipedia.org/wiki/Apache_Subversion)).
 
 
-#### Interfaces to Git and GitHub
+### Interfaces to Git and GitHub
 
 - Via the command line using *git*
 - Directly [online](http://github.com/)
@@ -101,7 +101,7 @@ There are other softwares for version control, e.g. subversion ([svn](https://en
 </p>
 
 
-#### Public (free) and private repositories
+### Public (free) and private repositories
 
 A user has to create a GitHub account in order to create repositories:
 
@@ -111,48 +111,48 @@ A user has to create a GitHub account in order to create repositories:
 There are alternatives to GitHub, e.g. [GitLab](https://about.gitlab.com/), which works similarly but uses a different strategy with free private repositories and cost plans for public ones.
 
 
-#### Markdown
+### Markdown
 
 GitHub uses Markdown, a language with plain text formatting syntax, to render pages online. See examples of Markdown syntax [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 
 
-### How can it be useful for you?
+## How can Git and GitHub be useful for you?
 
 These are many ways how people use Git and GitHub. Here are some examples:
 
-#### To release and distribute software
+### To release and distribute software
 
 e.g. Heng Li's software package for mapping DNA sequences against a large reference genome, a.k.a [bwa](https://github.com/lh3/bwa)
 
 
-#### To share contents of a book
+### To share contents of a book
 
 e.g. Vince Buffalo shares the data discussed in his book Bioinformatics Data Skills [book](http://shop.oreilly.com/product/0636920030157.do) using a dedicated github [page!](https://github.com/vsbuffalo/bds-files)
 
 
-#### To create your own personal website or the website for your course
+### To create your own personal website or the website for your course
 
 e.g. Michael Love has created his own research [website](http://mikelove.github.io/) using the feature known as github [pages](https://pages.github.com/)
 
 e.g. the Statistics course from the University of British Columbia is hosted in [GitHub](http://stat545.com/index.html).
 
-#### To host slides and materials
+### To host slides and materials
 
 e.g. Bérénice Batut uses github to share her research [slides](https://bebatut-slides.github.io/backofen_lab_retreat_04_17/#/)
 
 also, I just started to use github to share materials from training [sessions](https://github.com/semacu/training) and [talks](https://github.com/semacu/talks)
 
 
-#### To share the research code from your paper/thesis
+### To share the research code from your paper/thesis
 
 Some groups release the computer code associated to a paper when manuscripts are published, e.g. a Balasubramanian's group recent [paper](https://www.nature.com/articles/s41525-017-0007-6?WT.feed_name=subjects_molecular-biology) and associated github [page](https://github.com/sblab-bioinformatics/epigenetics-of-glioblastoma).
 
 
 
-### Practical: working with Git and GitHub
+## Practical: working with Git and GitHub
 
-#### Create a GitHub account
+### Create a GitHub account
 
 Demonstrate by creating an account for our data group, e.g. wolfson-data
 
@@ -162,12 +162,12 @@ Demonstrate by creating an account for our data group, e.g. wolfson-data
 - Student developer plan
 
 
-#### Install Git
+### Install Git
 
 
 
 
-#### Create a new repository directly online
+### Create a new repository directly online
 
 Demonstrate using my account [semacu](https://github.com/semacu) or the newly created wolfson-data
 
@@ -176,14 +176,14 @@ Demonstrate using my account [semacu](https://github.com/semacu) or the newly cr
 - Commits
 
 
-#### Add collaborators to your repository
+### Add collaborators to your repository
 
 Demonstrate using my account [semacu](https://github.com/semacu) or the newly created wolfson-data
 
 - If you are not the owner or a collaborator, fork, make changes and submit a submit a pull request to the owner
 
 
-#### Making changes locally: using git in the command line
+### Making changes locally: using git in the command line
 
 Create a temporary directory:
 
@@ -239,7 +239,7 @@ Done. Now your changes have been made in your github repository
 
 
 
-### Additional reference materials
+## Additional reference materials
 
 Books:
 - [Happy Git and GitHub for the useR](http://happygitwithr.com/)
@@ -263,7 +263,7 @@ Websites:
 
 
 
-### License
+## License
 
 This work is distributed under a [CC-BY license](https://en.wikipedia.org/wiki/Creative_Commons_license). Anyone may copy, distribute, display and perform the work and make derivative works and remixes based on it only if they give the author attribution.
 
