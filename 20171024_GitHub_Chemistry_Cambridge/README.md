@@ -56,7 +56,7 @@ The lifetime of a project:
 - Track changes in the files and folders within your repositories
 
 
-Version control systems were originally created by groups writing software and code (e.g. Linux project), but can be used for any kind of files or projects. Git allows you:
+Version control systems were originally created by groups writing software and code (e.g. Linux project), but can be used for any kind of files or projects.
 
 <p align="center">
 <img src=images/vcs.png width="800">
@@ -70,7 +70,7 @@ Advantages of *distributed* over *centralised* version control systems involve:
 - If the central repository (server) crashes, it could be recovered / backed up from any of the local repositories created by the researcher, collaborator or group leader.
 - Each person can make changes to their local repositories *offline*. Then integrate their individual changes in the central repository (server) when connected *online*.
 
-[Github](https://en.wikipedia.org/wiki/GitHub) is a web platform that allows you to upload and manage your local or central repositories online (Hub). GitHub provides:
+[GitHub](https://en.wikipedia.org/wiki/GitHub) is a web platform that allows you to upload and manage your local or central repositories online (Hub). It provides:
 
 - A backup of your repositories
 - A nice visual interface to your repositories
@@ -103,40 +103,23 @@ There are other softwares for version control, e.g. subversion ([svn](https://en
 
 #### Public (free) and private repositories
 
-A user has to create an account in order to contribute content to the site, but public repositories can be browsed and downloaded by anyone.
+A user has to create a GitHub account in order to create repositories:
 
-Pricing of plans for [private repositories](https://github.com/pricing). Developer plan costs $7/month but is free, if you are a [student](https://education.github.com/pack).
+- Public repositories are free, and can be browsed and downloaded by anyone.
+- Private repositories have associated costs - see [pricing of plans](https://github.com/pricing). The developer plan costs $7/month but is free, if you are a [student / academic](https://education.github.com/pack).
 
-There are alternatives to github, e.g. [gitlab](https://about.gitlab.com/), which uses a different business model with free private repositories and cost plans for public ones.
-
-
-#### Features
-
-General:
-
-- Documentation
-- Issues
-- Pull requests
-- History of commits
-- Email notifications
-- Github pages
-
-Social-network like:
-
-- Wikis
-- Feeds
-- Followers
+There are alternatives to GitHub, e.g. [GitLab](https://about.gitlab.com/), which works similarly but uses a different strategy with free private repositories and cost plans for public ones.
 
 
 #### Markdown
 
-Github uses markdown, a lightweight markup language with plain text formatting syntax, to render pages. See examples of markdown syntax [here](https://en.wikipedia.org/wiki/Markdown)
+GitHub uses Markdown, a language with plain text formatting syntax, to render pages online. See examples of Markdown syntax [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 
 ### How can it be useful for you?
 
-These are several ways how people use github:
+These are many ways how people use Git and GitHub:
 
 #### To release and distribute software
 
