@@ -28,8 +28,8 @@ Are you interested in learning Git and GitHub to manage your code, manuscripts o
 - *A platform to share and showcase your work online with colleagues and beyond*
 
 - *Team work often means unnecessary work for some:*
-  - Many people working on the same file at the same time (you, your lab colleague, your group leader, collaborators abroad ...)
-  - Multiple versions of it (e.g. research manuscript, computer script ...)
+  - Many people working on the same file at the same time (you, your lab colleague, your group leader, collaborators abroad ...).
+  - Multiple versions of it (e.g. research manuscript, computer script ...).
 
 <p align="center">
 <img src=images/finaldoc.gif width="600">
@@ -52,8 +52,8 @@ Mood during the lifetime of a project:
 
 [Git](https://git-scm.com/) is a **free and open source** *distributed version control system*, which allows you to:
 
-- Create repositories to host your projects using the [command-line](https://en.wikipedia.org/wiki/Command-line_interface)
-- Track changes in the files and folders within your repositories
+- Create repositories to host your projects using the [command-line](https://en.wikipedia.org/wiki/Command-line_interface).
+- Track changes in the files and folders within your repositories.
 
 
 Version control systems were originally created by groups writing software and code (e.g. Linux project), but can be used for any kind of files or projects.
@@ -106,7 +106,7 @@ There are other softwares for version control, e.g. subversion ([svn](https://en
 A user has to create a GitHub account in order to create repositories:
 
 - Public repositories are free, and can be browsed and downloaded by anyone.
-- Private repositories have associated costs - see [pricing of plans](https://github.com/pricing). The developer plan costs $7/month but is free, if you are a [student / academic](https://education.github.com/pack).
+- Private repositories have associated costs - see [pricing of plans](https://github.com/pricing). The developer plan costs $7/month but it is free if you are a [student / academic](https://education.github.com/pack).
 
 There are alternatives to GitHub, e.g. [GitLab](https://about.gitlab.com/), which works similarly but uses a different strategy with free private repositories and cost plans for public ones.
 
