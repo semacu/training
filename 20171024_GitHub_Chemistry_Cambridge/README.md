@@ -85,7 +85,20 @@ There are other softwares for version control, e.g. subversion ([svn](https://en
 
 - Via the command line using *git*
 - Directly [online](http://github.com/)
-- Github [desktop](https://desktop.github.com/)
+
+<p align="center">
+<img src=images/github_online.png width="800">
+</p>
+
+- Github [desktop](https://desktop.github.com/) (available for Mac and Windows)
+
+<p align="center">
+<img src=images/github_desktop.png width="800">
+</p>
+
+<p align="right">
+(https://programminghistorian.org/lessons/getting-started-with-github-desktop)
+</p>
 
 
 #### Public (free) and private repositories
