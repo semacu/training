@@ -172,20 +172,13 @@ These are many ways how people use Git and GitHub.
 
 ### Create a GitHub account
 
-Demonstrate by creating an account for our data group, e.g. wolfson-data
+- Go to https://github.com
+- Fill in your Username, Email and Password. Then click on the green button "Sign up for GitHub".
+- Choose your personal plan page. For now select "Unlimited public repositories for free". Then click on "Continue".
+- Tailor your experience page. Choose the boxes that apply to you and click on "Submit". Otherwise, just go to "skip this step".
+- You have created a GitHub account!
 
-- Profile
-- Account
-- Email
-- Student developer plan
-
-
-### Install Git
-
-
-
-
-### Create a new repository directly online
+### Create your first repository
 
 Demonstrate using my account [semacu](https://github.com/semacu) or the newly created wolfson-data
 
@@ -193,12 +186,15 @@ Demonstrate using my account [semacu](https://github.com/semacu) or the newly cr
 - Markdown
 - Commits
 
-
-### Add collaborators to your repository
+### Explore your GitHub account and first repository
 
 Demonstrate using my account [semacu](https://github.com/semacu) or the newly created wolfson-data
 
 - If you are not the owner or a collaborator, fork, make changes and submit a submit a pull request to the owner
+
+
+### Install Git
+
 
 
 ### Making changes locally: using git in the command line
@@ -256,6 +252,10 @@ git push origin master
 Done. Now your changes have been made in your github repository
 
 
+
+## Thanks for your attention! Enjoy GitHub! :octocat:
+
+Questions about the workshop? Just email: sermarcue@gmail.com
 
 ## Additional reference materials
 
