@@ -201,7 +201,7 @@ These are many ways how people use Git and GitHub.
 
 ### Create your first repository
 
-- Sign in to GitHub using the **Username/Email** and **Password** created before.
+- If you are not already signed in, sign in to GitHub using the **Username/Email** and **Password** created before.
 - Click on the top-right "avatar" icon and select "Your profile". Have a quick browse through your page.
 
 <p align="center">
