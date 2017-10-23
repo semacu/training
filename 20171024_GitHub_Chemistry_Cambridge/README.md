@@ -180,8 +180,23 @@ These are many ways how people use Git and GitHub.
 
 - Go to https://github.com
 - Fill in your **Username**, **Email** and **Password**. Then click on the green button "Sign up for GitHub".
+
+<p align="center">
+<img src=images/p1_1.png width="600">
+</p>
+
 - Choose your personal plan page. For now select "Unlimited public repositories for free". Then click on "Continue".
+
+<p align="center">
+<img src=images/p1_2.png width="600">
+</p>
+
 - Tailor your experience page. Choose the boxes that apply to you and click on "Submit". Otherwise, just go to "skip this step".
+
+<p align="center">
+<img src=images/p1_3.png width="600">
+</p>
+
 - You have created a GitHub account! :smile:
 - **Verify your email address**. You should have just received an email from GitHub in the address provided above. Find this email and click on "Verify email address".
 
