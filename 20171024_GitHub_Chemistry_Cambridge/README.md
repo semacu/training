@@ -84,7 +84,7 @@ There are other softwares for version control, e.g. subversion ([svn](https://en
 
 ### Interfaces to Git and GitHub
 
-- Via the command line using *git*
+- Via the command-line using *git*
 
 <p align="center">
 <img src=images/git_commandline.png width="600">
@@ -114,7 +114,7 @@ A user has to create a GitHub account in order to create repositories:
 - Public repositories are free, and can be browsed and downloaded by anyone.
 - Private repositories have associated costs - see [pricing of plans](https://github.com/pricing). The developer plan costs $7/month but it is free if you are a [student / academic](https://education.github.com/pack).
 
-There are alternatives to GitHub, e.g. [GitLab](https://about.gitlab.com/), which works similarly but uses a different strategy with free private repositories and cost plans for public ones.
+There are alternatives to GitHub, e.g. [GitLab](https://about.gitlab.com/), which works similarly but uses a different strategy with free private repositories and cost plans for public ones. Other alternatives: [Bitbucket](https://bitbucket.org/).
 
 
 ### Markdown
@@ -152,7 +152,7 @@ These are many ways how people use Git and GitHub.
   - Computational colleagues can share code and results, review work of others and get credit from their collaborative project work.
   - Experimental colleagues can follow development, access results and learn computational methods.
 
-- Reproducibility in our computational research to avoid situations like ...
+- Reproducibility in computational research to avoid situations like ...
 
 <p align="center">
 <img src=images/reproducibility.gif width="800">
