@@ -1,5 +1,5 @@
 
-<img align="right" src=images/IntroductionGitHubSlide.png width="200">
+<img align="right" src=images/IntroductionGitHubSlide.png width="225">
 
 # An introduction to GitHub for chemists
 
@@ -7,7 +7,8 @@
 - Location: [Unilever Lecture Theatre, Department of Chemistry](https://www.google.co.uk/maps/place/Department+of+Chemistry,+University+of+Cambridge/@52.197861,0.1233163,17z/data=!3m1!4b1!4m5!3m4!1s0x47d87099683bd269:0xd9d90c335a84ddd!8m2!3d52.197861!4d0.125505), University of Cambridge, UK
 - Sign up [here](https://www.training.cam.ac.uk/event/2307013)
 - Please bring your laptop or mobile device if you'd like to follow the practical part
-- All workshop materials are available here: http://tinyurl.com/2017githubchemistry
+- All workshop materials are available here: 
+http://tinyurl.com/2017githubchemistry
 - *Refreshments will be provided*
 
 
