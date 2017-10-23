@@ -198,14 +198,28 @@ These are many ways how people use Git and GitHub.
 </p>
 
 - You have created a GitHub account! :smile:
-- **Verify your email address**. You should have just received an email from GitHub in the address provided above. Find this email and click on "Verify email address".
 
 ### Create your first repository
 
 - Sign in to GitHub using the **Username/Email** and **Password** created before.
 - Click on the top-right "avatar" icon and select "Your profile". Have a quick browse through your page.
-- Click on the top-right "+" icon and select "New repository".
+
+<p align="center">
+<img src=images/p2_1.png width="600">
+</p>
+
+- Click on the top-right "+" icon and select "New repository". **Verify your email address**. You should have just received an email from GitHub in the address provided above. Find this email and click on "Verify email address".
+
+<p align="center">
+<img src=images/p2_2.png width="400"> <img src=images/p2_3.png width="400">
+</p>
+
 - Create a new repository page. Fill in a "Repository name", e.g. my_first_repository or my_analysis_script. For now choose "Public" and select the box to initialize this repository with a README. Finally, click on "Create repository".
+
+<p align="center">
+<img src=images/p2_4.png width="600">
+</p>
+
 - You created your first repository! :rocket:
 
 ### Explore your first repository repository and GitHub account
