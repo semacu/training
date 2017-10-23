@@ -85,13 +85,18 @@ There are other softwares for version control, e.g. subversion ([svn](https://en
 ### Interfaces to Git and GitHub
 
 - Via the command line using *git*
+
+<p align="center">
+<img src=images/git_commandline.png width="600">
+</p>
+
 - Directly [online](http://github.com/)
 
 <p align="center">
 <img src=images/github_online.png width="800">
 </p>
 
-- Github [desktop](https://desktop.github.com/) (available for Mac and Windows)
+- Github [Desktop](https://desktop.github.com/) (available for Mac and Windows)
 
 <p align="center">
 <img src=images/github_desktop.png width="800">
