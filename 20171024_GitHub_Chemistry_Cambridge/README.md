@@ -173,24 +173,24 @@ These are many ways how people use Git and GitHub.
 ### Create a GitHub account
 
 - Go to https://github.com
-- Fill in your Username, Email and Password. Then click on the green button "Sign up for GitHub".
+- Fill in your **Username**, **Email** and **Password**. Then click on the green button "Sign up for GitHub".
 - Choose your personal plan page. For now select "Unlimited public repositories for free". Then click on "Continue".
 - Tailor your experience page. Choose the boxes that apply to you and click on "Submit". Otherwise, just go to "skip this step".
-- You have created a GitHub account!
+- You have created a GitHub account! :smile:
+- **Verify your email address**. You should have just received an email from GitHub in the address provided above. Find this email and click on "Verify email address".
 
 ### Create your first repository
 
-Demonstrate using my account [semacu](https://github.com/semacu) or the newly created wolfson-data
+- Sign in to GitHub using the **Username/Email** and **Password** created before.
+- Click on the top-right "avatar" icon and select "Your profile". Have a quick browse through your page.
+- Click on the top-right "+" icon and select "New repository".
+- Create a new repository page. Fill in a "Repository name", e.g. my_first_repository or my_analysis_script. For now choose "Public" and select the box to initialize this repository with a README. Finally, click on "Create repository".
+- You created your first repository! :rocket:
 
-- Modify README.md
-- Markdown
-- Commits
 
-### Explore your GitHub account and first repository
+### Explore your first repository repository and GitHub account
 
-Demonstrate using my account [semacu](https://github.com/semacu) or the newly created wolfson-data
 
-- If you are not the owner or a collaborator, fork, make changes and submit a submit a pull request to the owner
 
 
 ### Install Git
