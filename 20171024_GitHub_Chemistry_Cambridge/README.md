@@ -182,19 +182,19 @@ These are many ways how people use Git and GitHub.
 - Fill in your **Username**, **Email** and **Password**. Then click on the green button "Sign up for GitHub".
 
 <p align="center">
-<img src=images/p1_1.png width="600">
+<img src=images/p1_1.png width="800">
 </p>
 
 - Choose your personal plan page. For now select "Unlimited public repositories for free". Then click on "Continue".
 
 <p align="center">
-<img src=images/p1_2.png width="600">
+<img src=images/p1_2.png width="800">
 </p>
 
 - Tailor your experience page. Choose the boxes that apply to you and click on "Submit". Otherwise, just go to "skip this step".
 
 <p align="center">
-<img src=images/p1_3.png width="600">
+<img src=images/p1_3.png width="800">
 </p>
 
 - You have created a GitHub account! :smile:
@@ -205,7 +205,7 @@ These are many ways how people use Git and GitHub.
 - Click on the top-right "avatar" icon and select "Your profile". Have a quick browse through your page.
 
 <p align="center">
-<img src=images/p2_1.png width="600">
+<img src=images/p2_1.png width="800">
 </p>
 
 - Click on the top-right "+" icon and select "New repository". **Verify your email address**. You should have just received an email from GitHub in the address provided above. Find this email and click on "Verify email address".
@@ -217,7 +217,7 @@ These are many ways how people use Git and GitHub.
 - Create a new repository page. Fill in a "Repository name", e.g. my_first_repository or my_analysis_script. For now choose "Public" and select the box to initialize this repository with a README. Finally, click on "Create repository".
 
 <p align="center">
-<img src=images/p2_4.png width="600">
+<img src=images/p2_4.png width="800">
 </p>
 
 - You created your first repository! :rocket:
@@ -227,7 +227,21 @@ These are many ways how people use Git and GitHub.
 #### Your first repository
 
 - Click on **README.md** and go to the middle-right pencil "Edit this file". Type anything to change the file, e.g. "GitHub is fun!".
+
+<p align="center">
+<img src=images/p3_1.png width="800">
+</p>
+
+<p align="center">
+<img src=images/p3_2.png width="800">
+</p>
+
 - Scroll down. Introduce a commit change message, e.g. "My first update", and select the radio button "Commit directly to the master branch". Then click on "Commit changes". Voilá!
+
+<p align="center">
+<img src=images/p3_3.png width="800">
+</p>
+
 - To view your **history of commits** for **README.md**, click on **README.md** and go to the middle-right "History" button.
 - Alternatively, to view your **history of commits** for your first repository, click on the name of your repository and select the tab depicting a small clock and the number of commits next to it.
 
@@ -239,6 +253,11 @@ Bonus points:
 #### Your GitHub account
 
 - Click on your top-right "avatar" icon and select "Settings".
+
+<p align="center">
+<img src=images/p3_4.png width="800">
+</p>
+
 - Explore the tabs "Profile", "Account" and "Emails".
 
 
