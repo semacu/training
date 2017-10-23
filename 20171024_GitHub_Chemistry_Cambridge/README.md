@@ -187,17 +187,31 @@ These are many ways how people use Git and GitHub.
 - Create a new repository page. Fill in a "Repository name", e.g. my_first_repository or my_analysis_script. For now choose "Public" and select the box to initialize this repository with a README. Finally, click on "Create repository".
 - You created your first repository! :rocket:
 
-
 ### Explore your first repository repository and GitHub account
 
+#### Your first repository
 
+- Click on **README.md** and go to the middle-right pencil "Edit this file". Type anything to change the file, e.g. "GitHub is fun!".
+- Scroll down. Introduce a commit change message, e.g. "My first update", and select the radio button "Commit directly to the master branch". Then click on "Commit changes". Voilá!
+- To view your **history of commits** for **README.md**, click on **README.md** and go to the middle-right "History" button.
+- Alternatively, to view your **history of commits** for your first repository, click on the name of your repository and select the tab depicting a small clock and the number of commits next to it.
+
+Bonus points:
+
+- Try to create a new file
+- In your new repository, have a look at the "Settings" tab, explore "Collaborators" and try to add the person sitting next to you.
+
+#### Your GitHub account
+
+- Click on your top-right "avatar" icon and select "Settings".
+- Explore the tabs "Profile", "Account" and "Emails".
 
 
 ### Install Git
 
 
 
-### Making changes locally: using git in the command line
+### Making changes using Git in the command-line
 
 Create a temporary directory:
 
