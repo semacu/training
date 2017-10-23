@@ -1,5 +1,5 @@
 
-<img align="right" src=images/labtocat.png width="200">
+<img align="right" src=images/IntroductionGitHubSlide.png width="200">
 
 # An introduction to GitHub for chemists
 
