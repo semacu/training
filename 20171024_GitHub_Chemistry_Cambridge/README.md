@@ -270,7 +270,7 @@ Done. Now your changes have been made in your github repository
 
 ## Thanks for your attention! Enjoy GitHub! :octocat:
 
-Questions about the workshop? Just email: sermarcue@gmail.com
+Feedback? Any other questions about the workshop/GitHub? Just email: sermarcue@gmail.com
 
 ## Additional reference materials
 
