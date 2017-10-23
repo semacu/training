@@ -263,16 +263,21 @@ Books:
 - [Happy Git and GitHub for the useR](http://happygitwithr.com/)
 
 Courses:
+- [GitHub On Demand Training](https://services.github.com/on-demand/)
 - [Software Carpentry workshops](https://software-carpentry.org/workshops/)
 - [A Friendly Introduction to GitHub](https://kirstiejane.github.io/friendly-github-intro/)
 - [A quick introduction to Git and GitHub](http://www.datacarpentry.org/semester-biology/materials/git-in-30-minutes/)
 - [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 - [Git Intro for Librarians](http://data-lessons.github.io/library-git/)
 
+Help:
+- GitHub [Help](https://help.github.com/)
+
 Papers:
 - Perez-Riverol et *al.* [Ten Simple Rules for Taking Advantage of Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
 
 Videos:
+- [GitHub Training & Guides](https://www.youtube.com/githubguides)
 - [Git & GitHub tutorial for Beginners](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 
 Websites:
