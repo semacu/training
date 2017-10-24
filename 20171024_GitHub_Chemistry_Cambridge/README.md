@@ -222,7 +222,7 @@ These are many ways how people use Git and GitHub.
 
 - You created your first repository! :rocket:
 
-### Explore your first repository repository and GitHub account
+### Explore your first repository and GitHub account
 
 #### Your first repository
 
@@ -261,11 +261,10 @@ Bonus points:
 - Explore the tabs "Profile", "Account" and "Emails".
 
 
-### Install Git
-
-
-
 ### Making changes using Git in the command-line
+
+Install Git:
+
 
 Create a temporary directory:
 
