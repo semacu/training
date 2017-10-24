@@ -40,13 +40,6 @@ Are you interested in learning Git and GitHub to manage your code, manuscripts o
 (http://phdcomics.com/comics/archive_print.php?comicid=1531)
 </p>
 
-Mood during the lifetime of a project:
-- v1 :smile:
-- v2 :wink:
-- v3 :expressionless:
-- ... :pensive:
-- v25 :sob:
-- ... :scream:
 
 
 ## What is Git? What is version control? What is GitHub?
@@ -175,6 +168,8 @@ These are many ways how people use Git and GitHub.
 
 
 ## Practical: working with Git and GitHub
+
+We have four possible tutorials:
 
 - [Create a GitHub account](README.md#create-a-github-account) (+)
 - [Create your first repository](README.md#create-your-first-repository) (+)
