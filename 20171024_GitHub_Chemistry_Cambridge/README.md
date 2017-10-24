@@ -313,6 +313,20 @@ ls -lh
 Your first repository created using GitHub is now a local repository located in your Desktop folder.
 
 
+#### Tell git what's your repository url to pull and push commits
+
+```bash
+cd ~/Desktop/my_first_repository
+git remote set-url origin https://githubchemistry@github.com/githubchemistry/my_first_repository.git
+```
+
+Check:
+
+```bash
+git remote -v
+```
+
+
 #### Make a change to the `README.md` file using your favourite text editor
 
 - In your Desktop, go the cloned folder and open `README.md` with a text editor, e.g. TextEdit.
@@ -349,8 +363,13 @@ git status
 git push origin master
 ```
 
-Done. Check your change made to your online GitHub repository
+Now check that your change to `README.md` made to your online GitHub repository.
 
+Bonus points:
+
+- Make another change to `README.md` using the online GitHub repository and pull the change to your local repository (Hint: `git pull`).
+
+Done!
 
 
 ## Thanks for your attention! Enjoy GitHub! :octocat:
