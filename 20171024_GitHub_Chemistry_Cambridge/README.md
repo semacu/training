@@ -176,6 +176,11 @@ These are many ways how people use Git and GitHub.
 
 ## Practical: working with Git and GitHub
 
+- [Create a GitHub account](README.md#create-a-github-account) (+)
+- [Create your first repository](README.md#create-your-first-repository) (+)
+- [Explore your first repository and GitHub account](README.md#explore-your-first-repository-and-github-account) (++)
+- [Making changes using Git in the command-line](README.md#making-changes-using-git-in-the-command-line) (+++)
+
 ### Create a GitHub account
 
 - Go to https://github.com
@@ -199,6 +204,8 @@ These are many ways how people use Git and GitHub.
 
 - You have created a GitHub account! :smile:
 
+
+
 ### Create your first repository
 
 - If you are not already signed in, sign in to GitHub using the **Username/Email** and **Password** created before.
@@ -221,6 +228,8 @@ These are many ways how people use Git and GitHub.
 </p>
 
 - You created your first repository! :rocket:
+
+
 
 ### Explore your first repository and GitHub account
 
