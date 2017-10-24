@@ -7,9 +7,10 @@
 - Location: [Unilever Lecture Theatre, Department of Chemistry](https://www.google.co.uk/maps/place/Department+of+Chemistry,+University+of+Cambridge/@52.197861,0.1233163,17z/data=!3m1!4b1!4m5!3m4!1s0x47d87099683bd269:0xd9d90c335a84ddd!8m2!3d52.197861!4d0.125505), University of Cambridge, UK
 - Sign up [here](https://www.training.cam.ac.uk/event/2307013)
 - Please bring your laptop or mobile device if you'd like to follow the practical part
+- Internet: ChemNet (chemistry members) or eduroam.
 - All workshop materials are available here: 
 http://tinyurl.com/2017githubchemistry
-- *Refreshments will be provided*
+- *Refreshments provided*
 
 
 ## Overview
@@ -254,6 +255,7 @@ Bonus points:
 - Try to create a new file
 - In your new repository, have a look at the "Settings" tab, explore "Collaborators" and try to add the person sitting next to you.
 
+
 #### Your GitHub account
 
 - Click on your top-right "avatar" icon and select "Settings".
@@ -265,62 +267,89 @@ Bonus points:
 - Explore the tabs "Profile", "Account" and "Emails".
 
 
+
 ### Making changes using Git in the command-line
 
-Install Git:
+#### Check if Git is already installed in your computer, otherwise install Git
+
+- (If in Mac), go to *Applications* -> *Utilities* -> *Terminal* and type `git --version`. 
+  - If you get as output something like `git version 2.5.4 (Apple Git-61)`, then Git is already installed -> Jump to the next section.
+  - If you get something around `git: command not found`, keep reading.
+
+- To install Git in Mac, follow one of the next strategies:
+  1. When running one of the following commands `git --version`, `git config` or `xcode-select --install` you may be offered to install developer command line tools. Accept the offer and follow with "Install".
+  2. Go to https://git-scm.com/downloads and download git. Double click on the downloaded executable and follow instructions.
+  3. If you have `homebrew` installed, type the following in the Terminal: `brew install git`.
+  
+- Check the following for installing in [Windows](http://happygitwithr.com/install-git.html#windows) or [Linux](http://happygitwithr.com/install-git.html#linux).
 
 
-Create a temporary directory:
+#### Tell git who you are (your GitHub username) and what your email address is
+
+Example:
 
 ```bash
-cd /Users/martin03/Desktop
-mkdir tmp
-cd tmp
+cd ~/Desktop
+git config --global user.name "githubchemistry"
+git config --global user.email "sm848@cam.ac.uk"
 ```
 
-Tell git who you are (your github username) and what your email address is:
+Check:
 
 ```bash
-git config --global user.name "semacu"
-git config --global user.email "sermarcue@gmail.com"
+git config --list
 ```
 
-Clone github repository:
+
+#### Clone the repository created before
 
 ```bash
-git clone https://github.com/semacu/test_today.git
-cd test_today
+git clone https://github.com/githubchemistry/my_first_repository.git
+cd my_first_repository
+ls -lh
+#-rw-r--r--  1 martin03  1310    38B 24 Oct 09:16 README.md
 ```
 
-Make a change to the README.md file using your text editor.
+Your first repository created using GitHub is now a local repository located in your Desktop folder.
 
-Check the change:
+
+#### Make a change to the `README.md` file using your favourite text editor
+
+- In your Desktop, go the cloned folder and open `README.md` with a text editor, e.g. TextEdit.
+- Change the file, e.g. add a new line "This is my second line of script" and save changes.
+- Check how changes are tracked by Git:
 
 ```bash
+cd ~/Desktop/my_first_repository
 git status
 ```
 
-Track the file and stage the changes:
+Now the status of `README.md` is modified.
+
+
+#### Stage and commit the change
+
+Staging:
 
 ```bash
 git add README.md
 git status
 ```
 
-Commit changes:
+Committing:
 
 ```bash
-git commit -a -m "made tomorrow's changes"
+git commit -a -m "My second update"
 git status
 ```
 
-Push changes to the online github repository:
+#### Push changes to your online GitHub repository
 
 ```bash
 git push origin master
 ```
 
-Done. Now your changes have been made in your github repository
+Done. Check your change made to your online GitHub repository
 
 
 
