@@ -7,7 +7,9 @@
 - Location: [Unilever Lecture Theatre, Department of Chemistry](https://www.google.co.uk/maps/place/Department+of+Chemistry,+University+of+Cambridge/@52.197861,0.1233163,17z/data=!3m1!4b1!4m5!3m4!1s0x47d87099683bd269:0xd9d90c335a84ddd!8m2!3d52.197861!4d0.125505), University of Cambridge, UK
 - Sign up [here](https://www.training.cam.ac.uk/event/2307013)
 - Please bring your laptop or mobile device if you'd like to follow the practical part
-- Internet: ChemNet (chemistry members) or eduroam.
+- WiFi connection:
+  - ChemNet (chemistry members)
+  - eduroam
 - All workshop materials are available here: 
 http://tinyurl.com/2017githubchemistry
 - *Refreshments provided*
@@ -71,7 +73,7 @@ Advantages of *distributed* over *centralised* version control systems involve:
 - A nice visual interface to your repositories
 - A way to collaborate with others
 
-Changes are identified by a number named the *revision number*. Each revision is associated with a *timestamp* and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
+Changes are identified by a *revision number*, e.g. 60363b1. Each revision is associated with a *timestamp* and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
 
 There are other softwares for version control, e.g. subversion ([svn](https://en.wikipedia.org/wiki/Apache_Subversion)).
 
@@ -99,6 +101,8 @@ There are other softwares for version control, e.g. subversion ([svn](https://en
 <p align="right">
 (https://programminghistorian.org/lessons/getting-started-with-github-desktop)
 </p>
+
+For this workshop, we are mainly using GitHub's online interface, but also some command-line.
 
 
 ### Public (free) and private repositories
@@ -144,7 +148,7 @@ These are many ways how people use Git and GitHub.
 - Classical ways of sharing are: conversations/meetings, email, DropBox, common/shared folders ...
 - An environment where:
   - Computational colleagues can share code and results, review work of others and get credit from their collaborative project work.
-  - Experimental colleagues can follow development, access results and learn computational methods.
+  - Experimental colleagues can follow development, access computational results and learn methods of data analysis.
 
 - Reproducibility in computational research to avoid situations like ...
 
@@ -272,7 +276,7 @@ Bonus points:
 
 #### Check if Git is already installed in your computer, otherwise install Git
 
-- (If in Mac), go to *Applications* -> *Utilities* -> *Terminal* and type `git --version`. 
+- (If in Mac), go to *Finder* -> *Applications* -> *Utilities* -> *Terminal* and type `git --version`. 
   - If you get as output something like `git version 2.5.4 (Apple Git-61)`, then Git is already installed -> Jump to the next section.
   - If you get something around `git: command not found`, keep reading.
 
