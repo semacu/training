@@ -380,6 +380,12 @@ Done!
 
 Feedback? Any other questions about the workshop/GitHub? Just email: sermarcue@gmail.com
 
+
+## Feedback
+
+Many thanks for the responses. Comments available [here](IS6_24October_GoogleForm_responses.csv).
+
+
 ## Additional reference materials
 
 Books:
@@ -412,6 +418,11 @@ Websites:
 ## License
 
 This work is distributed under a [CC-BY license](https://en.wikipedia.org/wiki/Creative_Commons_license). Anyone may copy, distribute, display and perform the work and make derivative works and remixes based on it only if they give the author attribution.
+
+
+## Acknowledgements
+
+Clair Castle for the organisation and Nathan Pitt for filming. Our sponsors:
 
 <p align="center">
 <img src=images/UniversityCambridge_logo.png height="50"> <img src=images/CRUKCI_logo.jpg height="50"> <img src=images/Jisc_logo.png height="50"> <img src=images/WellcomeTrust_logo.jpg height="50">
