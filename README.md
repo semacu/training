@@ -6,6 +6,8 @@ This repository contains some of my recent teaching activities and training cour
 
 - *Workshop*: [**An introduction to R**](20180315_IntroductionToR_Wolfson_Cambridge/), 15th March 2017, Skills for Academic Success, Wolfson College, University of Cambridge, UK
 
+- *Session*: [**An introduction to ORCID for chemists**](20180223_ORCID_Chemistry_Cambridge/), 23rd February 2017, Department of Chemistry, University of Cambridge, UK
+
 - *Course*: [**Make your academic life easy with ORCID**](20180111_ORCID_DataChampions_Cambridge/), 11th January 2017, Data Champions Forum, MRC Biostatistics Unit, University of Cambridge, UK
 
 
