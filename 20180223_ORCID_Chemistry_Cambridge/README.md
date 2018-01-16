@@ -8,3 +8,8 @@ UNDER CONSTRUCTION
 - Please bring your laptop or mobile device if you'd like to follow the practical part
 
 A follow up from [this](../20180111_ORCID_DataChampions_Cambridge/)
+
+
+### Materials
+
+- [ORCID Competitions 2017 in Cambridge](https://osc.cam.ac.uk/open-access/open-access-week-2017#orcidcompetition)
