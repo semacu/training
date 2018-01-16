@@ -1,15 +1,14 @@
 ## Introduction to R and ggplot2
 
-- Date: 
-  - 15th March 2018, 6 - 7pm
-  
+- Date: 15th March 2018, 6 - 7pm
+- Series: Wolfson College [Skills for Academic Success](https://www.wolfson.cam.ac.uk/study-skills)
 - Location: [Roger Needham Room](http://www.wolfson.cam.ac.uk/tour/chancellorscentre), [Wolfson college](https://goo.gl/maps/aR6a5FWrLoR2), University of Cambridge, UK
+- Register [here](https://www.eventbrite.co.uk/e/skills-for-academic-success-introduction-to-r-tickets-41949950431)
 
 
 ### Overview
 
-Under construction ...
-
+This course provides a short beginners introduction to the R programming language and software environment for statistical computing and graphics. Sergio will demonstrate basic examples on how to input, explore, plot and output data in R. Everybody is welcome, if you would like to follow along with your laptop, please bring R and RStudio [downloaded](https://www.rstudio.com/products/rstudio/download/) and installed before the session.
 
 ### Programme
 
@@ -31,6 +30,7 @@ Books:
 
 Courses:
 
+- [CRUK-CI R crash course](https://bioinformatics-core-shared-training.github.io/r-crash-course/)
 - [Basic statistics and data handling with R](https://github.com/cambiotraining/stats-intro)
 - [Scripting for data analysis (with R)](https://github.com/mrtnj/scripting_for_data_analysis)
 - [An Introduction to Solving Biological Problems with R](http://cambiotraining.github.io/r-intro/)
