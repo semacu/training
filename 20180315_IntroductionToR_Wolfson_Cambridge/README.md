@@ -45,6 +45,7 @@ Courses:
 Perspectives:
 
 - [Bioconductor: A test drive of a DNA-analysis toolkit in the cloud](https://www.nature.com/articles/d41586-017-07833-1)
+- [Scientific computing: code alert](https://www.nature.com/nature/journal/v541/n7638/full/nj7638-563a.html)
 
 
 ### TODO
