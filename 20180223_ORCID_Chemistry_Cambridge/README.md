@@ -1,4 +1,11 @@
-## ORCID
+
+## Introduction to ORCID
+
+- Date: 23rd February 2017, 1 - 2pm
+- Location: [Unilever Lecture Theatre, Department of Chemistry](https://www.google.co.uk/maps/place/Department+of+Chemistry,+University+of+Cambridge/@52.197861,0.1233163,17z/data=!3m1!4b1!4m5!3m4!1s0x47d87099683bd269:0xd9d90c335a84ddd!8m2!3d52.197861!4d0.125505), University of Cambridge, UK
+- Sign up [here](https://www.training.cam.ac.uk/chem/event/2415035)
+- Please bring your laptop or mobile device if you'd like to follow the practical part
+
 
 ### Overview
 
@@ -10,7 +17,7 @@ Do you have an ORCID? Are you sure how best to use it? Bring your own device to 
 
 ### Motivation and challenges
 
-- **Sharing** and **searching** research work effectively
+- **Sharing** and **searching** research effectively
     :mag_right::
   - How to share *all* your academic work (publications, grants, data sets, patents, teaching materials ...)?
   - How to find the work of others?
@@ -30,15 +37,17 @@ Do you have an ORCID? Are you sure how best to use it? Bring your own device to 
 
 - Names are not enough to ensure credit for your work -> ORCID ids are unique and persistent identifiers specifically for researchers, analysts and scholars :clap:
 
-  - :speech_balloon: Hello my name is Sergio Martínez and my ORCID is [0000-0001-9806-2805](http://orcid.org/0000-0001-9806-2805)
-  - :speech_balloon: Hello my name is Sergio Martínez and my ORCID is [0000-0002-3941-5348](http://orcid.org/0000-0002-3941-5348)
-  - :speech_balloon: Hello my name is Sergio Martínez and my ORCID is [0000-0002-7322-5898](http://orcid.org/0000-0002-7322-5898)
+Here are three different people named Sergio Martínez each with a different ORCID:
+
+  - :speech_balloon: [0000-0001-9806-2805](http://orcid.org/0000-0001-9806-2805)
+  - :speech_balloon: [0000-0002-3941-5348](http://orcid.org/0000-0002-3941-5348)
+  - :speech_balloon: [0000-0002-7322-5898](http://orcid.org/0000-0002-7322-5898)
 
 
 - Used by many academic institutions:
 
 <p align="center">
-<img src=figures/orcid_map.png width="300">
+<img src=figures/orcid_map.png width="500">
 </p>
 
 <p align="center">
