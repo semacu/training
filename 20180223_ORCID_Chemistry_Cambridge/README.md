@@ -13,6 +13,8 @@ Many funders and publishers now require you to get an [**ORCID**](https://orcid.
 
 Do you have an ORCID? Are you sure how best to use it? Bring your own device to this practical session and register for an ORCID, link it to your other accounts, and find out more.
 
+- 1-1:30pm: overview, motivation and challenges, features
+- 1:30-2pm: register for an ORCID
 
 
 ### Motivation and challenges
@@ -30,7 +32,6 @@ Do you have an ORCID? Are you sure how best to use it? Bring your own device to 
 <p align="center">
 <img src=figures/zhang.png width="500">
 </p>
-
 
 
 ### Features
@@ -69,6 +70,7 @@ Here are three different people named Sergio Martínez each with a different ORC
 
 - [Six Ways to Make Your ORCID iD Work for You!](http://orcid.org/blog/2017/08/10/six-ways-make-your-orcid-id-work-you)
 - [Ten reasons to get - and use - an ORCID iD!](https://www.elsevier.com/connect/authors-update/ten-reasons-to-get-and-use-an-orcid-id!)
+- [ORCID Competitions 2017 in Cambridge](https://osc.cam.ac.uk/open-access/open-access-week-2017#orcidcompetition)
 
 Videos:
 
