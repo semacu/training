@@ -36,9 +36,7 @@ Do you have an ORCID? Are you sure how best to use it? Bring your own device to 
 
 ### Features
 
-- Names are not enough to ensure credit for your work -> ORCID ids are unique and persistent identifiers specifically for researchers, analysts and scholars :clap:
-
-Here are three different people named Sergio Martínez each with a different ORCID:
+- Names are not enough to ensure credit for your work -> ORCID ids are unique and persistent identifiers specifically for researchers, analysts and scholars :clap: Here are three different people named Sergio Martínez each with a different ORCID:
 
   - :speech_balloon: [0000-0001-9806-2805](http://orcid.org/0000-0001-9806-2805)
   - :speech_balloon: [0000-0002-3941-5348](http://orcid.org/0000-0002-3941-5348)
