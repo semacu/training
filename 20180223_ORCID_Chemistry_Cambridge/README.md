@@ -66,9 +66,12 @@ Do you have an ORCID? Are you sure how best to use it? Bring your own device to 
 
 ### References
 
+Short articles / blogs:
+
 - [Six Ways to Make Your ORCID iD Work for You!](http://orcid.org/blog/2017/08/10/six-ways-make-your-orcid-id-work-you)
 - [Ten reasons to get - and use - an ORCID iD!](https://www.elsevier.com/connect/authors-update/ten-reasons-to-get-and-use-an-orcid-id!)
 - [ORCID Competitions 2017 in Cambridge](https://osc.cam.ac.uk/open-access/open-access-week-2017#orcidcompetition)
+- [A Festival for Persistent Identifiers](https://researchdata.jiscinvolve.org/wp/2018/02/06/pidapalooza18/)
 
 Videos:
 
