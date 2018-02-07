@@ -41,6 +41,7 @@ Courses:
 - [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
 - [R course content for the CODATA-RDA Research Data Science Summer School](https://github.com/marioa/trieste)
 - [Data carpentry course for biologists](https://jabberwocky.weecology.org/2016/11/14/fork-our-course-a-semester-long-data-carpentry-course-for-biologists/) by Ethan White
+- [Cambridge's Data carpentry using R](https://tavareshugo.github.io/2017-09-11-cambridge/)
 
 Perspectives:
 
