@@ -17,30 +17,36 @@ Do you have an ORCID? Are you sure how best to use it? Bring your own device to 
 - 1:30-2pm: register for an ORCID
 
 
-### Motivation and challenges
+### Motivation
 
-- **Sharing** and **searching** research effectively
-    :mag_right::
+- **Linking you and your academic work** effectively and uniquely
+
+- **Sharing** and **searching** research effectively :mag_right::
   - How to share *all* your academic work (publications, grants, data sets, patents, teaching materials ...)?
   - How to find the work of others?
-
 
 - How to manage your list of works when **moving between institutions**? ... and keeping it updated too? Your email address will soon expire after you leave the university :sweat:
 
 - A name is not enough. **Name ambiguity** impedes unique identification of researchers :dancers:. This ambivalence is spread across cultures: James Smith, Zhang Li, María García ... Names have variations, change over time and are often expressed in different ways in different situations or languages.
 
 <p align="center">
-<img src=figures/zhang.png width="500">
+<img src=figures/zhang.png width="750">
 </p>
 
 
-### Features
+### What is an ORCID id?
+
+- It is a **16-digit number**, e.g. 0000-0002-1825-0097
+
+- It is used in combination with a https URI: [https://orcid.org/0000-0002-1825-0097](https://orcid.org/0000-0002-1825-0097)
+
+- It is designed to be a **career-long identifier**, no information that can change over a person's career is embedded in the iD, e.g., country, institution, field of study.
 
 - Names are not enough to ensure credit for your work -> ORCID ids are unique and persistent identifiers specifically for researchers, analysts and scholars :clap: Here are three different people named Sergio Martínez each with a different ORCID:
 
-  - :speech_balloon: [0000-0001-9806-2805](http://orcid.org/0000-0001-9806-2805)
-  - :speech_balloon: [0000-0002-3941-5348](http://orcid.org/0000-0002-3941-5348)
-  - :speech_balloon: [0000-0002-7322-5898](http://orcid.org/0000-0002-7322-5898)
+  - :speech_balloon: [0000-0001-9806-2805](https://orcid.org/0000-0001-9806-2805)
+  - :speech_balloon: [0000-0002-3941-5348](https://orcid.org/0000-0002-3941-5348)
+  - :speech_balloon: [0000-0002-7322-5898](https://orcid.org/0000-0002-7322-5898)
 
 
 - Used by many academic institutions:
