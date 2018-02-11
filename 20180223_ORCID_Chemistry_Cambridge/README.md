@@ -11,9 +11,9 @@
 
 ### Overview
 
-Many funders and publishers now require you to get an [**ORCID**](https://orcid.org/) id: an ID that is unique to you and which comes with you wherever you go. It eliminates *ambiguity* about your name so you can get full credit for your work.
+Many funders and publishers now require you to get an [**ORCID**](https://orcid.org/) identifier: an id that is unique to you and which comes with you wherever you go. It eliminates *ambiguity* about your name so you can get full credit for your work.
 
-Do you have an ORCID? Are you sure how best to use it? Bring your own device to this practical session and register for an ORCID, link it to your other accounts, and find out more.
+Do you have an ORCID id? Are you sure how best to use it? Bring your own device to this practical session and register for an ORCID id, link it to your other accounts, and find out more.
 
 - 1-1:30pm: overview, motivation and challenges, features
 - 1:30-2pm: register for an ORCID
@@ -21,7 +21,7 @@ Do you have an ORCID? Are you sure how best to use it? Bring your own device to 
 
 ### Motivation
 
-- **Linking you and your academic work** effectively and uniquely
+- **Linking you with your academic work** effectively and uniquely
 
 - **Sharing** and **searching** research effectively :mag_right::
   - How to share *all* your academic work (publications, grants, data sets, patents, teaching materials ...)?
@@ -29,7 +29,9 @@ Do you have an ORCID? Are you sure how best to use it? Bring your own device to 
 
 - How to manage your list of works when **moving between institutions**? ... and keeping it updated too? Your email address will soon expire after you leave the university :sweat:
 
-- A name is not enough. **Name ambiguity** impedes unique identification of researchers :dancers:. This ambivalence is spread across cultures: James Smith, Zhang Li, María García ... Names have variations, change over time and are often expressed in different ways in different situations or languages.
+- Names are complex. The same name can refer to different people, and one person can have many names. **Name ambiguity** impedes unique identification of researchers :dancers:. This ambivalence is spread across cultures: James Smith, Zhang Li, María García ... Names have variations, change over time and are often expressed in different ways in different situations or languages.
+
+The following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. and **5** Zhang Y. coauthors!
 
 <p align="center">
 <img src=figures/zhang.png width="750">
@@ -38,17 +40,17 @@ Do you have an ORCID? Are you sure how best to use it? Bring your own device to 
 
 ### What is an ORCID id?
 
-- It is a **16-digit number**, e.g. 0000-0002-1825-0097
+>ORCID’s vision is a world where all who participate in research, scholarship, and innovation are uniquely identified and connected to their contributions and affiliations across disciplines, borders, and time. We provide an identifier for individuals to use with their name as they share their ideas. We provide open tools that enable transparent connections between researchers, and identifiers for their contributions, and affiliations (https://orcid.org/about/trust/home).
 
-- It is used in combination with a https URI: [https://orcid.org/0000-0002-1825-0097](https://orcid.org/0000-0002-1825-0097)
+- It is a **16-digit number**, e.g. 0000-0002-1825-0097, used in combination with a https URI: [https://orcid.org/0000-0002-1825-0097](https://orcid.org/0000-0002-1825-0097)
 
 - It is designed to be a **career-long identifier**, no information that can change over a person's career is embedded in the iD, e.g., country, institution, field of study.
 
-- Names are not enough to ensure credit for your work -> ORCID ids are unique and persistent identifiers specifically for researchers, analysts and scholars :clap: Here are three different people named Sergio Martínez each with a different ORCID:
+- Names are not enough to ensure credit for your work -> ORCID ids are unique and persistent identifiers specifically for researchers, analysts and scholars :clap: Here are three different people named `Sergio Martínez` each with a different ORCID:
 
-  - :speech_balloon: [0000-0001-9806-2805](https://orcid.org/0000-0001-9806-2805)
-  - :speech_balloon: [0000-0002-3941-5348](https://orcid.org/0000-0002-3941-5348)
-  - :speech_balloon: [0000-0002-7322-5898](https://orcid.org/0000-0002-7322-5898)
+  - [https://orcid.org/0000-0001-9806-2805](https://orcid.org/0000-0001-9806-2805)
+  - [https://orcid.org/0000-0002-3941-5348](https://orcid.org/0000-0002-3941-5348)
+  - [https://orcid.org/0000-0002-7322-5898](https://orcid.org/0000-0002-7322-5898)
 
 
 - Used by many academic institutions:
@@ -61,14 +63,34 @@ Do you have an ORCID? Are you sure how best to use it? Bring your own device to 
 (https://www.youtube.com/watch?v=a1Rijk_TMHA)
 </p>
 
-
-- ORCID is a nonprofit organisation so users own the data linked to their identifier so have full control over what data are linked to their id, and how those data are made public, limited or private.
+- Your data, owned and controlled by you:
+  - ORCID is a non-profit organisation so users *own their id and record* (the data linked to their identifier). 
+  - Users have full control over *what data are linked to their id*, and how those data are made *public, limited or private*.
+  - ORCID makes your public data available under a Creative Commons [CC0 License]((https://en.wikipedia.org/wiki/Creative_Commons_license#CC0)) through the ORCID website.
+  - Organizations may add, update, or remove information in your ORCID record only if you have granted permission for them to do so.
 
 - Unlike email addresses, if you leave the university, the ORCID travels with you, along with your list of past activities.
 
 
 
-### Register for an ORCID
+### Register for an ORCID id?
+
+#### Who can have an ORCID id?
+
+Anyone in the research community (academia and industry) can register for an ORCID id! Only three items are required:
+
+- Your given name
+- Your email address
+- A password
+
+Optionally, you may want to include:
+
+- Biographical information
+- Affiliations
+- Research outputs
+- Funding information
+
+ There are no fields in the ORCID data structure to collect sensitive information. 
 
 
 
@@ -89,7 +111,7 @@ Videos:
 
 ## License
 
-This work is distributed under a [CC0 license](https://en.wikipedia.org/wiki/Creative_Commons_license#CC0). No rights reserved.
+This work is distributed under a Creative Commons [CC0 license](https://en.wikipedia.org/wiki/Creative_Commons_license#CC0). No rights reserved.
 
 ## Acknowledgements
 
