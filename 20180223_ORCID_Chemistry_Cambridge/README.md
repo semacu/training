@@ -92,7 +92,9 @@ Optionally, you may want to include:
 - Research outputs
 - Funding information
 
- There are no fields in the ORCID data structure to collect sensitive information. 
+There are no fields in the ORCID data structure to collect sensitive information. 
+
+You may choose to use your ORCID username and password or you can sign-in with your Google, Facebook, or institutional sign-in credentials.
 
 
 
