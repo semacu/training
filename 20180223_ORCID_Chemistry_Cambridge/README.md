@@ -1,5 +1,7 @@
 
-## Introduction to ORCID
+<img align="right" src=figures/orcid.png width="100">
+
+## Introduction to ORCID&reg;
 
 - Date: 23rd February 2017, 1 - 2pm
 - Location: [Unilever Lecture Theatre, Department of Chemistry](https://www.google.co.uk/maps/place/Department+of+Chemistry,+University+of+Cambridge/@52.197861,0.1233163,17z/data=!3m1!4b1!4m5!3m4!1s0x47d87099683bd269:0xd9d90c335a84ddd!8m2!3d52.197861!4d0.125505), University of Cambridge, UK
@@ -9,7 +11,7 @@
 
 ### Overview
 
-Many funders and publishers now require you to get an [**ORCID**](https://orcid.org/): an ID that is unique to you and which comes with you wherever you go. It eliminates *ambiguity* about your name so you can get full credit for your work.
+Many funders and publishers now require you to get an [**ORCID**](https://orcid.org/) id: an ID that is unique to you and which comes with you wherever you go. It eliminates *ambiguity* about your name so you can get full credit for your work.
 
 Do you have an ORCID? Are you sure how best to use it? Bring your own device to this practical session and register for an ORCID, link it to your other accounts, and find out more.
 
@@ -70,7 +72,7 @@ Do you have an ORCID? Are you sure how best to use it? Bring your own device to 
 
 
 
-### References
+## References
 
 Short articles / blogs:
 
@@ -85,4 +87,14 @@ Videos:
 - [An introduction to ORCID](https://www.youtube.com/watch?v=bYa6Vph7b08)
 
 
-### License
+## License
+
+This work is distributed under a [CC0 license](https://en.wikipedia.org/wiki/Creative_Commons_license#CC0). No rights reserved.
+
+## Acknowledgements
+
+Clair Castle for the organisation. Our sponsors:
+
+<p align="center">
+<img src=../20171024_GitHub_Chemistry_Cambridge/images/UniversityCambridge_logo.png height="50"> <img src=../20171024_GitHub_Chemistry_Cambridge/images/CRUKCI_logo.jpg height="50"> <img src=../20171024_GitHub_Chemistry_Cambridge/images/Jisc_logo.png height="50"> <img src=../20171024_GitHub_Chemistry_Cambridge/images/WellcomeTrust_logo.jpg height="50">
+</p>
