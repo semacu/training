@@ -40,9 +40,12 @@ The following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. and **5
 
 ### What is an ORCID id?
 
->ORCID’s vision is a world where all who participate in research, scholarship, and innovation are uniquely identified and connected to their contributions and affiliations across disciplines, borders, and time. We provide an identifier for individuals to use with their name as they share their ideas. We provide open tools that enable transparent connections between researchers, and identifiers for their contributions, and affiliations (https://orcid.org/about/trust/home).
+>ORCID’s vision is a world where all who participate in research, scholarship, and innovation are uniquely identified and connected to their contributions and affiliations across disciplines, borders, and time. We provide an identifier for individuals to use with their name as they share their ideas. We provide open tools that enable transparent connections between researchers, and identifiers for their contributions, and affiliations.
+>
+>(https://orcid.org/about/trust/home)
 
-- It is a **16-digit number**, e.g. 0000-0002-1825-0097, used in combination with a https URI: [https://orcid.org/0000-0002-1825-0097](https://orcid.org/0000-0002-1825-0097)
+- It is a **16-digit number**, e.g. 0000-0002-1825-0097, used in combination with a https URI: 
+  - [https://orcid.org/0000-0002-1825-0097](https://orcid.org/0000-0002-1825-0097)
 
 - It is designed to be a **career-long identifier**, no information that can change over a person's career is embedded in the iD, e.g., country, institution, field of study.
 
@@ -52,6 +55,7 @@ The following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. and **5
   - [https://orcid.org/0000-0002-3941-5348](https://orcid.org/0000-0002-3941-5348)
   - [https://orcid.org/0000-0002-7322-5898](https://orcid.org/0000-0002-7322-5898)
 
+- Unlike email addresses, if you leave the university, the ORCID travels with you, along with your list of past activities.
 
 - Used by many academic institutions:
 
@@ -66,10 +70,8 @@ The following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. and **5
 - Your data, owned and controlled by you:
   - ORCID is a non-profit organisation so users *own their id and record* (the data linked to their identifier). 
   - Users have full control over *what data are linked to their id*, and how those data are made *public, limited or private*.
-  - ORCID makes your public data available under a Creative Commons [CC0 License]((https://en.wikipedia.org/wiki/Creative_Commons_license#CC0)) through the ORCID website.
-  - Organizations may add, update, or remove information in your ORCID record only if you have granted permission for them to do so.
-
-- Unlike email addresses, if you leave the university, the ORCID travels with you, along with your list of past activities.
+  - ORCID makes your public data available under a Creative Commons [CC0 License](https://en.wikipedia.org/wiki/Creative_Commons_license#CC0) through the ORCID website.
+  - Organizations may add, update, or remove information in your ORCID record *only if* you have granted permission for them to do so.
 
 
 
@@ -95,6 +97,8 @@ Optionally, you may want to include:
 
 
 ## References
+
+The ORCID website has lots of relevant resources: https://orcid.org
 
 Short articles / blogs:
 
