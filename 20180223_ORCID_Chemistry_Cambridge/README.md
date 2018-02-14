@@ -105,6 +105,10 @@ You may choose to use your ORCID username and password or you can sign-in with y
 
 The ORCID website has lots of relevant resources: https://orcid.org
 
+Presentations:
+
+- See the materials from the most recent [ORCID events](https://orcid.org/about/events)
+
 Short articles / blogs:
 
 - [Six Ways to Make Your ORCID iD Work for You!](http://orcid.org/blog/2017/08/10/six-ways-make-your-orcid-id-work-you)
