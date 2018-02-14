@@ -15,8 +15,8 @@ Many funders and publishers now require you to get an [**ORCID**](https://orcid.
 
 Do you have an ORCID id? Are you sure how best to use it? Bring your own device to this practical session and register for an ORCID id, link it to your other accounts, and find out more.
 
-- 1-1:30pm: overview, motivation and challenges, features
-- 1:30-2pm: register for an ORCID
+- 1st part: overview, motivation and challenges, features
+- 2nd part: register for an ORCID
 
 
 ### Motivation
@@ -31,7 +31,7 @@ Do you have an ORCID id? Are you sure how best to use it? Bring your own device 
 
 - Names are complex. The same name can refer to different people, and one person can have many names. **Name ambiguity** impedes unique identification of researchers :dancers:. This ambivalence is spread across cultures: James Smith, Zhang Li, María García ... Names have variations, change over time and are often expressed in different ways in different situations or languages.
 
-The following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. and **5** Zhang Y. coauthors!
+E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. and **5** Zhang Y. coauthors!
 
 <p align="center">
 <img src=figures/zhang.png width="750">
@@ -44,18 +44,17 @@ The following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. and **5
 >
 >(https://orcid.org/about/trust/home)
 
-- It is a **16-digit number**, e.g. 0000-0002-1825-0097, used in combination with a https URI: 
-  - [https://orcid.org/0000-0002-1825-0097](https://orcid.org/0000-0002-1825-0097)
+- It is a **16-digit number**, e.g. 0000-0002-1825-0097, used in combination with a https URI, e.g. [https://orcid.org/0000-0002-1825-0097](https://orcid.org/0000-0002-1825-0097)
 
-- It is designed to be a **career-long identifier**, no information that can change over a person's career is embedded in the iD, e.g., country, institution, field of study.
+- It is designed to be a **career-long identifier**, no information that can change over a person's career is embedded in the id, e.g., country, institution, field of study.
 
-- Names are not enough to ensure credit for your work -> ORCID ids are unique and persistent identifiers specifically for researchers, analysts and scholars :clap: Here are three different people named `Sergio Martínez` each with a different ORCID:
+- Names are not enough to ensure credit for your work -> ORCID ids are **unique and persistent** identifiers specifically for researchers, analysts and scholars :clap: e.g. here are three different people named `Sergio Martínez` each with a different ORCID:
 
   - [https://orcid.org/0000-0001-9806-2805](https://orcid.org/0000-0001-9806-2805)
   - [https://orcid.org/0000-0002-3941-5348](https://orcid.org/0000-0002-3941-5348)
   - [https://orcid.org/0000-0002-7322-5898](https://orcid.org/0000-0002-7322-5898)
 
-- Unlike email addresses, if you leave the university, the ORCID travels with you, along with your list of past activities.
+- Unlike email addresses, if you leave the university, **the ORCID id travels with you**, along with your list of past activities.
 
 - Used by many academic institutions:
 
@@ -67,12 +66,16 @@ The following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. and **5
 (https://www.youtube.com/watch?v=a1Rijk_TMHA)
 </p>
 
-- Your data, owned and controlled by you:
+- Your data, **owned and controlled** by you:
   - ORCID is a non-profit organisation so users *own their id and record* (the data linked to their identifier). 
   - Users have full control over *what data are linked to their id*, and how those data are made *public, limited or private*.
   - ORCID makes your public data available under a Creative Commons [CC0 License](https://en.wikipedia.org/wiki/Creative_Commons_license#CC0) through the ORCID website.
   - Organizations may add, update, or remove information in your ORCID record *only if* you have granted permission for them to do so.
 
+
+### A quick tour of an ORCID record
+
+We will be using [https://orcid.org/0000-0001-9806-2805](https://orcid.org/0000-0001-9806-2805) for illustration.
 
 
 ### Register for an ORCID id?
