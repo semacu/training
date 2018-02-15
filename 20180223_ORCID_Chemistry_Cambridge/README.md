@@ -111,6 +111,7 @@ Presentations:
 
 Short articles / blogs:
 
+- [Celebrating ORCID@5 with the launch of new resources!](https://orcid.org/blog/2017/10/11/celebrating-orcid5-launch-new-resources)
 - [Six Ways to Make Your ORCID iD Work for You!](http://orcid.org/blog/2017/08/10/six-ways-make-your-orcid-id-work-you)
 - [Ten reasons to get - and use - an ORCID iD!](https://www.elsevier.com/connect/authors-update/ten-reasons-to-get-and-use-an-orcid-id!)
 - [ORCID Competitions 2017 in Cambridge](https://osc.cam.ac.uk/open-access/open-access-week-2017#orcidcompetition)
