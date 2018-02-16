@@ -11,7 +11,7 @@
 
 ### Overview
 
-Many funders and publishers now require you to get an [**ORCID**](https://orcid.org/) identifier: an id that is unique to you and which comes with you wherever you go. It eliminates *ambiguity* about your name so you can get full credit for your work.
+Many funders and publishers now require you to get an Open Researcher and Contributor ID ([**ORCID**](https://orcid.org/)): an identifier that is unique to you and which comes with you wherever you go. It eliminates *ambiguity* about your name so you can get full credit for your work.
 
 Do you have an ORCID id? Are you sure how best to use it? Bring your own device to this practical session and register for an ORCID id, link it to your other accounts, and find out more.
 
@@ -36,6 +36,8 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 <p align="center">
 <img src=figures/zhang.png width="750">
 </p>
+
+- **Yet another password** problem when submitting papers, or applying for funding / jobs.
 
 
 ### What is an ORCID id?
@@ -67,9 +69,10 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 </p>
 
 - Your data, **owned and controlled** by you:
-  - ORCID is a non-profit organisation so users *own their id and record* (the data linked to their identifier). 
-  - Users have full control over *what data are linked to their id*, and how those data are made *public, limited or private*.
-  - ORCID makes your public data available under a Creative Commons [CC0 License](https://en.wikipedia.org/wiki/Creative_Commons_license#CC0) through the ORCID website.
+  - Users have full control over *what data are linked to their id*, and how those data are made *public, limited or private*. Your ORCID id is always publicly visible, but you control the [visibility settings](https://support.orcid.org/knowledgebase/articles/124518-visibility-settings) for all other content in your record.
+  - Unlike most online research profile systems, ORCID is a not-for-profit organisation so users *own their id and record* (the data linked to their identifier). ORCID makes your public data available under a Creative Commons [CC0 License](https://en.wikipedia.org/wiki/Creative_Commons_license#CC0) through the ORCID website.
+
+  - 
   - Organizations may add, update, or remove information in your ORCID record *only if* you have granted permission for them to do so.
 
 
