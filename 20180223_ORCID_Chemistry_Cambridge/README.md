@@ -56,7 +56,7 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 
 - An ORCID id is a number designed to be a **career-long identifier**. No information that can change over your career, e.g., name, country, institution, field of study, is embedded in the actual id.
 
-- They are **unique and persistent** identifiers specifically for researchers, analysts and scholars :clap: e.g. here are three different people named `Sergio Martínez` each with a different ORCID id:
+- They are **unique and persistent** identifiers specifically for researchers, analysts and scholars - like an ISBN, but for people, e.g. here are three different people named `Sergio Martínez` each with a different ORCID id:
 
   - [https://orcid.org/0000-0001-9806-2805](https://orcid.org/0000-0001-9806-2805) (me)
   - [https://orcid.org/0000-0002-3941-5348](https://orcid.org/0000-0002-3941-5348) (an informatics engineer in Catalunya)
@@ -67,11 +67,14 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 - Your data, **owned and controlled** by you:
   - Users have full control over *what data are linked to their id*, and how those data are made *public, limited or private*. Your ORCID id is always publicly visible, but you control the [visibility settings](https://support.orcid.org/knowledgebase/articles/124518-visibility-settings) for all other content in your record.
   
-  - Unlike most online research profile systems, ORCID is a not-for-profit organisation so users *own their id and record* (the data linked to their identifier). ORCID makes your public data available under a Creative Commons [CC0 License](https://en.wikipedia.org/wiki/Creative_Commons_license#CC0) through the ORCID website.
+  - Unlike most online research profile systems, ORCID is a not-for-profit organisation so users *own their id and record* (the data linked to their identifier). Whereas ORCID makes your data available in the public domain under a Creative Commons [CC0 License](https://en.wikipedia.org/wiki/Creative_Commons_license#CC0) through their website, it doesn’t track you or sell your data.
   
   - Trusted organizations may add, update, or remove information in your ORCID record *only if* you have granted permission for them to do so.
 
-- Your record is **not** a repository for your research files, ORCID simply links to wherever they live in a handy page about yourself that you can then share publicly with others, or keep to yourself.
+- Your record is **not** a repository for your research files, ORCID simply links to wherever they live in a handy page about yourself that you can then share publicly with others, or keep to yourself. E.g. you could use it as:
+  - A dynamic CV
+  - A way to save time when submitting manuscripts and funding
+  - A key to create your annual report
 
 >I use my iD as an online master list of all my publications: it’s the perfect link to give anyone who wants to read what I’ve done recently, introduce me at a conference, or consider me for a new position. Since the source of the information is clearly shown, it’s easier to confirm that I’m not making it up (https://orcid.org/blog/2018/02/15/create-sustainable-research-portfolio-orcid).
 
@@ -101,12 +104,7 @@ Anyone in the research community (academia and industry) can register for an ORC
 - Your email address
 - A password
 
-Additionally, you may want to include:
-
-- Your biographical information
-- Affiliations
-- Research outputs
-- Funding information
+Additionally, you may also want to include: your biographical information, affiliations, research outputs and funding.
 
 
 Notes:
