@@ -19,9 +19,10 @@ Do you have an ORCID id? Are you sure how best to use it? Bring your own device 
 - 1st part:
   - Motivation
   - What is an ORCID id?
+  - Demonstration
 - 2nd part:
   - Register for an ORCID id
-  - Explore your ORCID id
+  - Extend your ORCID record
 
 
 ### Motivation
