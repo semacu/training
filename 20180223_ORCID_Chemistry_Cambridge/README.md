@@ -73,7 +73,7 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 
 - Your record is **not** a repository for your research files, ORCID simply links to wherever they live in a handy page about yourself that you can then share publicly with others, or keep to yourself. E.g. you could use it as:
   - A dynamic CV
-  - A way to save time when submitting manuscripts and funding
+  - A way to save time when submitting manuscripts and funding. Many [publishers](https://orcid.org/content/requiring-orcid-publication-workflows-open-letter) and [funding bodies](https://orcid.org/content/funders-orcid-policies) now require an ORCID.
   - A key to create your annual report
 
 >I use my iD as an online master list of all my publications: it’s the perfect link to give anyone who wants to read what I’ve done recently, introduce me at a conference, or consider me for a new position. Since the source of the information is clearly shown, it’s easier to confirm that I’m not making it up (https://orcid.org/blog/2018/02/15/create-sustainable-research-portfolio-orcid).
@@ -94,7 +94,7 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 
 
 
-### Register for an ORCID id
+### :computer: Register for an ORCID id
 
 #### Do you have an ORCID id? Who can have an ORCID id?
 
@@ -107,9 +107,6 @@ Anyone in the research community (academia and industry) can register for an ORC
 Additionally, you may also want to include: your biographical information, affiliations, research outputs and funding.
 
 
-Notes:
-- You may choose to create / use your ORCID username and password or you can sign-in with your Google, Facebook, or institutional sign-in credentials (Raven account).
-- There are no fields in the ORCID data structure to collect sensitive information. 
 
 
 
