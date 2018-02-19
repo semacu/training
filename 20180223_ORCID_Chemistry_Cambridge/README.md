@@ -19,6 +19,7 @@ Do you have an ORCID id? Are you sure how best to use it? Bring your own device 
 - 1st part:
   - Motivation
   - What is an ORCID id?
+  - Features
   - Demonstration
 - 2nd part:
   - Register for an ORCID id
@@ -27,21 +28,21 @@ Do you have an ORCID id? Are you sure how best to use it? Bring your own device 
 
 ### Motivation
 
-- Need of a simple web resource to **link you and your academic work** effectively and uniquely. This would allow you to **share** and **search** research effectively :mag_right::
-  - *All* your publications, biography, funding, data sets, patents, teaching materials ...?
+- You’ve done the hard work of producing that piece of research: make it easy to find! Need of a simple web resource to **link you with your academic work** effectively and uniquely. This would allow you to **share** and **search** research effectively :mag_right::
+  - All your publications, biography, funding, data sets, patents, teaching materials ...
   - How to find the work of others?
 
-- Names are complex - the same name can refer to different people, and one person can have multiple names. **Name ambiguity** impedes unique identification of researchers :dancers:. This ambivalence is spread across cultures, e.g. James Smith, Zhang Li, María García ... Names have variations, change over time and are often expressed in different ways in different situations or languages.
+- Names are complex - the same name can refer to different people, and one person may have multiple names. **Name ambiguity** impedes unique identification of researchers :dancers:. This ambivalence is spread across cultures, e.g. James Smith, Zhang Li, María García ... Names have variations, change over time and are often expressed in different ways in different situations or languages.
 
 E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. and **5** Zhang Y. coauthors!
 
 <p align="center">
-<img src=figures/zhang.png width="750">
+<img src=figures/zhang.png width="850">
 </p>
 
 - How to manage your list of works when **moving between institutions**? ... and keeping it updated too? Your email address will soon expire after you leave the university :sweat:
 
-- Avoid the **yet another password** problem when submitting papers, or applying for funding / jobs.
+- Avoid the **yet another password** problem when submitting papers, or applying for funding / jobs
 
 
 ### What is an ORCID id?
@@ -50,17 +51,31 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 
 - It is a **16-digit number**, e.g. 0000-0002-1825-0097, used in combination with a https URI, e.g. [https://orcid.org/0000-0002-1825-0097](https://orcid.org/0000-0002-1825-0097)
 
-- As a number, it is designed to be a **career-long identifier**, no information that can change over a person's career, e.g., name, country, institution, field of study, is embedded in the actual id.
 
-- Names are not enough to ensure credit for your work -> ORCID ids are **unique and persistent** identifiers specifically for researchers, analysts and scholars :clap: e.g. here are three different people named `Sergio Martínez` each with a different ORCID:
+### Features
+
+- An ORCID id is a number designed to be a **career-long identifier**. No information that can change over your career, e.g., name, country, institution, field of study, is embedded in the actual id.
+
+- They are **unique and persistent** identifiers specifically for researchers, analysts and scholars :clap: e.g. here are three different people named `Sergio Martínez` each with a different ORCID id:
 
   - [https://orcid.org/0000-0001-9806-2805](https://orcid.org/0000-0001-9806-2805) (me)
   - [https://orcid.org/0000-0002-3941-5348](https://orcid.org/0000-0002-3941-5348) (an informatics engineer in Catalunya)
   - [https://orcid.org/0000-0002-7322-5898](https://orcid.org/0000-0002-7322-5898) (a physicist in Madrid)
 
-- Unlike email addresses, if you leave the university, **the ORCID id travels with you**, along with your list of past activities.
+- Unlike email addresses, if you leave your current work place, **the ORCID record travels with you**, along with your list of past activities.
 
-- After the creation of ORCID in 2011, identifiers are beginning to be [widely-used](https://orcid.org/statistics) in different academic contexts:
+- Your data, **owned and controlled** by you:
+  - Users have full control over *what data are linked to their id*, and how those data are made *public, limited or private*. Your ORCID id is always publicly visible, but you control the [visibility settings](https://support.orcid.org/knowledgebase/articles/124518-visibility-settings) for all other content in your record.
+  
+  - Unlike most online research profile systems, ORCID is a not-for-profit organisation so users *own their id and record* (the data linked to their identifier). ORCID makes your public data available under a Creative Commons [CC0 License](https://en.wikipedia.org/wiki/Creative_Commons_license#CC0) through the ORCID website.
+  
+  - Trusted organizations may add, update, or remove information in your ORCID record *only if* you have granted permission for them to do so.
+
+- Your record is **not** a repository for your research files, ORCID simply links to wherever they live in a handy page about yourself that you can then share publicly with others, or keep to yourself.
+
+>I use my iD as an online master list of all my publications: it’s the perfect link to give anyone who wants to read what I’ve done recently, introduce me at a conference, or consider me for a new position. Since the source of the information is clearly shown, it’s easier to confirm that I’m not making it up (https://orcid.org/blog/2018/02/15/create-sustainable-research-portfolio-orcid).
+
+- ORCID was created in 2011. Identifiers are beginning to be [widely-used](https://orcid.org/statistics) in different academic contexts:
 
 <p align="center">
 <img src=figures/orcid_map.png width="500">
@@ -70,12 +85,10 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 (https://www.youtube.com/watch?v=a1Rijk_TMHA)
 </p>
 
-- Your data, **owned and controlled** by you:
-  - Users have full control over *what data are linked to their id*, and how those data are made *public, limited or private*. Your ORCID id is always publicly visible, but you control the [visibility settings](https://support.orcid.org/knowledgebase/articles/124518-visibility-settings) for all other content in your record.
-  
-  - Unlike most online research profile systems, ORCID is a not-for-profit organisation so users *own their id and record* (the data linked to their identifier). ORCID makes your public data available under a Creative Commons [CC0 License](https://en.wikipedia.org/wiki/Creative_Commons_license#CC0) through the ORCID website.
-  
-  - Organizations may add, update, or remove information in your ORCID record *only if* you have granted permission for them to do so.
+
+### Demonstration
+
+
 
 
 ### Register for an ORCID id
@@ -103,6 +116,8 @@ Notes:
 
 
 ## References
+
+I obtained various parts of this tutorial from the following references:
 
 ORCID materials:
 
