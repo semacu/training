@@ -72,7 +72,7 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
   - Trusted organizations may add, update, or remove information in your ORCID record *only if* you have granted permission for them to do so.
 
 - Your record is **not** a repository for your research files, ORCID simply links to wherever they live in a handy page about yourself that you can then share publicly with others, or keep to yourself. E.g. you could use it as:
-  - A dynamic CV
+  - A constantly updated digital CV
   - A way to save time when submitting manuscripts and funding. Many [publishers](https://orcid.org/content/requiring-orcid-publication-workflows-open-letter) and [funding bodies](https://orcid.org/content/funders-orcid-policies) now require an ORCID.
   - A key to create your annual report
 
@@ -106,7 +106,33 @@ Anyone in the research community (academia and industry) can register for an ORC
 
 Additionally, you may also want to include: your biographical information, affiliations, research outputs and funding.
 
+**Register**:
 
+1. Go to https://orcid.org/, hover over `FOR RESEARCHERS` and click on `REGISTER FOR AN ORCID ID`
+
+<p align="center">
+<img src=figures/orcid_registration.png width="750">
+</p>
+
+2. Introduce your name, email and ORCID password. 
+  - If your email already exists in the system, then you most likely have an ORCID already. Click on `SIGN IN` instead.
+3. Set your default visibility settings: public, limited or private. More info [here](https://support.orcid.org/knowledgebase/articles/124518-orcid-privacy-settings).
+  - These can always be changed later
+4. Fill in the remaining boxes and click on `Register`.
+
+
+**Sign in**:
+
+1. Go to https://orcid.org/, hover over `FOR RESEARCHERS` and click on `SIGN IN`
+
+<p align="center">
+<img src=figures/orcid_signin.png width="750">
+</p>
+
+2. Select one of the following tabs:
+  - *Personal account*: introduce the email you used to register or your ORCID id, then type your password
+  - *Institutional account*: type `Unversity of Cambridge`, click on `Continue` and sign in with your Raven details
+  - Alternatively, you can log in using your Facebook or Google accounts
 
 
 
