@@ -71,12 +71,22 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
   
   - Trusted organizations may add, update, or remove information in your ORCID record *only if* you have granted permission for them to do so.
 
-- Your record is **not** a repository for your research files, ORCID simply links to wherever they live in a handy page about yourself that you can then share publicly with others, or keep to yourself. E.g. you could use it as:
+- Your record is **not** a repository for your research files, ORCID simply links to wherever they live in a handy page about yourself that you can then share publicly with others, or keep to yourself.
+
+>Andrew Dunning, University of Toronto, Canada
+>I use my iD as an online master list of all my publications: it’s the perfect link to give anyone who wants to read what I’ve done recently, introduce me at a conference, or consider me for a new position. Since the source of the information is clearly shown, it’s easier to confirm that I’m not making it up (https://orcid.org/blog/2018/02/15/create-sustainable-research-portfolio-orcid).
+
+E.g. you could use it as:
+
   - A constantly updated digital CV
   - A way to save time when submitting manuscripts and funding. Many [publishers](https://orcid.org/content/requiring-orcid-publication-workflows-open-letter) and [funding bodies](https://orcid.org/content/funders-orcid-policies) now require an ORCID.
   - A key to create your annual report
 
->I use my iD as an online master list of all my publications: it’s the perfect link to give anyone who wants to read what I’ve done recently, introduce me at a conference, or consider me for a new position. Since the source of the information is clearly shown, it’s easier to confirm that I’m not making it up (https://orcid.org/blog/2018/02/15/create-sustainable-research-portfolio-orcid).
+>From the editorial office of Nature Structural and Molecular Biology:
+>Dear Dr. Martinez Cuesta,
+>Please note that you are listed as a co-author on the manuscript ...
+> ...
+>In addition, Springer Nature encourages all authors and reviewers to associate an Open Researcher and Contributor Identifier (ORCID) to their account. ORCID is a community-based initiative that provides an open, non-proprietary and transparent registry of unique identifiers to help disambiguate research contributions. 
 
 - First created in 2012, ORCID ids are beginning to be [widely-used](https://orcid.org/statistics) in different academic contexts:
 
