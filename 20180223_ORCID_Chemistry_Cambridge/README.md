@@ -5,7 +5,7 @@
 
 - Date: 23rd February 2017, 1 - 2pm
 - Location: [Unilever Lecture Theatre, Department of Chemistry](https://www.google.co.uk/maps/place/Department+of+Chemistry,+University+of+Cambridge/@52.197861,0.1233163,17z/data=!3m1!4b1!4m5!3m4!1s0x47d87099683bd269:0xd9d90c335a84ddd!8m2!3d52.197861!4d0.125505), University of Cambridge, UK
-- Bring your own laptop or mobile device if you'd like to follow the practical part
+- Bring your own laptop or mobile device if you'd like to follow the practical part, follow the headings with the symbol :computer:
 - Materials available: https://tinyurl.com/2018-ORCID-chemistry
 - Sign up: https://www.training.cam.ac.uk/chem/event/2415035
 
@@ -22,15 +22,15 @@ Do you have an ORCID id? Are you sure how best to use it? Bring your own device 
   - Features
   - Demonstration
 - 2nd part:
-  - Register for an ORCID id
-  - Extend your ORCID record
+  - Register for an ORCID :computer:
+  - Extend your ORCID record :computer:
 
 
 ### Motivation
 
 - You’ve done the hard work of producing that piece of research: make it easy to find! Need of a simple web resource to **link you with your academic work** effectively and uniquely. This would allow you to **share** and **search** research effectively :mag_right::
   - All your publications, biography, funding, data sets, patents, teaching materials ...
-  - How to find the work of others?
+  - How best to find the work of others?
 
 - Names are complex - the same name can refer to different people, and one person may have multiple names. **Name ambiguity** impedes unique identification of researchers :dancers:. This ambivalence is spread across cultures, e.g. James Smith, Zhang Li, María García ... Names have variations, change over time and are often expressed in different ways in different situations or languages.
 
@@ -56,7 +56,7 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 
 - An ORCID id is a number designed to be a **career-long identifier**. No information that can change over your career, e.g., name, country, institution, field of study, is embedded in the actual id.
 
-- They are **unique and persistent** identifiers specifically for researchers, analysts and scholars - like an ISBN, but for people, e.g. here are three different people named `Sergio Martínez` each with a different ORCID id:
+- Distinguish yourself from other researchers! Even if they have the same name as you during your entire career. ORCID ids are **unique and persistent** specifically for researchers, analysts and scholars - like an ISBNs or DOIs, but for people, e.g. here are three different people named `Sergio Martínez`, each with a different ORCID id:
 
   - [https://orcid.org/0000-0001-9806-2805](https://orcid.org/0000-0001-9806-2805) (me)
   - [https://orcid.org/0000-0002-3941-5348](https://orcid.org/0000-0002-3941-5348) (an informatics engineer in Catalunya)
@@ -78,7 +78,7 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 
 >I use my iD as an online master list of all my publications: it’s the perfect link to give anyone who wants to read what I’ve done recently, introduce me at a conference, or consider me for a new position. Since the source of the information is clearly shown, it’s easier to confirm that I’m not making it up (https://orcid.org/blog/2018/02/15/create-sustainable-research-portfolio-orcid).
 
-- ORCID was created in 2011. Identifiers are beginning to be [widely-used](https://orcid.org/statistics) in different academic contexts:
+- First created in 2012, ORCID ids are beginning to be [widely-used](https://orcid.org/statistics) in different academic contexts:
 
 <p align="center">
 <img src=figures/orcid_map.png width="500">
@@ -91,12 +91,12 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 
 ### Demonstration
 
+This will be a brief example where I will be using my own ORCID record (https://orcid.org/0000-0001-9806-2805) to illustrate how you can operate with it.
 
 
+### Register for an ORCID :computer:
 
-### :computer: Register for an ORCID id
-
-#### Do you have an ORCID id? Who can have an ORCID id?
+#### Do you have an ORCID? Who can have one?
 
 Anyone in the research community (academia and industry) can register for an ORCID id! Only three items are required:
 
