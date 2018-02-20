@@ -159,7 +159,7 @@ Work in pairs, introduce yourself to the person sitting next to you and collabor
 
 3. Add your PhD or most recent studies to the `Education` section:
   - Hover over `+ Add education` and click on `+ Add manually`. Fill in the boxes and click on `Add to list`.
-  - Once added, change the visibility settings and click on `View public version` (see left of the page) to understand how it works.
+  - Once added, play with the visibility settings and the `View public version` button (see left of the page) to understand how privacy works in ORCID.
 
 
 ## References
