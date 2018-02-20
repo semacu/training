@@ -21,9 +21,9 @@ Do you have an ORCID id? Are you sure how best to use it? Bring your own device 
   - What is an ORCID id?
   - Features
   - Demonstration
-- 2nd part:
-  - Register for an ORCID :computer:
-  - Extend your ORCID record :computer:
+- 2nd part :computer: :
+  - Register for an ORCID 
+  - Extend your ORCID record
 
 
 ### Motivation
@@ -73,7 +73,8 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 
 - Your record is **not** a repository for your research files, ORCID simply links to wherever they live in a handy page about yourself that you can then share publicly with others, or keep to yourself.
 
->Andrew Dunning, University of Toronto, Canada
+>Andrew Dunning, University of Toronto, Canada:
+>
 >I use my iD as an online master list of all my publications: it’s the perfect link to give anyone who wants to read what I’ve done recently, introduce me at a conference, or consider me for a new position. Since the source of the information is clearly shown, it’s easier to confirm that I’m not making it up (https://orcid.org/blog/2018/02/15/create-sustainable-research-portfolio-orcid).
 
 E.g. you could use it as:
@@ -83,9 +84,9 @@ E.g. you could use it as:
   - A key to create your annual report
 
 >From the editorial office of Nature Structural and Molecular Biology:
+>
 >Dear Dr. Martinez Cuesta,
 >Please note that you are listed as a co-author on the manuscript ...
-> ...
 >In addition, Springer Nature encourages all authors and reviewers to associate an Open Researcher and Contributor Identifier (ORCID) to their account. ORCID is a community-based initiative that provides an open, non-proprietary and transparent registry of unique identifiers to help disambiguate research contributions. 
 
 - First created in 2012, ORCID ids are beginning to be [widely-used](https://orcid.org/statistics) in different academic contexts:
@@ -147,9 +148,18 @@ Additionally, you may also want to include: your biographical information, affil
 
 ### Extend your ORCID record :computer:
 
-Add all the email addresses you use in your research to ensure that you don’t accidentally sign up again with one of them or lose access to your account (you don’t have to make them public).
+Work in pairs, introduce yourself to the person sitting next to you and collaborate on completing each of your individual records:
 
-Under construction ...
+1. Login into your ORCID account
+
+2. Edit some of your personal details (click pencil icons on the left side of the page), e.g.
+  - Name
+  - Country
+  - Emails - Add all the addresses you use in your research to ensure that you don’t accidentally sign up again with one of them or lose access to your account.
+
+3. Add your PhD or most recent studies to the `Education` section:
+  - Hover over `+ Add education` and click on `+ Add manually`. Fill in the boxes and click on `Add to list`.
+  - Once added, change the visibility settings and click on `View public version` (see left of the page) to understand how it works.
 
 
 ## References
