@@ -135,6 +135,12 @@ Additionally, you may also want to include: your biographical information, affil
   - Alternatively, you can log in using your Facebook or Google accounts
 
 
+### Extend your ORCID record :computer:
+
+Add all the email addresses you use in your research to ensure that you don’t accidentally sign up again with one of them or lose access to your account (you don’t have to make them public).
+
+Under construction ...
+
 
 ## References
 
