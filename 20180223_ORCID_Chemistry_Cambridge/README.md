@@ -148,7 +148,7 @@ Additionally, you may also want to include: your biographical information, affil
 
 ### Extend your ORCID record :computer:
 
-Work in pairs, introduce yourself to the person sitting next to you and collaborate on completing each of your individual records:
+:speech_balloon: Work in pairs, introduce yourself to the person sitting next to you and collaborate on completing each of your individual records:
 
 1. Login into your ORCID account
 
@@ -157,9 +157,23 @@ Work in pairs, introduce yourself to the person sitting next to you and collabor
   - Country
   - Emails - Add all the addresses you use in your research to ensure that you don’t accidentally sign up again with one of them or lose access to your account.
 
-3. Add your PhD or most recent studies to the `Education` section:
+3. Add your PhD or your recent qualification to the `Education` section:
   - Hover over `+ Add education` and click on `+ Add manually`. Fill in the boxes and click on `Add to list`.
   - Once added, play with the visibility settings and the `View public version` button (see left of the page) to understand how privacy works in ORCID.
+  
+4. Add publications to the `Works` section:
+  - Hover over `+ Add works` and click on `Search and link`. To import your works from other databases, select one of the following and:
+    - **Scopus** to ORCID - enter your full name and select your profile, then review and send publications
+    - **CrossRef** Metadata Search - allow CrossRef as a trusted organisation to change your profile, browse through the publications and click on the `ADD TO ORCID` icons.
+    - **DataCite** - on the `ORCID Search and Link` section click on `search`, browse through your works and click on the `Add to ORCID record` icons.
+    - **Europe PubMed Central** - browse through your publications and select them, then go to the top of the page and click on `Continue`. Review the publications to be added and click on `Send to ORCID`.
+    - :speech_balloon: Explore other databases and discuss with the person sitting next to you
+  - To manually edit your `Works`:
+    - Click on the `Make a copy and edit` button under each work and include any missing information or identifiers.
+    - Hover over `+ Add works` and click on `+ Add manually` to include any of your works that haven't been found by any of the database searchers above.
+    
+5. :speech_balloon: Discuss the developments of your ORCID record with the person sitting next to you, visualise your record by clicking on `View public version` or `Public record print view` (left side of the page) and rejoice! :sunglasses:
+
 
 
 ## References
