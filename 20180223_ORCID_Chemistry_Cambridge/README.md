@@ -175,6 +175,10 @@ Additionally, you may also want to include: your biographical information, affil
 5. :speech_balloon: Discuss the developments of your ORCID record with the person sitting next to you, visualise your record by clicking on `View public version` or `Public record print view` (left side of the page) and rejoice! :sunglasses:
 
 
+## Questions?
+
+Email Sergio (sermarcue@gmail.com) or Clair (cmc32@cam.ac.uk). We are there to help.
+
 
 ## References
 
@@ -202,13 +206,16 @@ Videos:
 - [An introduction to ORCID](https://www.youtube.com/watch?v=bYa6Vph7b08)
 
 
+## Acknowledgements
+
+Clair Castle for the organisation.
+
+
 ## License
 
 This work is distributed under a Creative Commons [CC0 license](https://en.wikipedia.org/wiki/Creative_Commons_license#CC0). No rights reserved.
 
-## Acknowledgements
-
-Clair Castle for the organisation. Our sponsors:
+Our sponsors:
 
 <p align="center">
 <img src=../20171024_GitHub_Chemistry_Cambridge/images/UniversityCambridge_logo.png height="50"> <img src=../20171024_GitHub_Chemistry_Cambridge/images/CRUKCI_logo.jpg height="50"> <img src=../20171024_GitHub_Chemistry_Cambridge/images/Jisc_logo.png height="50"> <img src=../20171024_GitHub_Chemistry_Cambridge/images/WellcomeTrust_logo.jpg height="50">
