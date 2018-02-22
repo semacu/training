@@ -5,6 +5,7 @@
 
 - Date: 23rd February 2017, 1 - 2pm
 - Location: [Unilever Lecture Theatre, Department of Chemistry](https://www.google.co.uk/maps/place/Department+of+Chemistry,+University+of+Cambridge/@52.197861,0.1233163,17z/data=!3m1!4b1!4m5!3m4!1s0x47d87099683bd269:0xd9d90c335a84ddd!8m2!3d52.197861!4d0.125505), University of Cambridge, UK
+- Trainers: Sergio Martínez Cuesta and Clair Castle
 - Bring your own laptop or mobile device if you'd like to follow the practical part, follow the headings with the symbol :computer:
 - Materials available: https://tinyurl.com/2018-ORCID-chemistry
 - Sign up: https://www.training.cam.ac.uk/chem/event/2415035
@@ -23,10 +24,19 @@ Do you have an ORCID id? Are you sure how best to use it? Bring your own device 
   - Demonstration
 - 2nd part :computer: :
   - Register for an ORCID 
+  - Link your ORCID and Symplectic Elements accounts
   - Extend your ORCID record
 
 
 ### Motivation
+
+Main points:
+
+1. **Linking** you and your work uniquely. **Sharing** your research effectively
+2. **Resolving** name ambiguity with identifiers
+3. **Making** identifiers lasting forever
+
+Details:
 
 - You’ve done the hard work of producing that piece of research: make it easy to find! Need of a simple web resource to **link you with your academic work** effectively and uniquely. This would allow you to **share** and **search** research effectively :mag_right::
   - All your publications, biography, funding, data sets, patents, teaching materials ...
@@ -107,7 +117,7 @@ This will be a brief example where I will be using my own ORCID record (https://
 
 ### Register for an ORCID :computer:
 
-#### Do you have an ORCID? Who can have one?
+#### Who can have one an ORCID?
 
 Anyone in the research community (academia and industry) can register for an ORCID id! Only three items are required:
 
@@ -116,6 +126,8 @@ Anyone in the research community (academia and industry) can register for an ORC
 - A password
 
 Additionally, you may also want to include: your biographical information, affiliations, research outputs and funding.
+
+#### Do you already have one?
 
 **Register**:
 
@@ -126,22 +138,26 @@ Additionally, you may also want to include: your biographical information, affil
 </p>
 
 2. Introduce your name, email and ORCID password. 
-  - If your email already exists in the system, then you most likely have an ORCID already. Click on `SIGN IN` instead.
+  - If your email already exists in the system, then you most likely have an account already, otherwise please jump to the next point.
+  - If you already have an account, click on `SIGN IN` instead and follow the details in the next section.
+  
 3. Set your default visibility settings: public, limited or private. More info [here](https://support.orcid.org/knowledgebase/articles/124518-orcid-privacy-settings).
-  - These can always be changed later
+  - Don't worry, these can all be changed later
+  
 4. Fill in the remaining boxes and click on `Register`.
 
 
 **Sign in**:
 
 1. Go to https://orcid.org/, hover over `FOR RESEARCHERS` and click on `SIGN IN`
+  - To find your email/id, introduce your full name in the gray Search box at the top of the page and browse through the hits until you find your account. Reset your password if necessary.
 
 <p align="center">
 <img src=figures/orcid_signin.png width="750">
 </p>
 
 2. Select one of the following tabs:
-  - *Personal account*: introduce the email you used to register or your ORCID id, then type your password
+  - *Personal account*: introduce the email you used when you registered or your ORCID id, then type your password
   - *Institutional account*: type `Unversity of Cambridge`, click on `Continue` and sign in with your Raven details
   - Alternatively, you can log in using your Facebook or Google accounts
 
@@ -208,7 +224,7 @@ Videos:
 
 ## Acknowledgements
 
-Clair Castle for the organisation.
+Sergio Martínez Cuesta is Data Champions fellow funded by [Jisc](https://www.jisc.ac.uk/) to develop research data training activities for researchers. He does research in bioinformatics and computational biology by the Wellcome Trust in the [Balasubramanian group](http://www.balasubramanian.co.uk/) at the University of Cambridge.
 
 
 ## License
