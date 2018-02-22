@@ -208,7 +208,7 @@ For help, email Sergio (sermarcue@gmail.com) or Clair (cmc32@cam.ac.uk).
 
 ## References
 
-I obtained the various parts of this tutorial from the following references:
+We obtained the various parts of this tutorial from the following references:
 
 ORCID materials:
 
