@@ -22,10 +22,10 @@ Do you have an ORCID id? Are you sure how best to use it? Bring your own device 
   - What is an ORCID id?
   - Features
   - Demonstration
-- 2nd part :computer: :
-  - Register for an ORCID 
-  - Link your ORCID and Symplectic Elements accounts
-  - Extend your ORCID record
+- 2nd part:
+  - Register for an ORCID :computer:
+  - Link your ORCID and Symplectic Elements accounts :computer:
+  - Extend your ORCID record :computer:
 
 
 ### Motivation
@@ -160,6 +160,16 @@ Additionally, you may also want to include: your biographical information, affil
   - *Personal account*: introduce the email you used when you registered or your ORCID id, then type your password
   - *Institutional account*: type `Unversity of Cambridge`, click on `Continue` and sign in with your Raven details
   - Alternatively, you can log in using your Facebook or Google accounts
+
+
+### Link your ORCID and Symplectic Elements accounts :computer:
+
+You can now make your ORCID and Symplectic Elements accounts import your works between one another. Information on how to setup this link is provided [here](https://www.vle.cam.ac.uk/mod/book/view.php?id=3460531&chapterid=170001):
+
+1. Connect to your Sympletic Elements account by logging using Raven [here](https://elements.admin.cam.ac.uk)
+2. Go to `Menu`, then click on `Search settings`
+3. Scroll down to the "Source-specific name-based search terms" section and click on `Configure` next to the ORCID logo in the list. Then click on `Configure connection`. An ORCID webpage will then appear
+4. Sign in with your ORCID details to authorize the University of Cambridge / Symplectic Elements as a trusted organisation to read your ORCID record
 
 
 ### Extend your ORCID record :computer:
