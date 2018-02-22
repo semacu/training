@@ -193,22 +193,22 @@ You can now make your ORCID and Symplectic Elements accounts import your works b
     - **CrossRef** Metadata Search - allow CrossRef as a trusted organisation to change your profile, browse through the publications and click on the `ADD TO ORCID` icons.
     - **DataCite** - on the `ORCID Search and Link` section click on `search`, browse through your works and click on the `Add to ORCID record` icons.
     - **Europe PubMed Central** - browse through your publications and select them, then go to the top of the page and click on `Continue`. Review the publications to be added and click on `Send to ORCID`.
-    - :speech_balloon: Explore other databases and discuss with the person sitting next to you
+    - :speech_balloon: Explore other databases and talk about them with your discussion partner
   - To manually edit your `Works`:
     - Click on the `Make a copy and edit` button under each work and include any missing information or identifiers.
     - Hover over `+ Add works` and click on `+ Add manually` to include any of your works that haven't been found by any of the database searchers above.
     
-5. :speech_balloon: Discuss the developments of your ORCID record with the person sitting next to you, visualise your record by clicking on `View public version` or `Public record print view` (left side of the page) and rejoice! :sunglasses:
+5. :speech_balloon: Discuss the developments of your ORCID record with your discussion partner, visualise your record by clicking on `View public version` or `Public record print view` (left side of the page) and rejoice! :sunglasses:
 
 
 ## Questions?
 
-Email Sergio (sermarcue@gmail.com) or Clair (cmc32@cam.ac.uk). We are here to help.
+For help, email Sergio (sermarcue@gmail.com) or Clair (cmc32@cam.ac.uk).
 
 
 ## References
 
-I obtained various parts of this tutorial from the following references:
+I obtained the various parts of this tutorial from the following references:
 
 ORCID materials:
 
@@ -234,7 +234,7 @@ Videos:
 
 ## Acknowledgements
 
-Sergio Martínez Cuesta is Data Champions fellow funded by [Jisc](https://www.jisc.ac.uk/) to develop research data training activities for researchers. He does research in bioinformatics and computational biology by the Wellcome Trust in the [Balasubramanian group](http://www.balasubramanian.co.uk/) at the University of Cambridge.
+SMC and CC are Data Champions for the University of Cambridge. SMC is funded by a Jisc research data [fellowship](https://www.jisc.ac.uk/) to develop research data training activities for researchers. He does research in bioinformatics and computational biology within the [Balasubramanian laboratories](http://www.balasubramanian.co.uk/) funded by the Wellcome Trust at the University of Cambridge.
 
 
 ## License
