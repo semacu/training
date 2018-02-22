@@ -193,7 +193,7 @@ Additionally, you may also want to include: your biographical information, affil
 
 ## Questions?
 
-Email Sergio (sermarcue@gmail.com) or Clair (cmc32@cam.ac.uk). We are there to help.
+Email Sergio (sermarcue@gmail.com) or Clair (cmc32@cam.ac.uk). We are here to help.
 
 
 ## References
