@@ -67,16 +67,6 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 
 ### Features
 
-- An ORCID id is a number designed to be a **career-long identifier**. No information that can change over your career, e.g., name, country, institution, field of study, is embedded in the actual id.
-
-- Distinguish yourself from other researchers! Even if they have the same name as you during your entire career. ORCID ids are **unique and persistent** specifically for researchers, analysts and scholars - like an ISBN or DOI, but for people, e.g. here are three different people named `Sergio Martínez`, each with a different ORCID id:
-
-  - [https://orcid.org/0000-0001-9806-2805](https://orcid.org/0000-0001-9806-2805) (me)
-  - [https://orcid.org/0000-0002-3941-5348](https://orcid.org/0000-0002-3941-5348) (an informatics engineer in Catalunya)
-  - [https://orcid.org/0000-0002-7322-5898](https://orcid.org/0000-0002-7322-5898) (a physicist in Madrid)
-
-- Unlike email addresses, if you leave your current work place, **the ORCID record travels with you**, along with your list of past activities.
-
 - First launched in 2012, ORCID ids are beginning to be [widely-used](https://orcid.org/statistics) in different academic contexts:
 
 <p align="center">
@@ -86,6 +76,16 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 <p align="center">
 (https://www.youtube.com/watch?v=a1Rijk_TMHA)
 </p>
+
+- An ORCID id is a number designed to be a **career-long identifier**. No information that can change over your career, e.g., name, country, institution, field of study, is embedded in the actual id.
+
+- Distinguish yourself from other researchers! Even if they have the same name as you during your entire career. ORCID ids are **unique and persistent** specifically for researchers, analysts and scholars - like an ISBN or DOI, but for people, e.g. here are three different people named `Sergio Martínez`, each with a different ORCID id:
+
+  - [https://orcid.org/0000-0001-9806-2805](https://orcid.org/0000-0001-9806-2805) (me)
+  - [https://orcid.org/0000-0002-3941-5348](https://orcid.org/0000-0002-3941-5348) (an informatics engineer in Catalunya)
+  - [https://orcid.org/0000-0002-7322-5898](https://orcid.org/0000-0002-7322-5898) (a physicist in Madrid)
+
+- Unlike email addresses, if you leave your current work place, **the ORCID record travels with you**, along with your list of past activities.
 
 - Your data, **owned and controlled** by you:
   - Users have full control over *what data are linked to their id*, and how those data are made *public, limited or private*. Your ORCID id is always publicly visible, but you control the [visibility settings](https://support.orcid.org/knowledgebase/articles/124518-visibility-settings) for all other content in your record.
