@@ -10,6 +10,10 @@
 - Materials available: https://tinyurl.com/2018-ORCID-chemistry
 - Sign up: https://www.training.cam.ac.uk/chem/event/2415035
 
+<br />
+<br />
+<br />
+<p align="right"><i>Poster by Clair Castle</i></p>
 
 ### Overview
 
@@ -26,7 +30,7 @@ Do you have an ORCID id? Are you sure how best to use it? Bring your own device 
   - Register for an account :computer:
   - Link your ORCID id and Symplectic Elements accounts :computer:
   - Extend your ORCID record :computer:
-  - Enhance your online profile :computer:
+  - Enhance your online profile
 
 
 ### Motivation
@@ -204,7 +208,7 @@ You can now make your ORCID and Symplectic Elements accounts import your works b
 5. :speech_balloon: Discuss the developments of your ORCID record with your discussion partner, visualise your record by clicking on `View public version` or `Public record print view` (left side of the page) and rejoice! :sunglasses:
 
 
-### Enhance your online profile :computer:
+### Enhance your online profile
 
 Include your ORCID id everywhere you have an online presence, to make it easier for everyone to view your record:
 
