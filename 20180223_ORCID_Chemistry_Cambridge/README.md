@@ -23,9 +23,10 @@ Do you have an ORCID id? Are you sure how best to use it? Bring your own device 
   - Features
   - Demonstration
 - 2nd part:
-  - Register for an ORCID :computer:
-  - Link your ORCID and Symplectic Elements accounts :computer:
+  - Register for an account :computer:
+  - Link your ORCID id and Symplectic Elements accounts :computer:
   - Extend your ORCID record :computer:
+  - Enhance your online profile :computer:
 
 
 ### Motivation
@@ -115,7 +116,7 @@ E.g. you could use it as:
 This will be a brief example where I will be using my own ORCID record (https://orcid.org/0000-0001-9806-2805) to illustrate how you can operate with it.
 
 
-### Register for an ORCID :computer:
+### Register for an account :computer:
 
 #### Who can have one an ORCID?
 
@@ -166,7 +167,7 @@ Additionally, you may also want to include: your biographical information, affil
 
 You can now make your ORCID and Symplectic Elements accounts import your works between one another. Information on how to setup this link is provided [here](https://www.vle.cam.ac.uk/mod/book/view.php?id=3460531&chapterid=170001):
 
-1. Connect to your Sympletic Elements account by logging using Raven [here](https://elements.admin.cam.ac.uk)
+1. Connect to your Sympletic Elements account by logging in using Raven [here](https://elements.admin.cam.ac.uk)
 2. Go to `Menu`, then click on `Search settings`
 3. Scroll down to the "Source-specific name-based search terms" section and click on `Configure` next to the ORCID logo in the list. Then click on `Configure connection`. An ORCID webpage will then appear
 4. Sign in with your ORCID details to authorize the University of Cambridge / Symplectic Elements as a trusted organisation to read your ORCID record
@@ -199,6 +200,19 @@ You can now make your ORCID and Symplectic Elements accounts import your works b
     - Hover over `+ Add works` and click on `+ Add manually` to include any of your works that haven't been found by any of the database searchers above.
     
 5. :speech_balloon: Discuss the developments of your ORCID record with your discussion partner, visualise your record by clicking on `View public version` or `Public record print view` (left side of the page) and rejoice! :sunglasses:
+
+
+### Enhance your online profile :computer:
+
+Include your ORCID id everywhere you have an online presence, to make it easier for everyone to view your record:
+
+- in your email signature
+- on your department/group website
+- on your blog 
+- in your LinkedIn profile
+- in your Twitter bio
+- in your Google Scholar citations [profile](https://support.orcid.org/knowledgebase/articles/390530)
+- in your Mendeley [account](https://blog.mendeley.com/2016/11/30/mendeley-integrates-with-orcid-uniquely-identify-your-research/)
 
 
 ## Questions?
