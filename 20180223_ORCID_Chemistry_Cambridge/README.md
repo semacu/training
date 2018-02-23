@@ -1,5 +1,5 @@
 
-<img align="right" src=figures/ORCID_poster_v2.png width="200">
+<img align="right" src=figures/ORCID_poster_v2.png width="250">
 
 ## Introduction to ORCID
 
