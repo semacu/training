@@ -21,16 +21,14 @@ Many funders and publishers now require you to get an Open Researcher and Contri
 
 Do you have an ORCID id? Are you sure how best to use it? Bring your own device to this practical session and register for an ORCID id, explore its features and find out more.
 
-- 1st part:
   - Motivation
   - What is an ORCID id?
   - Features
   - Demonstration
-- 2nd part:
   - Register for an account :computer:
   - Link your ORCID id and Symplectic Elements accounts :computer:
-  - Extend your ORCID record :computer:
-  - Enhance your online profile
+  - (+) Extend your ORCID record :computer:
+  - (+) Enhance your online profile
 
 
 ### Motivation
@@ -71,7 +69,7 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 
 - An ORCID id is a number designed to be a **career-long identifier**. No information that can change over your career, e.g., name, country, institution, field of study, is embedded in the actual id.
 
-- Distinguish yourself from other researchers! Even if they have the same name as you during your entire career. ORCID ids are **unique and persistent** specifically for researchers, analysts and scholars - like an ISBNs or DOIs, but for people, e.g. here are three different people named `Sergio Martínez`, each with a different ORCID id:
+- Distinguish yourself from other researchers! Even if they have the same name as you during your entire career. ORCID ids are **unique and persistent** specifically for researchers, analysts and scholars - like an ISBN or DOI, but for people, e.g. here are three different people named `Sergio Martínez`, each with a different ORCID id:
 
   - [https://orcid.org/0000-0001-9806-2805](https://orcid.org/0000-0001-9806-2805) (me)
   - [https://orcid.org/0000-0002-3941-5348](https://orcid.org/0000-0002-3941-5348) (an informatics engineer in Catalunya)
@@ -79,12 +77,23 @@ E.g. the following article has **4** Zhang H., **4** Zhang J., **4** Zhang L. an
 
 - Unlike email addresses, if you leave your current work place, **the ORCID record travels with you**, along with your list of past activities.
 
+- First launched in 2012, ORCID ids are beginning to be [widely-used](https://orcid.org/statistics) in different academic contexts:
+
+<p align="center">
+<img src=figures/orcid_map.png width="500">
+</p>
+
+<p align="center">
+(https://www.youtube.com/watch?v=a1Rijk_TMHA)
+</p>
+
 - Your data, **owned and controlled** by you:
   - Users have full control over *what data are linked to their id*, and how those data are made *public, limited or private*. Your ORCID id is always publicly visible, but you control the [visibility settings](https://support.orcid.org/knowledgebase/articles/124518-visibility-settings) for all other content in your record.
   
   - Unlike most online research profile systems, ORCID is a not-for-profit organisation so users *own their id and record* (the data linked to their identifier). Whereas ORCID makes your data available in the public domain under a Creative Commons [CC0 License](https://en.wikipedia.org/wiki/Creative_Commons_license#CC0) through their website, it doesn’t track you or sell your data.
   
-  - Trusted organizations may add, update, or remove information in your ORCID record *only if* you have granted permission for them to do so.
+  - *Trusted organizations* may add, update, or remove information in your ORCID record *only if* you have granted permission for them to do so.
+  - You can *grant permission to one or more trusted individuals* to update your ORCID record (this might be relevant to group leaders and personal assistants). See [here](https://support.orcid.org/knowledgebase/articles/217659-trusted-individuals).
 
 - Your record is **not** a repository for your research files, ORCID simply links to wherever they live in a handy page about yourself that you can then share publicly with others, or keep to yourself.
 
@@ -103,18 +112,6 @@ E.g. you could use it as:
 >Dear Dr. Martinez Cuesta,
 >Please note that you are listed as a co-author on the manuscript ...
 >In addition, Springer Nature encourages all authors and reviewers to associate an Open Researcher and Contributor Identifier (ORCID) to their account. ORCID is a community-based initiative that provides an open, non-proprietary and transparent registry of unique identifiers to help disambiguate research contributions. 
-
-- First launched in 2012, ORCID ids are beginning to be [widely-used](https://orcid.org/statistics) in different academic contexts:
-
-<p align="center">
-<img src=figures/orcid_map.png width="500">
-</p>
-
-<p align="center">
-(https://www.youtube.com/watch?v=a1Rijk_TMHA)
-</p>
-
-- You can **grant permission to one or more trusted individuals** to update your ORCID record (might be relevant to group leaders and personal assistants). See [here](https://support.orcid.org/knowledgebase/articles/217659-trusted-individuals).
 
 
 ### Demonstration
