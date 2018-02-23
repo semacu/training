@@ -100,7 +100,7 @@ E.g. you could use it as:
 >Please note that you are listed as a co-author on the manuscript ...
 >In addition, Springer Nature encourages all authors and reviewers to associate an Open Researcher and Contributor Identifier (ORCID) to their account. ORCID is a community-based initiative that provides an open, non-proprietary and transparent registry of unique identifiers to help disambiguate research contributions. 
 
-- First created in 2012, ORCID ids are beginning to be [widely-used](https://orcid.org/statistics) in different academic contexts:
+- First launched in 2012, ORCID ids are beginning to be [widely-used](https://orcid.org/statistics) in different academic contexts:
 
 <p align="center">
 <img src=figures/orcid_map.png width="500">
@@ -109,6 +109,8 @@ E.g. you could use it as:
 <p align="center">
 (https://www.youtube.com/watch?v=a1Rijk_TMHA)
 </p>
+
+- You can **grant permission to one or more trusted individuals** to update your ORCID record (might be relevant to group leaders and personal assistants). See [here](https://support.orcid.org/knowledgebase/articles/217659-trusted-individuals).
 
 
 ### Demonstration
@@ -206,13 +208,20 @@ You can now make your ORCID and Symplectic Elements accounts import your works b
 
 Include your ORCID id everywhere you have an online presence, to make it easier for everyone to view your record:
 
-- in your email signature
+- in your email signature - some info on displaying logos and graphics [here](https://members.orcid.org/api/resources/graphics)
 - on your department/group website
 - on your blog 
 - in your LinkedIn profile
 - in your Twitter bio
-- in your Google Scholar citations [profile](https://support.orcid.org/knowledgebase/articles/390530)
+- import/export your Google Scholar [citations](https://support.orcid.org/knowledgebase/articles/390530)
 - in your Mendeley [account](https://blog.mendeley.com/2016/11/30/mendeley-integrates-with-orcid-uniquely-identify-your-research/)
+
+You can also link your ORCID account with:
+
+- [arXiv](https://arxiv.org/help/orcid)
+- [ResearcherID](https://www.researcherid.com/resources/html/dsy7043-TRS.html)
+- [Scopus](https://libraryconnect.elsevier.com/articles/how-create-orcid-record-scopus-author-id)
+- your grant information when using [Dimensions](https://www.uberresearch.com/orcid-wizard/)
 
 
 ## Questions?
