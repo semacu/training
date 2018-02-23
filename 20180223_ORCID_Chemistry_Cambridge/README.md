@@ -118,6 +118,10 @@ E.g. you could use it as:
 
 This will be a brief example where I will be using my own ORCID record (https://orcid.org/0000-0001-9806-2805) to illustrate how you can operate with it.
 
+- My ORCID record
+- Inbox
+- Account settings
+
 
 ### Register for an account :computer:
 
@@ -168,9 +172,9 @@ Additionally, you may also want to include: your biographical information, affil
 
 ### Link your ORCID and Symplectic Elements accounts :computer:
 
-You can now make your ORCID and Symplectic Elements accounts import your works between one another. Information on how to setup this link is provided [here](https://www.vle.cam.ac.uk/mod/book/view.php?id=3460531&chapterid=170001):
+You can now make your ORCID and Symplectic Elements accounts import your works between one another. Information on how to setup this link is provided [here](https://www.vle.cam.ac.uk/mod/book/view.php?id=3460531&chapterid=170001) (Raven-protected):
 
-1. Connect to your Sympletic Elements account by logging in using Raven [here](https://elements.admin.cam.ac.uk)
+1. Connect to your Sympletic Elements account by logging in [here](https://elements.admin.cam.ac.uk) (Raven-protected)
 2. Go to `Menu`, then click on `Search settings`
 3. Scroll down to the "Source-specific name-based search terms" section and click on `Configure` next to the ORCID logo in the list. Then click on `Configure connection`. An ORCID webpage will then appear
 4. Sign in with your ORCID details to authorize the University of Cambridge / Symplectic Elements as a trusted organisation to read your ORCID record
@@ -180,19 +184,19 @@ You can now make your ORCID and Symplectic Elements accounts import your works b
 
 :speech_balloon: Work in pairs, introduce yourself to the person sitting next to you and collaborate on completing each of your individual records:
 
-1. Login into your ORCID account
+1. Log in into your ORCID account
 
 2. Edit some of your personal details (click pencil icons on the left side of the page), e.g.
   - Name
   - Country
   - Emails - Add all the addresses you use in your research to ensure that you don’t accidentally sign up again with one of them or lose access to your account.
 
-3. Add your PhD or your recent qualification to the `Education` section:
+3. Add your one of your degrees / PhD title or your most recent qualification to the `Education` section:
   - Hover over `+ Add education` and click on `+ Add manually`. Fill in the boxes and click on `Add to list`.
   - Once added, play with the visibility settings and the `View public version` button (see left of the page) to understand how privacy works in ORCID.
   
 4. Add publications to the `Works` section:
-  - Hover over `+ Add works` and click on `Search and link`. To import your works from other databases, select one of the following and:
+  - Hover over `+ Add works` and click on `Search and link`. To import your works from other databases, select one of the following:
     - **Scopus** to ORCID - enter your full name and select your profile, then review and send publications
     - **CrossRef** Metadata Search - allow CrossRef as a trusted organisation to change your profile, browse through the publications and click on the `ADD TO ORCID` icons.
     - **DataCite** - on the `ORCID Search and Link` section click on `search`, browse through your works and click on the `Add to ORCID record` icons.
@@ -200,9 +204,9 @@ You can now make your ORCID and Symplectic Elements accounts import your works b
     - :speech_balloon: Explore other databases and talk about them with your discussion partner
   - To manually edit your `Works`:
     - Click on the `Make a copy and edit` button under each work and include any missing information or identifiers.
-    - Hover over `+ Add works` and click on `+ Add manually` to include any of your works that haven't been found by any of the database searchers above.
+    - Hover over `+ Add works` and click on `+ Add manually` to include any of your works that haven't been found in any of the database searches before.
     
-5. :speech_balloon: Discuss the developments of your ORCID record with your discussion partner, visualise your record by clicking on `View public version` or `Public record print view` (left side of the page) and rejoice! :sunglasses:
+5. :speech_balloon: Discuss the developments of your ORCID record with your discussion partner, visualise your record by clicking on `View public version` or `Public record print view` (left side of the page), sit back and rejoice! :sunglasses:
 
 
 ### Enhance your online profile
