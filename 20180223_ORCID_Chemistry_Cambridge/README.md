@@ -260,6 +260,12 @@ Videos:
 - [An introduction to ORCID](https://www.youtube.com/watch?v=bYa6Vph7b08)
 
 
+
+## Feedback
+
+[Here](IS7_23_February_2018_feedback_forms.pdf)
+
+
 ## Acknowledgements
 
 SMC and CC are Data Champions for the University of Cambridge. SMC is funded by a Jisc research data [fellowship](https://www.jisc.ac.uk/) to develop research data training activities for researchers. He does research in bioinformatics and computational biology within the [Balasubramanian laboratories](http://www.balasubramanian.co.uk/) funded by the Wellcome Trust at the University of Cambridge.
