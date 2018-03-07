@@ -8,11 +8,12 @@
 
 ### Overview
 
-This course provides a short beginners introduction to the R programming language and software environment for statistical computing and graphics. Sergio will demonstrate basic examples on how to input, explore, plot and output data in R. Everybody is welcome, if you would like to follow along with your laptop, please bring R and RStudio [downloaded](https://www.rstudio.com/products/rstudio/download/) and installed before the session.
+This course provides a short beginners introduction to the R programming language and software environment for statistical computing and graphics. Sergio will demonstrate basic examples on how to input, explore, plot and output data in R. Everybody is welcome, if you would like to follow along with your laptop, please bring R and RStudio [downloaded and installed](https://www.rstudio.com/products/rstudio/download/) before the session.
+
 
 ### Programme
 
-Under construction ...
+- Has anyone managed to install R and RStudio?
 
 
 ### Materials
@@ -31,6 +32,7 @@ Books:
 Courses:
 
 - [CRUK-CI R crash course](https://bioinformatics-core-shared-training.github.io/r-crash-course/)
+- [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
 - [Karl Broman's mini tutorials](http://kbroman.org/pages/tutorials.html)
 - [Basic statistics and data handling with R](https://github.com/cambiotraining/stats-intro)
 - [Scripting for data analysis (with R)](https://github.com/mrtnj/scripting_for_data_analysis)
@@ -38,7 +40,6 @@ Courses:
 - [Data Analysis and Visualisation using R](http://bioinformatics-core-shared-training.github.io/r-intermediate/): including dplyr and ggplot2
 - Babraham institute basic/advanced R and ggplot2 [courses](http://www.bioinformatics.babraham.ac.uk/training/)
 - R object-oriented programming and package development, [link1](http://lgatto.github.io/TeachingMaterial/) and [link2](http://logic.sysbiol.cam.ac.uk/teaching/advancedR/)
-- [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
 - [R course content for the CODATA-RDA Research Data Science Summer School](https://github.com/marioa/trieste)
 - [Data carpentry course for biologists](https://jabberwocky.weecology.org/2016/11/14/fork-our-course-a-semester-long-data-carpentry-course-for-biologists/) by Ethan White
 - [Cambridge's Data carpentry using R](https://tavareshugo.github.io/2017-09-11-cambridge/)
