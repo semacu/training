@@ -1,4 +1,4 @@
-## Introduction to R and ggplot2
+## Introduction to R
 
 - Date: 15th March 2018, 6 - 7pm
 - Series: Wolfson College [Skills for Academic Success](https://www.wolfson.cam.ac.uk/study-skills)
