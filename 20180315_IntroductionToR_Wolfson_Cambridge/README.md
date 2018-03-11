@@ -1,3 +1,4 @@
+
 ## Introduction to R
 
 - Date: 15th March 2018, 6 - 7pm
@@ -11,9 +12,50 @@
 This course provides a short beginners introduction to the R programming language and software environment for statistical computing and graphics. Sergio will demonstrate basic examples on how to input, explore, plot and output data in R. Everybody is welcome, if you would like to follow along with your laptop, please bring R and RStudio [downloaded and installed](https://www.rstudio.com/products/rstudio/download/) before the session.
 
 
-### Programme
 
-- Has anyone managed to install R and RStudio?
+### Outline
+
+- Motivation
+- Installing R and RStudio
+- How to find help?
+
+
+
+### Motivation
+
+- R is one of the most widely-used programming languages for data analysis and visualisation in academia and industry
+- It is open-source and available in all platforms
+- It facilitates reproducibility in research
+- All your analyses can be integrated in one single place
+- Easy to write documentation, which helps when you'd need to update your future self
+
+
+
+### Installing R and RStudio
+
+Links
+
+
+
+### How to find help?
+
+- CRAN Task Views
+- Stack Overflow
+- R-bloggers
+- Local R groups, e.g. R-ladies
+- Type `?` followed my the name of the function that you'd like to explore
+
+
+
+### Running 
+
+```{r}
+print("Hello World")
+```
+
+
+
+
 
 
 ### Materials
@@ -51,4 +93,3 @@ Perspectives:
 
 
 ### TODO
-
