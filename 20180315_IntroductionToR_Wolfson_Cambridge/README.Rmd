@@ -17,33 +17,43 @@ This course provides a short beginners introduction to the R programming languag
 
 - Motivation
 - Installing R and RStudio
-- How to find help?
+- How can I find help?
 
 
 
 ### Motivation
 
 - R is one of the most widely-used programming languages for data analysis and visualisation in academia and industry
-- It is open-source and available in all platforms
-- It facilitates reproducibility in research
-- All your analyses can be integrated in one single place
-- Easy to write documentation, which helps when you'd need to update your future self
+- It is open-source and available in all platforms (Mac, Linux and Windows)
+- Supported by a broad community of software developers and researchers who contribute R packages and libraries to many fields of research 
+- It facilitates reproducibility in research and integration of all your analyses in individual scripts
+- Easy to write documentation and code together using a free environment like [RStudio](https://www.rstudio.com/)
+
+E.g. The New Zealand [Tourism Dashboard](https://mbienz.shinyapps.io/tourism_dashboard_prod/) uses R extensively to report statistics.
 
 
 
 ### Installing R and RStudio
 
-Links
+- [Latest version of R](https://cran.r-project.org/)
+- [RStudio Desktop Open Source License](https://www.rstudio.com/products/rstudio/download/)
 
 
 
-### How to find help?
+### How can I find help?
 
-- CRAN Task Views
-- Stack Overflow
-- R-bloggers
-- Local R groups, e.g. R-ladies
+- [Stack Overflow](https://stackoverflow.com/)
+- [CRAN Task Views](https://cran.r-project.org/web/views/)
+- [R-bloggers](https://www.r-bloggers.com/)
+- [Quick-R](https://www.statmethods.net/)
+- Local R groups, e.g. [R-ladies Cambridge](https://www.meetup.com/rladies-cambridge/)
 - Type `?` followed my the name of the function that you'd like to explore
+
+If you are interested in bioinformatics and computational biology, the following links might also be of interest:
+
+- [Bioconductor](https://www.bioconductor.org/)
+- [Biostars](https://www.biostars.org/)
+
 
 
 
