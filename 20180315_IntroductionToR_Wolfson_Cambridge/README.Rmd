@@ -1,7 +1,7 @@
 
 ## Introduction to R
 
-<img align="right" src=images/R_logo.png width="250">
+<img align="right" src=images/R_logo.png width="150">
 
 - Date: 15th March 2018, 6 - 7pm
 - Series: Wolfson College [Skills for Academic Success](https://www.wolfson.cam.ac.uk/study-skills)
@@ -21,6 +21,11 @@ This course provides a short beginners introduction to the R programming languag
 - Motivation
 - Installing R and RStudio
 - How can I find help?
+- Getting started
+- Variables and functions
+    - Exercise 1
+
+This short course is based on the [R crash course](https://github.com/bioinformatics-core-shared-training/r-crash-course) developed by Mark Dunning and Laurent Gatto.
 
 
 
@@ -39,7 +44,9 @@ E.g. The New Zealand [Tourism Dashboard](https://mbienz.shinyapps.io/tourism_das
 ### Installing R and RStudio
 
 - [Latest version of R](https://cran.r-project.org/)
+    - To check if you have R installed in Mac, go to `Finder` -> `Applications` -> `Utilities` -> `Terminal` and type `R`
 - [RStudio Desktop Open Source License](https://www.rstudio.com/products/rstudio/download/)
+    - To check if you have RStudio installed in Mac, go to `Finder` -> `Applications` and click on `Rstudio` 
 
 
 
@@ -50,7 +57,7 @@ E.g. The New Zealand [Tourism Dashboard](https://mbienz.shinyapps.io/tourism_das
 - [R-bloggers](https://www.r-bloggers.com/)
 - [Quick-R](https://www.statmethods.net/)
 - Local R groups, e.g. [R-ladies Cambridge](https://www.meetup.com/rladies-cambridge/)
-- Type `?` followed my the name of the function that you'd like to explore
+- Type `?` followed my the name of the function that you'd like to use, e.g. `?mean`
 
 If you are interested in bioinformatics and computational biology, the following links might also be of interest:
 
@@ -59,19 +66,86 @@ If you are interested in bioinformatics and computational biology, the following
 
 
 
+### Getting started
 
-### Running 
+- We will be using RStudio console (bottom-left panel) to interact with R during the workshop
+- The blocks of code shown below are written using the format **R markdown**, which allows mixed plain text and R code together in the same document
+- Each line of R code within a block can be executed by clicking on the line and pressing CMD + ENTER (Mac) or CTRL + ENTER (Windows and Linux). Alternatively, to execute the entire block, click on the green arrow tip on the right-hand side of the block. Explore with the following:
+
+```{r eval=FALSE}
+print("R is fun!")
+```
+
+```{r eval=FALSE}
+3 + 1
+```
+
+- You can add a new block of code by selecting `R` in the `Insert` menu or by typing the following syntax directly:
 
 ```{r}
-print("Hello World")
+# R code goes here
 ```
 
 
 
+### Variables and functions
+
+You can use R as a calculator using the symbols `+`, `-`, `*` and `/`, or more advanced such as statistical operations, logarithms, trigonometry ...
+
+```{r eval=FALSE}
+2 + 1
+7 - 1
+3 * 2
+10 / 5
+
+mean(1:5)
+log(1)
+pi
+sin(pi/2)
+```
+
+To store your results for later, use **variables**. To create them, use the assignment operator `<-`:
+
+```{r eval=FALSE}
+x <- 25
+x
+y <- 16
+y
+```
+
+You can perform multiple operations using variables:
+
+```{r eval=FALSE}
+sqrt(x)
+x + y
+x <- 36
+x <- y
+x <- x + 8
+```
+
+**Functions** in R take one or more *arguments* as input, which are captured using parentheses. Arguments can be named explicitly, otherwise they are meant to be used in the same order as described in the function definition. E.g. `seq` is a function for generating a numeric sequence *from* and *to* particular numbers. Type `?seq` to get the help page for this function.
+
+```{r eval=FALSE}
+?seq
+seq(from = 1, to = 10, by = 2)
+seq(1, 10, 2)
+```
+
+Some functions have *default* values:
+
+```{r eval=FALSE}
+seq(1, 10, 1)
+seq(1, 10)
+```
 
 
 
-### Materials
+#### Exercise 1
+
+
+
+
+### Additional materials
 
 Blogs:
 
