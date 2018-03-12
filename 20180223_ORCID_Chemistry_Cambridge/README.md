@@ -263,7 +263,7 @@ Videos:
 
 ## Feedback
 
-[Here](IS7_23_February_2018_feedback_forms.pdf)
+[Forms](IS7_23_February_2018_feedback_forms.pdf) and [summary report](IS7_23_February_2018_feedback_summary_report.pdf) by Clair Castle.
 
 
 ## Acknowledgements
