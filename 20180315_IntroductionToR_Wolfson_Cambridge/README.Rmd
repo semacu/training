@@ -6,8 +6,10 @@
 - Date: 15th March 2018, 6 - 7pm
 - Series: Wolfson College [Skills for Academic Success](https://www.wolfson.cam.ac.uk/study-skills)
 - Location: [Roger Needham Room](http://www.wolfson.cam.ac.uk/tour/chancellorscentre), [Wolfson college](https://goo.gl/maps/aR6a5FWrLoR2), University of Cambridge, UK
-- Register [here](https://www.eventbrite.co.uk/e/skills-for-academic-success-introduction-to-r-tickets-41949950431)
 - Trainer: Sergio Martínez Cuesta
+- Register [here](https://www.eventbrite.co.uk/e/skills-for-academic-success-introduction-to-r-tickets-41949950431)
+- Link to the materials: https://tinyurl.com/2018-Rintro-Wolfson
+
 
 
 ### Overview
@@ -24,6 +26,9 @@ This course provides a short beginners introduction to the R programming languag
 - Getting started
 - Variables and functions
     - Exercise 1
+- Vectors
+- Input data into R
+- Explore data
 
 This short course is based on the [R crash course](https://github.com/bioinformatics-core-shared-training/r-crash-course) developed by Mark Dunning and Laurent Gatto.
 
@@ -83,7 +88,7 @@ print("R is fun!")
 - You can add a new block of code by selecting `R` in the `Insert` menu or by typing the following syntax directly:
 
 ```{r}
-# R code goes here
+# R code goes in here
 ```
 
 
@@ -138,9 +143,81 @@ seq(1, 10, 1)
 seq(1, 10)
 ```
 
+The default value for the `by` argument in the `seq()` function is 1.
+
+An alternative method to obtain sequences of numbers spaced by one value is the `:` symbol:
+
+```{r eval=FALSE}
+z <- 1:5
+z
+```
+
 
 
 #### Exercise 1
+
+Work in pairs, meet the person sitting next to you and try the following together:
+
+- Create a sequence of numbers from 10 to 30 spaced by three values
+- How about decreasing sequences? Now try from 30 to 10 spaced by three values  (check the function `?seq` for help)
+- Round the number `pi` down to 1 decimal place (check the function `?round` for help)
+
+```{r}
+
+
+```
+
+
+
+### Vectors
+
+- The output we get using R functions such as `seq()` are called vectors, which are collections of numbers or characters
+- To create vectors use the function `c()` (a.k.a. *combine*)
+- Use square brackets `[ ]` to indicate the position within the vector (the ***index***) and extract elements
+
+```{r eval=FALSE}
+x <- c(5,6,7,8,9,10)
+x
+x[3]
+x[1]
+x[3:5]
+```
+
+Arithmetic operations in vectors occur element by element:
+
+```{r eval=FALSE}
+x <- c(2, 4, 5, 6, 7)
+y <- x*2
+y
+x + y
+```
+
+A vector can also contain text, however unlike values, these need to be captured using `" "`:
+
+```{r eval=FALSE}
+x <- c("a", "b", "b", "c", "c", "d")
+x
+
+x <- c(a, b, b, c, c, d) # othewise R thinks they are objects
+```
+
+To create subsets of our vectors, we can use *comparison* operators:
+
+- `==` equal
+- `>` greater than
+- `<` less than
+- `!=` not equal
+
+```{r eval=FALSE}
+x <- c("a", "b", "b", "c", "c", "d")
+x == "b" # this is known as a logical or boolean vector, which is made up of TRUE or FALSE values only
+x != "b"
+
+x <- c(2, 4, 5, 6, 7)
+x > 4
+```
+
+
 
 
 
