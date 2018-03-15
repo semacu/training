@@ -8,7 +8,7 @@
 - Location: [Roger Needham Room](http://www.wolfson.cam.ac.uk/tour/chancellorscentre), [Wolfson college](https://goo.gl/maps/aR6a5FWrLoR2), University of Cambridge, UK
 - Trainer: Sergio Martínez Cuesta
 - Register [here](https://www.eventbrite.co.uk/e/skills-for-academic-success-introduction-to-r-tickets-41949950431)
-- Link to the materials: https://tinyurl.com/2018-Rintro-Wolfson
+- Link to the materials: https://tinyurl.com/2018-IntroR-Wolfson
 
 
 
@@ -27,8 +27,11 @@ This course provides a short beginners introduction to the R programming languag
 - Variables and functions
     - Exercise 1
 - Vectors
-- Input data into R
-- Explore data
+- Import and explore data
+  - Subsetting
+  - Exercise 2
+- Sorting and output results
+- Basic plotting
 
 This short course is based on the [R crash course](https://github.com/bioinformatics-core-shared-training/r-crash-course) developed by Mark Dunning and Laurent Gatto.
 
@@ -51,7 +54,7 @@ E.g. The New Zealand [Tourism Dashboard](https://mbienz.shinyapps.io/tourism_das
 - [Latest version of R](https://cran.r-project.org/)
     - To check if you have R installed in Mac, go to `Finder` -> `Applications` -> `Utilities` -> `Terminal` and type `R`
 - [RStudio Desktop Open Source License](https://www.rstudio.com/products/rstudio/download/)
-    - To check if you have RStudio installed in Mac, go to `Finder` -> `Applications` and click on `Rstudio` 
+    - To check if you have RStudio installed in Mac, try opening it, go to `Finder` -> `Applications` and click on `Rstudio` 
 
 
 
@@ -73,13 +76,30 @@ If you are interested in bioinformatics and computational biology, the following
 
 ### Getting started
 
+- Open RStudio - see above. Explore the different panels
+
+To download today's workshop:
+
+- Go to your web browser and type: https://tinyurl.com/2018-IntroR-Wolfson
+- Click on `IntroR.Rmd.zip`, then press `Download` and save the file in your preferred folder
+- Go to the folder where you saved `IntroR.Rmd.zip` and uncompress it, e.g. in Mac just double-click on `IntroR.Rmd.zip`. Only then, the file `IntroR.Rmd` will appear.
+
+Now, go back to RStudio:
+
+- Click on `File` -> `Open File` and select `IntroR.Rmd`
+- You are all set to go now :)
+
+Also:
+
 - We will be using RStudio console (bottom-left panel) to interact with R during the workshop
-- The blocks of code shown below are written using the format **R markdown**, which allows mixed plain text and R code together in the same document
-- Each line of R code within a block can be executed by clicking on the line and pressing CMD + ENTER (Mac) or CTRL + ENTER (Windows and Linux). Alternatively, to execute the entire block, click on the green arrow tip on the right-hand side of the block. Explore with the following:
+- The blocks of code shown in `IntroR.Rmd` - see below - are written using the format **R markdown**, which allows mixed plain text and R code together within the same document
+- Each line of R code inside a block can be executed by clicking on the line and pressing CMD + ENTER (Mac) or CTRL + ENTER (Windows and Linux), e.g.:
 
 ```{r eval=FALSE}
 print("R is fun!")
 ```
+
+Alternatively, to execute the entire block, click on the green arrow tip on the right-hand side of the block.
 
 ```{r eval=FALSE}
 3 + 1
@@ -198,7 +218,7 @@ A vector can also contain text, however unlike values, these need to be captured
 x <- c("a", "b", "b", "c", "c", "d")
 x
 
-x <- c(a, b, b, c, c, d) # othewise R thinks they are objects
+x <- c(a, b, b, c, c, d) # otherwise R thinks they are objects
 ```
 
 To create subsets of our vectors, we can use *comparison* operators:
@@ -210,12 +230,122 @@ To create subsets of our vectors, we can use *comparison* operators:
 
 ```{r eval=FALSE}
 x <- c("a", "b", "b", "c", "c", "d")
-x == "b" # this is known as a logical or boolean vector, which is made up of TRUE or FALSE values only
+x == "b" # this is known as a logical or boolean vector, composed of TRUE or FALSE values only
 x != "b"
 
 x <- c(2, 4, 5, 6, 7)
 x > 4
 ```
+
+
+
+### Import and explore data
+
+We will use a small made-up dataset which is often used for [training purposes](https://www.rpubs.com/Shoaib29/323077). It contains information about 100 lung cancer patients aged 42-44 from different states in the US. We have saved these data as a `.csv` file to demonstrate how to import and explore data using R.
+
+You will first need to find the **path** to the file `patient-data-cleaned.csv`, which was downloaded together with the course materials. Use the function `file.choose()` to open a dialogue box and browse through the directories to reach the file. The path will then be displayed in R:
+
+```{r eval=FALSE}
+file.choose()
+```
+
+e.g. `/Users/martin03/Desktop/IntroR/patient-data-cleaned.csv`. The file `patient-data-cleaned.csv` is a comma-separated values (CSV) file, which can easily be opened using softwares like Excel. In R, use the `read.csv()` function and the path obtained above to create a data frame object:
+
+```{r eval=FALSE}
+patient_data <- read.csv("/Users/martin03/Desktop/IntroR/patient-data-cleaned.csv") # copy here the path obtained when running file.choose()
+```
+
+Exploring rows and columns in the `patient_data` data frame:
+
+```{r eval=FALSE}
+# Dimensions
+dim(patient_data)
+ncol(patient_data)
+nrow(patient_data)
+
+# Viewing contents
+head(patient_data)
+View(patient_data) # only in RStudio
+
+# Names of columns
+colnames(patient_data)
+
+# Accessing data using column names
+patient_data$Smokes
+patient_data$Height
+patient_data$State
+
+# Summary of all data frame contents
+summary(patient_data)
+```
+
+R works such that the values in each column have to all be of the same type (i.e. all numbers or all text).
+
+You can apply functions to the columns of the data frame to ask various questions:
+
+```{r eval=FALSE}
+# What is the maximum height?
+max(patient_data$Height)
+# What is the minumn weight?
+min(patient_data$Weight)
+# What is the mean body mass index (BMI)? Rounded to one decimal place?
+round(min(patient_data$BMI), 1)
+```
+
+
+#### Subsetting
+
+Just like with vectors, a selection of a data frame can be made using square brackes `[ , ]`, however data frames are two-dimensional objects so you'll need both *row* and *column* indexes. 
+
+```{r eval=FALSE}
+patient_data[1 , 2]
+patient_data[2 , 1]
+patient_data[c(1,2,3) , 1]
+patient_data[c(1,2,3) , c(1,2)]
+```
+
+If you'd like to see all rows, or all columns, you can neglect either the row or column index respectively. But ... remember to keep the comma ;)
+
+```{r eval=FALSE}
+patient_data[2, ]
+patient_data[, 2]
+patient_data[, 1:4]
+```
+
+Rather than selecting rows based on indexes, you can also use **comparison** operators to give either a `TRUE` or `FALSE` result. When applied to subsetting, only rows with a `TRUE` result get returned.
+
+```{r eval=FALSE}
+# The vector of TRUE or FALSE results applied to subsetting data
+patient_data$Height > 183
+
+# Which patients are taller than 183cm?
+patient_data[patient_data$Height > 183,]
+
+# Which patients are smokers?
+patient_data[patient_data$Smokes == "Smoker",]
+
+# Which patients are taller than 183cm and are smokers too?
+patient_data$Height > 183 & patient_data$Smokes == "Smoker"
+patient_data[patient_data$Height > 183 & patient_data$Smokes == "Smoker",]
+
+# You can also select only specific columns by column name, e.g. give me only the ID, Name, State and Disease Grade
+patient_data[patient_data$Height > 183 & patient_data$Smokes == "Smoker", c("ID", "Name", "State", "Grade")]
+```
+
+The useful subsetting operators here are **and** `&`, **or** `|` and **in** `%in%`.
+
+
+#### Exercise 2
+
+In pairs if possible:
+
+- Select patients that have a BMI greater than 25 however their weight is less than 65kg. Calculate their average height.
+
+- Select female patients from California who are not overweighted
+
+
+
+### Sorting and output results
 
 
 
