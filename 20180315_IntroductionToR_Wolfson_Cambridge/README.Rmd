@@ -30,9 +30,9 @@ This course provides a short beginners introduction to the R programming languag
 - Import and explore data
     - Subsetting
     - Exercise 2
-- Sorting and export results
+- Sort tables and export results
 - Basic plotting
-    - Exporting graphics
+    - Export graphics
     - Exercise 3
 
 This short course is based on the [R crash course](https://github.com/bioinformatics-core-shared-training/r-crash-course) developed by [Mark Dunning](https://github.com/markdunning) and [Laurent Gatto](https://github.com/lgatto).
@@ -186,7 +186,7 @@ Work in pairs, meet the person sitting next to you and try the following togethe
 
 - Create a sequence of numbers from 10 to 30 spaced by three values
 - How about decreasing sequences? Now try from 30 to 10 spaced by three values  (hint: check `?seq`)
-- Round the number `pi` down to 1 decimal place (check the function `?round` for help)
+- Round the number `pi` down to 1 decimal place (hint: check `?round`)
 
 ```{r}
 
@@ -358,7 +358,7 @@ Work in pairs if possible (3 min):
 
 
 
-### Sorting tables and export results
+### Sort tables and export results
 
 The function `order()` gives sorted indices, which can then be used to sort your data set:
 
@@ -443,7 +443,7 @@ boxplot(patient_data$BMI ~ patient_data$Overweight, col=c("red", "green"), xlab=
 To explore other types of plots, have a look [here](https://www.statmethods.net/graphs/index.html). There are dedicated R libraries e.g. [ggplot2](http://ggplot2.tidyverse.org/index.html) to do more sophisticated plotting. We will be exploring these in future workshops.
 
 
-#### Exporting graphics
+#### Export graphics
 
 When running commands directly in the interactive console (bottom-left panel), plots can be exported using the **Plots** tab in RStudio (bottom-right panel). Click on `Export` -> `Save as PDF ...`.
 
