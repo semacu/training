@@ -28,18 +28,20 @@ This course provides a short beginners introduction to the R programming languag
     - Exercise 1
 - Vectors
 - Import and explore data
-  - Subsetting
-  - Exercise 2
-- Sorting and output results
+    - Subsetting
+    - Exercise 2
+- Sorting and export results
 - Basic plotting
+    - Exporting graphics
+    - Exercise 3
 
-This short course is based on the [R crash course](https://github.com/bioinformatics-core-shared-training/r-crash-course) developed by Mark Dunning and Laurent Gatto.
+This short course is based on the [R crash course](https://github.com/bioinformatics-core-shared-training/r-crash-course) developed by [Mark Dunning](https://github.com/markdunning) and [Laurent Gatto](https://github.com/lgatto).
 
 
 
 ### Motivation
 
-- R is one of the most widely-used programming languages for data analysis and visualisation in academia and industry
+- R is one of the most widely-used programming languages for data analysis, statistics and visualisation in academia and industry.
 - It is open-source and available in all platforms (Mac, Linux and Windows)
 - Supported by a broad community of software developers and researchers who contribute R packages and libraries to many fields of research 
 - It facilitates reproducibility in research and integration of all your analyses in individual scripts
@@ -52,7 +54,7 @@ E.g. The New Zealand [Tourism Dashboard](https://mbienz.shinyapps.io/tourism_das
 ### Installing R and RStudio
 
 - [Latest version of R](https://cran.r-project.org/)
-    - To check if you have R installed in Mac, go to `Finder` -> `Applications` -> `Utilities` -> `Terminal` and type `R`
+    - To check if you have R installed in Mac, go to `Finder` -> `Applications` -> `Utilities` -> `Terminal` and type `R`. If you see information about the R version and other details appearing followed by a ">" prompt, then you have R installed.
 - [RStudio Desktop Open Source License](https://www.rstudio.com/products/rstudio/download/)
     - To check if you have RStudio installed in Mac, try opening it, go to `Finder` -> `Applications` and click on `Rstudio` 
 
@@ -61,6 +63,7 @@ E.g. The New Zealand [Tourism Dashboard](https://mbienz.shinyapps.io/tourism_das
 ### How can I find help?
 
 - [Stack Overflow](https://stackoverflow.com/)
+- The Comprehensive R Archive Network ([CRAN](https://cran.r-project.org/))
 - [CRAN Task Views](https://cran.r-project.org/web/views/)
 - [R-bloggers](https://www.r-bloggers.com/)
 - [Quick-R](https://www.statmethods.net/)
@@ -81,8 +84,11 @@ If you are interested in bioinformatics and computational biology, the following
 To download today's workshop:
 
 - Go to your web browser and type: https://tinyurl.com/2018-IntroR-Wolfson
-- Click on `IntroR.Rmd.zip`, then press `Download` and save the file in your preferred folder
-- Go to the folder where you saved `IntroR.Rmd.zip` and uncompress it, e.g. in Mac just double-click on `IntroR.Rmd.zip`. Only then, the file `IntroR.Rmd` will appear.
+- Click on `IntroR.zip`, then press `Download` and save the file in your preferred folder, e.g. your Desktop
+- Go to the folder where you saved `IntroR.zip` and uncompress it, e.g. in Mac just double-click on `IntroR.zip`. Only then, the folder `IntroR` will appear.
+- The folder `IntroR` contains two files:
+    - `IntroR.Rmd` - the code for today's session
+    - `patient-data-cleaned.csv` - the dataset that we will be exploring
 
 Now, go back to RStudio:
 
@@ -92,7 +98,7 @@ Now, go back to RStudio:
 Also:
 
 - We will be using RStudio console (bottom-left panel) to interact with R during the workshop
-- The blocks of code shown in `IntroR.Rmd` - see below - are written using the format **R markdown**, which allows mixed plain text and R code together within the same document
+- The blocks of code shown in `IntroR.Rmd` - see below - are written using the format **R markdown**, which allows mixed plain text and R code together within the same [document](https://rmarkdown.rstudio.com/)
 - Each line of R code inside a block can be executed by clicking on the line and pressing CMD + ENTER (Mac) or CTRL + ENTER (Windows and Linux), e.g.:
 
 ```{r eval=FALSE}
@@ -115,7 +121,7 @@ Alternatively, to execute the entire block, click on the green arrow tip on the 
 
 ### Variables and functions
 
-You can use R as a calculator using the symbols `+`, `-`, `*` and `/`, or more advanced such as statistical operations, logarithms, trigonometry ...
+You can use R as a calculator using the symbols `+`, `-`, `*` and `/`, or more advanced features such as statistical operations, logarithms, trigonometry ...
 
 ```{r eval=FALSE}
 2 + 1
@@ -156,7 +162,7 @@ seq(from = 1, to = 10, by = 2)
 seq(1, 10, 2)
 ```
 
-Some functions have *default* values:
+Some functions have *default* values in some arguments:
 
 ```{r eval=FALSE}
 seq(1, 10, 1)
@@ -176,10 +182,10 @@ z
 
 #### Exercise 1
 
-Work in pairs, meet the person sitting next to you and try the following together:
+Work in pairs, meet the person sitting next to you and try the following together (3 min):
 
 - Create a sequence of numbers from 10 to 30 spaced by three values
-- How about decreasing sequences? Now try from 30 to 10 spaced by three values  (check the function `?seq` for help)
+- How about decreasing sequences? Now try from 30 to 10 spaced by three values  (hint: check `?seq`)
 - Round the number `pi` down to 1 decimal place (check the function `?round` for help)
 
 ```{r}
@@ -212,7 +218,7 @@ y
 x + y
 ```
 
-A vector can also contain text, however unlike values, these need to be captured using `" "`:
+A vector can also contain text, however unlike values, these need to be captured using quotation marks `" "`:
 
 ```{r eval=FALSE}
 x <- c("a", "b", "b", "c", "c", "d")
@@ -232,9 +238,11 @@ To create subsets of our vectors, we can use *comparison* operators:
 x <- c("a", "b", "b", "c", "c", "d")
 x == "b" # this is known as a logical or boolean vector, composed of TRUE or FALSE values only
 x != "b"
+x[x != "b"]
 
 x <- c(2, 4, 5, 6, 7)
 x > 4
+x[x > 4]
 ```
 
 
@@ -243,13 +251,13 @@ x > 4
 
 We will use a small made-up dataset which is often used for [training purposes](https://www.rpubs.com/Shoaib29/323077). It contains information about 100 lung cancer patients aged 42-44 from different states in the US. We have saved these data as a `.csv` file to demonstrate how to import and explore data using R.
 
-You will first need to find the **path** to the file `patient-data-cleaned.csv`, which was downloaded together with the course materials. Use the function `file.choose()` to open a dialogue box and browse through the directories to reach the file. The path will then be displayed in R:
+You will first need to find the **path** to the file `patient-data-cleaned.csv`, which was downloaded together with the course materials - see folder `IntroR`. Use the function `file.choose()` to open a dialogue box and browse through the directories to reach the file. The path will then be displayed in R:
 
 ```{r eval=FALSE}
 file.choose()
 ```
 
-e.g. `/Users/martin03/Desktop/IntroR/patient-data-cleaned.csv`. The file `patient-data-cleaned.csv` is a comma-separated values (CSV) file, which can easily be opened using softwares like Excel. In R, use the `read.csv()` function and the path obtained above to create a data frame object:
+e.g. for me the path is `/Users/martin03/Desktop/IntroR/patient-data-cleaned.csv`. The file `patient-data-cleaned.csv` is a comma-separated values (CSV) file, which can easily be opened using software like Excel. In R, use the `read.csv()` function and the path obtained above to create a data frame object:
 
 ```{r eval=FALSE}
 patient_data <- read.csv("/Users/martin03/Desktop/IntroR/patient-data-cleaned.csv") # copy here the path obtained when running file.choose()
@@ -265,7 +273,7 @@ nrow(patient_data)
 
 # Viewing contents
 head(patient_data)
-View(patient_data) # only in RStudio
+View(patient_data)
 
 # Names of columns
 colnames(patient_data)
@@ -279,7 +287,7 @@ patient_data$State
 summary(patient_data)
 ```
 
-R works such that the values in each column have to all be of the same type (i.e. all numbers or all text).
+R works such that the values in each column have to all be of the same type (i.e. all numbers or all characters/text).
 
 You can apply functions to the columns of the data frame to ask various questions:
 
@@ -295,7 +303,7 @@ round(min(patient_data$BMI), 1)
 
 #### Subsetting
 
-Just like with vectors, a selection of a data frame can be made using square brackes `[ , ]`, however data frames are two-dimensional objects so you'll need both *row* and *column* indexes. 
+Just like when subsetting vectors, a selection of a data frame can be made using square brackes `[ , ]`, however data frames are two-dimensional objects so you'll need both *row* and *column* indexes:
 
 ```{r eval=FALSE}
 patient_data[1 , 2]
@@ -304,7 +312,7 @@ patient_data[c(1,2,3) , 1]
 patient_data[c(1,2,3) , c(1,2)]
 ```
 
-If you'd like to see all rows, or all columns, you can neglect either the row or column index respectively. But ... remember to keep the comma ;)
+If you'd like to see all the rows, or all the columns, you can neglect either the row or column index respectively. But ... remember to keep the comma ;)
 
 ```{r eval=FALSE}
 patient_data[2, ]
@@ -324,35 +332,151 @@ patient_data[patient_data$Height > 183,]
 # Which patients are smokers?
 patient_data[patient_data$Smokes == "Smoker",]
 
-# Which patients are taller than 183cm and are smokers too?
+# Which patients are taller than 183cm AND are smokers too?
 patient_data$Height > 183 & patient_data$Smokes == "Smoker"
 patient_data[patient_data$Height > 183 & patient_data$Smokes == "Smoker",]
 
-# You can also select only specific columns by column name, e.g. give me only the ID, Name, State and Disease Grade
+# You can also select only specific columns using the column name, e.g. give me only the ID, Name, State and Disease Grade
 patient_data[patient_data$Height > 183 & patient_data$Smokes == "Smoker", c("ID", "Name", "State", "Grade")]
 ```
 
-The useful subsetting operators here are **and** `&`, **or** `|` and **in** `%in%`.
+The useful subsetting operators to bear in mind here are **and** `&`, **or** `|` and **in** `%in%`.
 
 
 #### Exercise 2
 
-In pairs if possible:
+Work in pairs if possible (3 min):
 
-- Select patients that have a BMI greater than 25 however their weight is less than 65kg. Calculate their average height.
+- Select patients that have a BMI greater than 30 or their weight is greater than 90kg. Calculate their average height.
 
 - Select female patients from California who are not overweighted
 
+```{r}
 
 
-### Sorting and output results
-
-
-
+```
 
 
 
-### Additional materials
+### Sorting tables and export results
+
+The function `order()` gives sorted indices, which can then be used to sort your data set:
+
+```{r eval=FALSE}
+# Sort patients by Disease Grade
+order(patient_data$Grade)
+patient_data[order(patient_data$Grade),] # from benign (1) to harmful (3)
+patient_data[order(patient_data$Grade, decreasing = TRUE),] # from harmful (3) to benign (1)
+
+# Sort patients by more than one condition: first Disease Grade, second Weight
+patient_data[order(patient_data$Grade, patient_data$Weight, decreasing = TRUE),]
+```
+
+Once the data processing is completed, you can export results out of R as follows:
+
+```{r eval=FALSE}
+# Which patients from California are non-smokers?
+patient_data_california <- patient_data[patient_data$State == "California" & patient_data$Smokes == "Non-Smoker",]
+
+# Export
+write.csv(patient_data_california, file = "/Users/martin03/Desktop/IntroR/patient-data-cleaned-california.csv")
+```
+
+
+
+### Basic plotting
+
+Simple plotting functions are available in the base R distribution (histograms, barplots, boxplots, scatterplots ...). All required as input are vectors of data, e.g. columns in your data frame.
+
+**Histograms** are often used to have an overview of the distribution of continuous data:
+
+```{r eval=FALSE}
+hist(patient_data$BMI)
+hist(patient_data$Weight)
+```
+
+**Barplots** are useful when you have counts of categorical data:
+
+```{r eval=FALSE}
+barplot(table(patient_data$Race))
+barplot(table(patient_data$Sex))
+barplot(table(patient_data$Smokes))
+barplot(table(patient_data$State), las=2, cex.names=0.7) # 'las=2' changes the x-axis labels to horizonal and 'cex.names=0.7' changes the size
+barplot(table(patient_data$Grade))
+barplot(table(patient_data$Overweight))
+```
+
+**Boxplots** are good when comparing distributions Here the `~` symbol sets up a formula, the effect of which is to put the categorical variable on the x-axis and continuous variable on the y-axis -> `boxplot(y ~ x)`
+
+```{r eval=FALSE}
+boxplot(patient_data$BMI ~ patient_data$Grade)
+
+boxplot(patient_data$BMI ~ patient_data$Overweight)
+boxplot(patient_data$Weight ~ patient_data$Overweight)
+```
+
+**Scatter plots** are useful when representing two continuous variables. Here -> `plot(x, y)`:
+
+```{r eval=FALSE}
+plot(patient_data$Weight, patient_data$BMI)
+```
+
+To enhance the appearance of your plots, many different ways of customisation are possible:
+
+- **Colours**: `col` argument. To get a full list of possible colours type `colours()`, or check this [online reference](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf).
+- **Point type**: `pch`
+- **Axis labels**: `xlab` and `ylab`
+- **Plot title**: `main`
+- ... and many others: see `?plot` and `?par` for more options
+
+```{r eval=FALSE}
+plot(patient_data$Weight, patient_data$BMI, col="red", pch=16, xlab="Weight (kg)", ylab="BMI", main="US patient data")
+abline(lm(patient_data$BMI ~ patient_data$Weight), col="blue")
+```
+
+Related arguments can be used for other plotting functions:
+
+```{r eval=FALSE}
+boxplot(patient_data$BMI ~ patient_data$Overweight, col=c("red", "green"), xlab="Overweight patient?", ylab="BMI", main="US patient data")
+```
+
+To explore other types of plots, have a look [here](https://www.statmethods.net/graphs/index.html). There are dedicated R libraries e.g. [ggplot2](http://ggplot2.tidyverse.org/index.html) to do more sophisticated plotting. We will be exploring these in future workshops.
+
+
+#### Exporting graphics
+
+When running commands directly in the interactive console (bottom-left panel), plots can be exported using the **Plots** tab in RStudio (bottom-right panel). Click on `Export` -> `Save as PDF ...`.
+
+You can also save plots to a file calling the `pdf()` or `png()` functions before executing the code to create the plot:
+ 
+```{r eval=FALSE}
+pdf("/Users/martin03/Desktop/IntroR/BMIvsWeight.pdf")
+plot(patient_data$Weight, patient_data$BMI, col="red", pch=16, xlab="Weight (kg)", ylab="BMI", main="US patient data")
+abline(lm(patient_data$BMI ~ patient_data$Weight), col="blue")
+dev.off()
+```
+
+The `dev.off()` line is important; without it you will not be able to view the plot you have created.
+
+
+#### Exercise 3
+
+The final one:
+
+- Any differences of Weight or BMI between Smokers and Non-Smokers? (hint: try `boxplot`)
+- Visualise the relationship between the Height and Weight of the patients
+
+That's it! Enjoy R!
+
+
+
+### Questions?
+
+Feedback / questions about the course, please email Sergio (sermarcue@gmail.com).
+
+
+
+### References and additional materials
 
 Blogs:
 
@@ -386,4 +510,19 @@ Perspectives:
 - [Scientific computing: code alert](https://www.nature.com/nature/journal/v541/n7638/full/nj7638-563a.html)
 
 
-### TODO
+
+### Acknowledgements
+
+Sergio is a University of Cambridge Data Champion funded by a Jisc research data [fellowship](https://www.jisc.ac.uk/) to develop research data training activities for researchers. He does research in bioinformatics and computational biology within the [Balasubramanian laboratories](http://www.balasubramanian.co.uk/) funded by the Wellcome Trust at the University of Cambridge.
+
+
+
+### License
+
+This work is distributed under a Creative Commons [CC0 license](https://en.wikipedia.org/wiki/Creative_Commons_license#CC0). No rights reserved.
+
+Our sponsors:
+
+<p align="center">
+<img src=../20171024_GitHub_Chemistry_Cambridge/images/UniversityCambridge_logo.png height="50"> <img src=../20171024_GitHub_Chemistry_Cambridge/images/CRUKCI_logo.jpg height="50"> <img src=../20171024_GitHub_Chemistry_Cambridge/images/Jisc_logo.png height="50"> <img src=../20171024_GitHub_Chemistry_Cambridge/images/WellcomeTrust_logo.jpg height="50">
+</p>
