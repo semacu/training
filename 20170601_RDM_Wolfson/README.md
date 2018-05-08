@@ -45,6 +45,7 @@ Wolfson IT:
 
 Research data management:
 
+- Data Tree training [tutorials](https://datatree.org.uk/)
 - Avoid data disasters [course](http://bioinformatics-core-shared-training.github.io//avoid-data-disaster/)
 - University of Cambridge - research data management [materials](http://www.data.cam.ac.uk/)
 - FAIR [principles](https://www.nature.com/articles/sdata201618)
