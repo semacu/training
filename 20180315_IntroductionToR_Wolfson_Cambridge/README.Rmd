@@ -8,7 +8,7 @@
 - Location: [Roger Needham Room](http://www.wolfson.cam.ac.uk/tour/chancellorscentre), [Wolfson college](https://goo.gl/maps/aR6a5FWrLoR2), University of Cambridge, UK
 - Trainer: Sergio Martínez Cuesta
 - Register [here](https://www.eventbrite.co.uk/e/skills-for-academic-success-introduction-to-r-tickets-41949950431)
-- Link to the materials: https://tinyurl.com/2018-IntroR-Wolfson
+- Materials available here: https://tinyurl.com/2018-IntroR-Wolfson
 
 
 
@@ -54,7 +54,7 @@ E.g. The New Zealand [Tourism Dashboard](https://mbienz.shinyapps.io/tourism_das
 ### Installing R and RStudio
 
 - [Latest version of R](https://cran.r-project.org/)
-    - To check if you have R installed in Mac, go to `Finder` -> `Applications` -> `Utilities` -> `Terminal` and type `R`. If you see information about the R version and other details appearing followed by a ">" prompt, then you have R installed.
+    - To check if you have R installed in Mac, go to `Finder` -> `Applications` -> `Utilities` -> `Terminal`, type `R` and press Enter. If you see information about the R version and other details appearing followed by a ">" prompt, then you have R installed.
 - [RStudio Desktop Open Source License](https://www.rstudio.com/products/rstudio/download/)
     - To check if you have RStudio installed in Mac, try opening it, go to `Finder` -> `Applications` and click on `Rstudio` 
 
@@ -287,14 +287,14 @@ patient_data$State
 summary(patient_data)
 ```
 
-R works such that the values in each column have to all be of the same type (i.e. all numbers or all characters/text).
+R works such that the values in each column have all to be of the same type (i.e. all numbers or all characters/text).
 
 You can apply functions to the columns of the data frame to ask various questions:
 
 ```{r eval=FALSE}
 # What is the maximum height?
 max(patient_data$Height)
-# What is the minumn weight?
+# What is the minimum weight?
 min(patient_data$Weight)
 # What is the mean body mass index (BMI)? Rounded to one decimal place?
 round(min(patient_data$BMI), 1)
@@ -372,7 +372,7 @@ patient_data[order(patient_data$Grade, decreasing = TRUE),] # from harmful (3) t
 patient_data[order(patient_data$Grade, patient_data$Weight, decreasing = TRUE),]
 ```
 
-Once the data processing is completed, you can export results out of R as follows:
+Once data processing is completed, you can export results out of R as follows:
 
 ```{r eval=FALSE}
 # Which patients from California are non-smokers?
@@ -386,7 +386,7 @@ write.csv(patient_data_california, file = "/Users/martin03/Desktop/IntroR/patien
 
 ### Basic plotting
 
-Simple plotting functions are available in the base R distribution (histograms, barplots, boxplots, scatterplots ...). All required as input are vectors of data, e.g. columns in your data frame.
+Simple plotting functions are available in the base R distribution (histograms, barplots, boxplots, scatterplots ...). All that is required as input are vectors of data, e.g. columns in your data frame.
 
 **Histograms** are often used to have an overview of the distribution of continuous data:
 

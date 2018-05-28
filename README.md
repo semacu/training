@@ -4,9 +4,11 @@ This repository contains some of my recent teaching activities and training cour
 
 ### 2018
 
-- *Workshop*: [**An introduction to R**](20180315_IntroductionToR_Wolfson_Cambridge/), 15th March 2017, Skills for Academic Success, Wolfson College, University of Cambridge, UK
+- *Workshop*: [**Data visualisation with R and ggplot2**](20180531_DataVisualisationRggplot2_Wolfson_Cambridge/), 31st May 2018, Skills for Academic Success, Wolfson College, University of Cambridge, UK
 
-- *Session*: [**Make your academic life easy with ORCID: an introduction**](20180223_ORCID_Chemistry_Cambridge/), 23rd February 2017, Department of Chemistry, University of Cambridge, UK
+- *Workshop*: [**An introduction to R**](20180315_IntroductionToR_Wolfson_Cambridge/), 15th March 2018, Skills for Academic Success, Wolfson College, University of Cambridge, UK
+
+- *Session*: [**Make your academic life easy with ORCID: an introduction**](20180223_ORCID_Chemistry_Cambridge/), 23rd February 2018, Department of Chemistry, University of Cambridge, UK
 
 
 ### 2017
