@@ -1,12 +1,14 @@
 
 ## Data visualisation with R and ggplot2 
 
+<img align="right" src=../20180315_IntroductionToR_Wolfson_Cambridge/images/R_logo.png width="150">
+
 - Date: 31st May 2018, 6 - 7pm
 - Series: Wolfson College [Skills for Academic Success](https://www.wolfson.cam.ac.uk/study-skills)
 - Location: [Gatsby room](http://www.wolfson.cam.ac.uk/tour/chancellorscentre), [Wolfson college](https://goo.gl/maps/aR6a5FWrLoR2), University of Cambridge, UK
 - Trainer: Sergio Martínez Cuesta
 - Register [here](https://www.eventbrite.co.uk/e/skills-for-academic-success-data-visualisation-using-r-and-ggplot2-tickets-45290341631)
-- Materials available here: 
+- Materials available here: https://tinyurl.com/2018-DataVisR-Wolfson
 
 
 
@@ -22,9 +24,9 @@ This course provides a short beginners introduction to data visualisation using 
 - Getting started
 - Import data into R
 - Basic plotting
-- Advanced plotting using ggplot2 library
-- Export graphics
 - Exercise 1
+- Advanced plotting using the ggplot2 library
+- Export graphics
 
 For a basic introduction to R functionality, check out our [basic R course](../20180315_IntroductionToR_Wolfson_Cambridge/).
 
@@ -48,7 +50,7 @@ These short courses are inspired by the [R crash course](https://github.com/bioi
 
 To download today's workshop:
 
-- Go to your web browser e.g. Firefox and type: 
+- Go to your web browser e.g. Firefox and type: https://tinyurl.com/2018-DataVisR-Wolfson
 - Click on `DataVisR.zip`, then press `Download` and save the file in your preferred folder, e.g. your Desktop
 - Go to the folder where you saved `DataVisR.zip` and uncompress it, e.g. in Mac just double-click on `DataVisR.zip`. Only then, the folder `DataVisR` will appear.
 - The folder `DataVisR` contains two files:
@@ -69,7 +71,7 @@ Also, in case you are not familiar with RStudio, a quick recap:
   - Top-right: log panel
 
 - You are now looking at the scripts panel. We will be using the R console below to interact with R during the workshop
-- The blocks of code shown below are written using the format **R markdown**, which allows mixed plain text and R code together within the same [document](https://rmarkdown.rstudio.com/)
+- Blocks of code in RStudio are often written using the format **R markdown**, which allows mixed plain text and R code together within the same [document](https://rmarkdown.rstudio.com/)
 - Each line of R code inside a block can be executed by clicking on the line and pressing CMD + ENTER (Mac) or CTRL + ENTER (Windows and Linux), e.g.:
 
 ```{r eval=FALSE}
@@ -98,7 +100,7 @@ We will use a small made-up dataset which is often used for [training purposes](
 patient_data <- read.csv("/Users/martin03/Desktop/DataVisR/patient-data-cleaned.csv") # copy here the path to the file
 ```
 
-If you have trouble finding the path to `patient-data-cleaned.csv`, use the function `file.choose()` to open a dialogue box and browse through the directories to reach the file:
+If you have trouble finding the exact path to `patient-data-cleaned.csv`, use the function `file.choose()` to open a dialogue box and browse through the directories to reach the file:
 
 ```{r eval=FALSE}
 file.choose()
@@ -150,8 +152,8 @@ barplot(table(patient_data$Overweight))
 
 ```{r eval=FALSE}
 boxplot(patient_data$BMI ~ patient_data$Grade)
-
 boxplot(patient_data$BMI ~ patient_data$Overweight)
+
 boxplot(patient_data$Weight ~ patient_data$Overweight)
 ```
 
@@ -174,13 +176,74 @@ plot(patient_data$Weight, patient_data$BMI, col="red", pch=16, xlab="Weight (kg)
 abline(lm(patient_data$BMI ~ patient_data$Weight), col="blue")
 ```
 
-Related arguments can be used for other plotting functions:
+The arguments can also be used for other plotting functions!
 
 ```{r eval=FALSE}
 boxplot(patient_data$BMI ~ patient_data$Overweight, col=c("red", "green"), xlab="Overweight patient?", ylab="BMI", main="US patient data")
 ```
 
-To explore other types of plots, have a look [here](https://www.statmethods.net/graphs/index.html). There are dedicated R libraries e.g. [ggplot2](http://ggplot2.tidyverse.org/index.html) to do more sophisticated plotting. We will be exploring these in future workshops.
+To explore other types of plots using R standard functions, have a look [here](https://www.statmethods.net/graphs/index.html). There are dedicated R libraries e.g. [ggplot2](http://ggplot2.tidyverse.org/index.html) to do more sophisticated plotting.
+
+
+
+### Exercise 1
+
+(a) Any differences of BMI between Smokers and Non-Smokers? (hint: try `boxplot`)
+(b) Visualise the relationship between the Height and Weight of the patients
+(c) A small trick: if you attach the data.frame `patient_data` as follows, then you will only need the column name without the '$' notation:
+
+```{r eval=FALSE}
+attach(patient_data)
+plot(Weight, BMI)
+```
+
+
+
+### Advanced plotting using the ggplot2 library
+
+The [ggplot2 library](http://ggplot2.tidyverse.org/) offers a powerful graphics language for creating elegant and complex plots. It is particularly useful when creating publication-quality graphics.
+
+The key to understanding ggplot2 is thinking about a figure in layers (e.g. data points, axes and labels, legend). This idea may be familiar to you if you have used image editing programs like Photoshop, Illustrator or Inkscape, where you can ungroup the figure into its different components.
+
+
+#### Load ggplot2
+
+There are two ways to do this:
+
+- Click on the `Packages` tab in the bottom-right RStudio panel and search for `ggplot2`, then tick its box. If you can't find it, then click on `Install` and type `ggplot2` inside the Packages box. Leaving the rest on default, click on `Install`. Once installed, then tick the box.
+
+- Run `library(ggplot2)` in the console. If you get a message like `Error in library("ggplot2") : there is no package called ‘ggplot2’` then run `install.packages("ggplot2")` in the console. Once the installation is finished, run `library(ggplot2)` again.
+
+
+#### Example
+
+Let's begin with the scatterplot of Weight and Height. 
+
+First, loading ggplot2 library:
+
+```{r eval=FALSE}
+library("ggplot2")
+```
+
+The first "global" layer requires the definition of the dataset, and the x and y axes:
+
+```{r eval=FALSE}
+ggplot(data = patient_data, aes(x = Weight, y = Height))
+```
+
+In the second layer, we need to tell ggplot how we want to visually represent the data (scatterplot, boxplot, barplot ...). For a scatterplot, we need **geom_point()**:
+
+```{r eval=FALSE}
+ggplot(data = patient_data, aes(x = Weight, y = Height)) +
+geom_point()
+```
+
+Another aes (aesthetic) property we can modify is the point *color*, e.g. to change the color depending on the grade of the disease:
+
+```{r eval=FALSE}
+ggplot(data = patient_data, aes(x = Weight, y = Height, col = as.factor(Grade))) +
+geom_point()
+```
 
 
 
@@ -188,10 +251,10 @@ To explore other types of plots, have a look [here](https://www.statmethods.net/
 
 When running commands directly in the interactive console (bottom-left panel), plots can be exported using the **Plots** tab in RStudio (bottom-right panel). Click on `Export` -> `Save as PDF ...`.
 
-You can also save plots to a file calling the `pdf()` or `png()` functions before executing the code to create the plot:
+When plotting using R standard graphics, you can also save plots to a file calling the `pdf()` or `png()` functions before executing the code to create the plot:
  
 ```{r eval=FALSE}
-pdf("/Users/martin03/Desktop/IntroR/BMIvsWeight.pdf")
+pdf("/Users/martin03/Desktop/DataVisR/BMIvsWeight.pdf")
 plot(patient_data$Weight, patient_data$BMI, col="red", pch=16, xlab="Weight (kg)", ylab="BMI", main="US patient data")
 abline(lm(patient_data$BMI ~ patient_data$Weight), col="blue")
 dev.off()
@@ -199,12 +262,14 @@ dev.off()
 
 The `dev.off()` line is important; without it you will not be able to view the plot you have created.
 
+If you use ggplot2, the syntax is more concise:
 
+```{r eval=FALSE}
+gg<- ggplot(data = patient_data, aes(x = Weight, y = Height, col = as.factor(Grade))) +
+geom_point()
+ggsave("/Users/martin03/Desktop/DataVisR/BMIvsWeight_ggplot2.pdf")
+```
 
-### Exercise 1
-
-- Any differences of Weight or BMI between Smokers and Non-Smokers? (hint: try `boxplot`)
-- Visualise the relationship between the Height and Weight of the patients
 
 That's it! Enjoy R!
 
@@ -216,19 +281,20 @@ Feedback / questions about the course, please email Sergio (sermarcue@gmail.com)
 
 
 
-### References and additional materials
+### References and resources
 
 Blogs:
-
+- [Getting started with data visualization in R using ggplot2](http://www.storybench.org/getting-started-data-visualization-r-using-ggplot2/)
 - [End-to-end visualization using ggplot2](https://rviews.rstudio.com/2017/08/14/end-to-end-visualization-using-ggplot2/)
 - [ggplot2 - Easy way to mix multiple graphs on the same page](http://www.sthda.com/english/wiki/ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page)
-- [Getting started with data visualization in R using ggplot2](http://www.storybench.org/getting-started-data-visualization-r-using-ggplot2/)
 - [Rookie mistakes and how to fix them when making plots of data](http://stuartlee.org/2018/04/14/content/post/2018-04-14-rookie-mistakes/)
 
 Books:
 
+- [Cookbook for R](http://www.cookbook-r.com/)
 - [R for Data Science](http://r4ds.had.co.nz/)
 - [Data Visualization for Social Science. A practical introduction with R and ggplot2](http://socviz.co/)
+- [ggplot2: Elegant Graphics for Data Analysis (Use R!)](https://www.amazon.com/ggplot2-Elegant-Graphics-Data-Analysis/dp/0387981403)
 
 Courses:
 
