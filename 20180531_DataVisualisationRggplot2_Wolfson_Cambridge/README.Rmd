@@ -188,9 +188,9 @@ To explore other types of plots using R standard functions, have a look [here](h
 
 ### Exercise 1
 
-(a) Any differences of BMI between Smokers and Non-Smokers? (hint: try `boxplot`)
-(b) Visualise the relationship between the Height and Weight of the patients
-(c) A small trick: if you attach the data.frame `patient_data` as follows, then you will only need the column name without the '$' notation:
+1. Any differences of BMI between Smokers and Non-Smokers? (hint: try `boxplot`)
+2. Visualise the relationship between the Height and Weight of the patients
+3. A small trick: if you attach the data.frame `patient_data` as follows, then you will only need the column name without the '$' notation:
 
 ```{r eval=FALSE}
 attach(patient_data)
