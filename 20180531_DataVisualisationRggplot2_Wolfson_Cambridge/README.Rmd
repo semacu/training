@@ -267,7 +267,7 @@ If you use ggplot2, the syntax is more concise:
 ```{r eval=FALSE}
 gg<- ggplot(data = patient_data, aes(x = Weight, y = Height, col = as.factor(Grade))) +
 geom_point()
-ggsave("/Users/martin03/Desktop/DataVisR/BMIvsWeight_ggplot2.pdf")
+ggsave("/Users/martin03/Desktop/DataVisR/HeightvsWeight.pdf")
 ```
 
 
