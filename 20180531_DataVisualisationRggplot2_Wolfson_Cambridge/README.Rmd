@@ -172,8 +172,14 @@ To enhance the appearance of your plots, many different ways of customisation ar
 - ... and many others: see `?plot` and `?par` for more options
 
 ```{r eval=FALSE}
+# linear regression
 plot(patient_data$Weight, patient_data$BMI, col="red", pch=16, xlab="Weight (kg)", ylab="BMI", main="US patient data")
 abline(lm(patient_data$BMI ~ patient_data$Weight), col="blue")
+
+# polynomial regression
+quadratic.model <-lm(patient_data$BMI ~ patient_data$Weight + I(patient_data$Weight^2))
+plot(patient_data$Weight, patient_data$BMI, col="red", pch=16, xlab="Weight (kg)", ylab="BMI", main="US patient data")
+lines(sort(patient_data$Weight), fitted(quadratic.model)[order(patient_data$Weight)], col = "darkgreen")
 ```
 
 The arguments can also be used for other plotting functions!
