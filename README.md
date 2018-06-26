@@ -4,6 +4,8 @@ This repository contains some of my recent teaching activities and training cour
 
 ### 2018
 
+- *Course*: [**Data Carpentry**](https://training.csx.cam.ac.uk/bioinformatics/event/2463814), 28th - 29th June 2018, Bioinformatics training, University of Cambridge, UK
+
 - *Workshop*: [**Data visualisation with R and ggplot2**](20180531_DataVisualisationRggplot2_Wolfson_Cambridge/), 31st May 2018, Skills for Academic Success, Wolfson College, University of Cambridge, UK
 
 - *Workshop*: [**An introduction to R**](20180315_IntroductionToR_Wolfson_Cambridge/), 15th March 2018, Skills for Academic Success, Wolfson College, University of Cambridge, UK
