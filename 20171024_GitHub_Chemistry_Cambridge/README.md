@@ -10,9 +10,6 @@
 - WiFi connection:
   - ChemNet (chemistry members)
   - eduroam
-- All workshop materials are available here:
-  - http://tinyurl.com/2017githubCI
-  - http://tinyurl.com/2017githubchemistry
 - *Refreshments provided*
 
 
