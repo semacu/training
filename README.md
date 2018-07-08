@@ -4,7 +4,7 @@ This repository contains some of my recent teaching activities and training cour
 
 ### 2018
 
-- *Course*: [**Data Carpentry**](https://training.csx.cam.ac.uk/bioinformatics/event/2463814), 28th - 29th June 2018, Bioinformatics training, University of Cambridge, UK
+- *Course*: [**Data Carpentry**](https://tavareshugo.github.io/2018-06-28-cambridge/), 28th - 29th June 2018, [Bioinformatics training](https://training.csx.cam.ac.uk/bioinformatics/event/2463814), University of Cambridge, UK
 
 - *Workshop*: [**Data visualisation with R and ggplot2**](../../../20180531_DataVisualisationRggplot2_Wolfson_Cambridge/blob/master/README.Rmd), 31st May 2018, Skills for Academic Success, Wolfson College, University of Cambridge, UK
 
