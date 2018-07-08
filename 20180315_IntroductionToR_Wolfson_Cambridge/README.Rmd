@@ -8,8 +8,6 @@
 - Location: [Roger Needham Room](http://www.wolfson.cam.ac.uk/tour/chancellorscentre), [Wolfson college](https://goo.gl/maps/aR6a5FWrLoR2), University of Cambridge, UK
 - Trainer: Sergio Martínez Cuesta
 - Register [here](https://www.eventbrite.co.uk/e/skills-for-academic-success-introduction-to-r-tickets-41949950431)
-- Materials available here: https://tinyurl.com/2018-IntroR-Wolfson
-
 
 
 ### Overview
