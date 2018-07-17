@@ -4,6 +4,8 @@ This repository contains some of my recent teaching activities and training cour
 
 ### 2018
 
+- *Summer School 2018 TrainMalta*: [**Epigenomics**](../../../20180726_TrainMalta_Unix_R//blob/master/README.md), 23rd - 27th July 2018, University of Malta 
+
 - *Event*: [**Using public data resources to build a business model**](../../../20180718_public_data_resources_to_business_model/blob/master/README.md), 18th July 2018, Entrepeneurial Postdocs of Cambridge, University of Cambridge
 
 - *Course*: [**Data Carpentry**](https://tavareshugo.github.io/2018-06-28-cambridge/), 28th - 29th June 2018, [Bioinformatics training](https://training.csx.cam.ac.uk/bioinformatics/event/2463814), University of Cambridge, UK
