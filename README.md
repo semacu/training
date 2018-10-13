@@ -4,6 +4,8 @@ This repository contains some of my recent teaching activities and training cour
 
 ### 2018
 
+- *Workshop*: [**Reusability and reproducibility for Bioinformatics analyses**](../../../20181207_intro_github/blob/master/README.md), 7th December, Bioinformatics Training Facility, University of Cambridge, UK
+
 - *Workshop*: [**Beginners introduction to git and GitHub**](../../../20181003_Intro_git_GitHub/blob/master/README.md), 3rd October, Department of Zoology, University of Cambridge, UK
 
 - *Summer School 2018 TrainMalta*: [**Epigenomics**](../../../20180726_TrainMalta_Unix_R//blob/master/README.md), 23rd - 27th July 2018, University of Malta 
