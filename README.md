@@ -19,9 +19,9 @@ This repository contains some of my recent teaching activities and training cour
 
 - *Course*: [**Data Carpentry**](https://tavareshugo.github.io/2018-06-28-cambridge/), 28th - 29th June 2018, [Bioinformatics training](https://training.csx.cam.ac.uk/bioinformatics/event/2463814), University of Cambridge, UK
 
-- *Workshop*: [**Data visualisation with R and ggplot2**](../../../20180531_DataVisualisationRggplot2_Wolfson_Cambridge/blob/master/README.Rmd), 31st May 2018, Skills for Academic Success, Wolfson College, University of Cambridge, UK
+- *Workshop*: [**Data visualisation with R and ggplot2**](../../../20180531_DataVisualisationRggplot2_Wolfson_Cambridge/blob/master/README.md), 31st May 2018, Skills for Academic Success, Wolfson College, University of Cambridge, UK
 
-- *Workshop*: [**An introduction to R**](../../../20180315_IntroductionToR_Wolfson_Cambridge/blob/master/README.Rmd), 15th March 2018, Skills for Academic Success, Wolfson College, University of Cambridge, UK
+- *Workshop*: [**An introduction to R**](../../../20180315_IntroductionToR_Wolfson_Cambridge/blob/master/README.md), 15th March 2018, Skills for Academic Success, Wolfson College, University of Cambridge, UK
 
 - *Session*: [**Make your academic life easy with ORCID: an introduction**](../../../20180223_ORCID_Chemistry_Cambridge/blob/master/README.md), 23rd February 2018, Department of Chemistry, University of Cambridge, UK
 
