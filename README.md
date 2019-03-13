@@ -5,6 +5,7 @@ This repository contains some of my recent teaching activities and training cour
 ### 2019
 
 - *Course*: [**ChIP-seq and ATAC-seq analysis**](https://www.training.cam.ac.uk/bioinformatics/event/2836139), 2nd-3rd May 2019, Bioinformatics Training Facility, University of Cambridge, UK
+- *Supervision*: [**Undergraduate training: NST Part II BBS Bioinformatics minor**](https://bioinfotraining.bio.cam.ac.uk/undergraduate), 14th January - 11th March 2019, University of Cambridge, UK
 
 
 ### 2018
