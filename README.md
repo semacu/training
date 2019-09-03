@@ -1,7 +1,5 @@
 ## Training
 
-This repository contains some of my recent teaching activities and training courses:
-
 ### 2019
 
 - *Course*: [**Data Science in Python**](https://training.vib.be/data-science-python), 2nd-3rd Sept 2019, VIB Bioinformatics core, Park Inn by Radisson, Leuven, Belgium ([materials](https://github.com/pycam/python-data-science))
