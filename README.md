@@ -2,7 +2,7 @@
 
 ### 2019
 
-- *Course*: [**Data Science in Python**](https://training.vib.be/data-science-python), 2nd-3rd Sept 2019, VIB Bioinformatics core, Park Inn by Radisson, Leuven, Belgium ([materials](https://github.com/pycam/python-data-science))
+- *Course*: [**Data Science in Python**](https://training.vib.be/data-science-python), 2nd-3rd Sept 2019, VIB Bioinformatics core, Leuven, Belgium ([materials](https://github.com/pycam/python-data-science))
 - *Course*: [**ChIP-seq and ATAC-seq analysis**](https://www.training.cam.ac.uk/bioinformatics/event/2836139), 2nd-3rd May 2019, Bioinformatics Training Facility, University of Cambridge, UK ([feedback](https://www.surveymonkey.com/results/SM-SSHSG2HBV/))
 - *Supervision*: [**Undergraduate training: NST Part II BBS Bioinformatics minor**](https://bioinfotraining.bio.cam.ac.uk/undergraduate), 14th January - 11th March 2019, University of Cambridge, UK
 
