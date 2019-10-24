@@ -2,6 +2,7 @@
 
 ### 2019
 
+- *Course*: [**ChIP-seq and ATAC-seq analysis**](https://www.training.cam.ac.uk/event/3049814), 23rd-24th Oct 2019, Bioinformatics Training Facility, University of Cambridge, UK
 - *Online workshop*: [**Introduction to GitHub**](../../../20190927_IntroductionGithub_HDRUK/blob/master/README.md), 27th Sept 2019, Health Data Research UK, Wellcome Trust, London, UK
 - *Course*: [**Data Science in Python**](https://training.vib.be/data-science-python), 2nd-3rd Sept 2019, VIB Bioinformatics core, Leuven, Belgium ([materials](https://github.com/pycam/python-data-science))
 - *Course*: [**ChIP-seq and ATAC-seq analysis**](https://www.training.cam.ac.uk/bioinformatics/event/2836139), 2nd-3rd May 2019, Bioinformatics Training Facility, University of Cambridge, UK ([feedback](https://www.surveymonkey.com/results/SM-SSHSG2HBV/))
